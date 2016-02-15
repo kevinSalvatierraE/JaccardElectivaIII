@@ -1,0 +1,4 @@
+Se basa en técnica de control de flujo parada-y-espera. Consiste en que el emisor transmite una trama y hasta que no recibe confirmación del receptor, no envía otra. Para que la retransmisión funcione se han añadido cuatro características al mecanismo básico de control de flujo:
+El dispositivo emisor mantiene una copia de la última trama enviada hasta que reciba un reconocimiento para la trama.
+Para identificar las tramas y los ACK se numeran alternativamente 0 y 1.
+Si se descubre un error en una trama de datos durante la transmisión, se devuelve una trama NAK. Las tramas NAK no están numeradas indican al emisor que retransmita la última trama enviada 
