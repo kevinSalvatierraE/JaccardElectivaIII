@@ -1,2 +1,8 @@
 
 instrucciones para la ejecucion del proyecto
+
+la carpeta leer contiene los documentos que deben ser leidos para proceder a buscar la similitud
+
+la clase lector del proyecto contiene la variable path en este se especifica la ruta de la carpeta leer
+
+la variable compara contiene la cadena de texto que se va a buscar en el conjunto de documentos dentro de la carpeta leer
