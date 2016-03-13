@@ -1,0 +1,18 @@
+Ciencias de la información (tecnología)
+Para otros usos de este término, véase ciencias de la información.
+Commons-emblem-question book orange.svg
+	Este artículo o sección necesita referencias que aparezcan en una publicación acreditada, como revistas especializadas, monografías, prensa diaria o páginas de Internet fidedignas. Este aviso fue puesto el 9 de enero de 2013.
+Puedes añadirlas o avisar al autor principal del artículo en su página de discusión pegando: {{subst:Aviso referencias|Ciencias de la información (tecnología)}} ~~~~
+
+Las ciencias de la información (information science en inglés) es una rama de la ciencia que estudia la práctica del procesamiento de información y la ingeniería de los sistemas de información. Tiene un fuerte vínculo con las ciencias de la computación.
+
+El campo estudia la estructura, algoritmos, comportamiento e interacciones de los sistemas naturales y artificiales que guardan, procesan, acceden a y comunican información. También desarrolla sus propios fundamentos conceptuales y teóricos y emplea fundamentos desarrollados en otros campos.
+
+En Ciencias de la Información, constituyen temas clave el estudio de los conceptos dato, información, conocimiento y sabiduría, a los cuales se los suele organizar bajo la forma de una pirámide de menor a mayor complejidad, ubicándose la sabiduría en el vértice, y los datos en la base.
+
+Como ejemplo, la altura de una montaña sería un dato, y cuando se lo combina con otros datos, como por ejemplo la temperatura media, la presión atmosférica, humedad, etc., constituye información, en este caso información meteorológica sobre el estado de la montaña, que permite definir si el clima es "favorable" o "desfavorable" para el ascenso. Cuando continuamos agregando grados de abstracción, llegamos al "conocimiento", que permite la toma de decisiones apropiadas para lograr un cierto fin. Como ejemplo, a pesar de tener una condición meteorológica favorable para el ascenso, alguien con conocimiento en el ascenso a montañas, tiene que integrar información de otras fuentes, como por ejemplo saber si se cuenta con el equipo y entrenamiento apropiado para el ascenso, etc. Si a este conocimiento específico agregamos un elemento de buena intención y consideración de abstracciones más abarcativas o completas, como tener en cuenta si el realizar este ascenso producirá un efecto positivo en la generación venidera de jóvenes, o por el contrario, los alentará a realizar actividades riesgosas, etc. podremos hablar de "sabiduria", que se refleja en la toma de decisiones acertadas, que producen un beneficio mayor sobre un potencial perjuicio.
+
+Desde la llegada de los ordenadores, los individuos y las organizaciones cada vez más procesan la información de manera digital. Esto ha llevado al estudio de la información que tiene aspectos computacionales, cognitivos y sociales, incluyendo el estudio del impacto social de las tecnologías de la información.
+Categoría:
+
+    Ciencias de la información

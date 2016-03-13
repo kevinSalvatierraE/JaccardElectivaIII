@@ -1,0 +1,39 @@
+luidodinámica
+Commons-emblem-question book orange.svg
+	Este artículo o sección necesita referencias que aparezcan en una publicación acreditada, como revistas especializadas, monografías, prensa diaria o páginas de Internet fidedignas. Este aviso fue puesto el 26 de abril de 2015.
+Puedes añadirlas o avisar al autor principal del artículo en su página de discusión pegando: {{subst:Aviso referencias|Fluidodinámica}} ~~~~
+
+Fluidodinámica es una sub-disciplina de la mecánica de los fluidos (entiéndase por fluidos tanto líquidos como gases). La fluidodinámica se ramifica en otras disciplinas como lo son: la aerodinámica y la hidrodinámica. La mecánica de fluidos tiene un gran rango de aplicaciones, incluyendo el cálculo de las fuerzas y los momentos que ocasionan el movimiento de los fluidos en problemas desde los más cotidianos hasta los más complejos. La palabra fluido incluye al agua, al aire, a las suspensiones (que es la forma como se presentan algunos medicamentos), y también al petróleo y sus derivados. Asimismo, la palabra dinámica incluye el movimiento junto a las fuerzas causantes del mismo.1
+
+El estudio de la dinámica de los fluidos ofrece una estructura sistemática para su estudio basándose en leyes empíricas y semi-empíricas. Estas leyes envuelven propiedades de los fluidos como lo son : temperatura, presión, densidad y velocidad y también funciones de espacio y tiempo.
+
+Índice
+
+    1 Objetivos
+    2 Ecuaciones de la Fluidodinámica
+    3 Terminología de la fluidodinámica
+    4 Referencias
+    5 Enlaces externos
+
+Objetivos
+
+Los objetivos del estudio de la fluidodinámica dependen del problema en concreto que se necesite resolver. Por ejemplo, cuando se analiza el flujo que ocurre al recubrir el papel, uno de los objetivos puede ser el de determinar las condiciones en las cuales el espesor de la película de recubrimiento que se ha formado es uniforme. También en la recuperación de petróleo, un problema puede ser la predicción de barriles de petróleo que pueden ser extraídos de un yacimiento. El estudio de los fluidos es muy extenso y es por ellos que ramas como la fluidodinámica tiene razón de ser.
+Ecuaciones de la Fluidodinámica
+
+Los principales axiomas de la fluidodinámica son: las leyes de conservación, específicamente, ley de la conservación de la masa, ley de la conservación del momento lineal (también conocida como segunda ley de Newton) y la ley de la conservación de la energía (también conocida como primera ley de la termodinámica). todas ellas son basadas en la mecánica clásica y fueron transformadas a la mecánica cuántica además se expresan según los Teoremas de transporte de Reynolds
+
+En la fluidodinámica se supone que los fluidos obedecen a la hipótesis de continuidad a pesar de que los fluidos están compuestos por moléculas que chocan entre si y con objetos sólidos. Por consiguiente, las propiedades como la densidad, presión, temperatura y velocidad son vistas como propiedades que contienen puntos infinitesimalmente pequeños que varían de un punto a otro. De esta forma el hecho de que los fluidos estén conformados por moléculas discretas, se ignora.
+Terminología de la fluidodinámica
+
+El concepto de presión es esencial en el estudio de la fluidodinámica, tanto en la estática como en la dinámica. La presión puede ser conocida en cualquier punto del fluido, independientemente si el fluido se encuentra en movimiento o no. Para medir la presión pueden utilizarse: columnas de mercurio, el tubo de Bourdon, placas de orificio, así como muchos otros métodos.
+Referencias
+
+    «Fluidodinámica». Consultado el 2009.
+
+Enlaces externos
+
+    Wikimedia Commons alberga contenido multimedia sobre Fluidodinámica.
+
+Categoría:
+
+    Dinámica de fluidos

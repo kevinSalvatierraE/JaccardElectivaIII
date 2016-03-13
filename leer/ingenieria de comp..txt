@@ -1,0 +1,99 @@
+Ingeniería en computación
+	Se ha sugerido que este artículo o sección sea fusionado en Ingeniería informática (discusión).
+Una vez que hayas realizado la fusión de artículos, pide la fusión de historiales aquí.
+	Se ha sugerido que este artículo o sección sea fusionado en Ingeniería en sistemas computacionales (discusión).
+Una vez que hayas realizado la fusión de artículos, pide la fusión de historiales aquí.
+Véase también: :en:computer engineering
+
+La Ingeniería en Computación se concentra en el estudio de situaciones susceptibles de automatizar, mediante el uso de sistemas de computación y componentes digitales; a fin de determinar la factibilidad técnica, la conveniencia operacional, la factibilidad económica y la evaluación de alternativas existentes para desarrollar la solución más adecuada.
+
+La ingeniería en computación se ocupa de la naturaleza y características de la información, su estructura y clasificación, su almacenamiento y recuperación y los diversos procesos a los que puede someterse en forma automatizada. Se interesa igualmente por las propiedades de las máquinas físicas que realizan estas operaciones para producir sistemas de procesamiento de datos eficientes. Trata todo lo relacionado con la utilización de computadoras digitales.
+
+La respuesta a las preguntas: ¿Qué es lo que puede ser eficientemente automatizado? y ¿Cómo se puede lograr eso de la mejor manera, sobre la base de los recursos disponibles?, compete a la ingeniería en computación.1
+
+Índice
+
+    1 Origen
+    2 Perfil profesional
+    3 Habilidades desarrolladas
+    4 Campo laboral
+    5 Área de especialización
+    6 Aplicaciones
+    7 Desarrollos de la ingeniería en computación
+    8 Véase también
+    9 Referencias
+
+Origen
+
+La historia de la computación puede remontarse a cientos de años atrás, cuando se creaban máquinas para ayudar en tareas de cálculos (como el ábaco). La primera calculadora mecánica fue creada en 1623 por Wilhelm Schickard, y Charles Babbage diseñó la máquina diferencial en la época victoriana. Todas las máquinas que se limitaban a realizar una sola tarea, o como mucho, algún subconjunto de todas las posibles tareas.
+
+Las nuevas y poderosas computadoras comenzaron a ser desarrolladas durante la década de los 40, que es también cuando comenzó a hacerse evidente que las computadoras podían usarse para mucho más que simples cálculos matemáticos.
+
+La masificación de la computación llegó de la mano de las computadoras personales a principios de los 80, y el acceso a la información mundial de la mano de internet, que comenzó su éxito en los 90.[cita requerida]
+
+Las ciencias de la computación tiene sus orígenes en 1920, cuando la palabra «computación» hacía referencia a los cálculos generados por la propia persona. Luego, con la llegada de las computadoras, la historia y el significado de este concepto se amplió, distinguiendo los algoritmos que forman parte del desarrollo de las soluciones.2
+Perfil profesional
+
+El ingeniero en computación representa una nueva perspectiva en el campo laboral, ya que abarca distintos aspectos de la electrónica y la informática. Sus funciones involucran de forma directa o indirecta el uso del computador, siendo ésta su herramienta fundamental de trabajo.
+
+En el área del hardware, podrá utilizar y adaptar el computador como una herramienta para el control de procesos industriales, realizando interfaces entre el sistema y el computador, de modo que sea posible el monitoreo de las tareas en tiempo real. Asimismo, estará dotado de un amplio conocimiento sobre sistemas automatizados basados en robótica, pudiendo diseñar circuitos de lógica digital para liberar al hombre de la realización de tediosos procesos repetitivos o de actividades que impliquen un riesgo para su vida.3
+
+Los ingenieros en computación son capaces de aplicar la tecnología de avanzada en la solución de los problemas y estrategias gerenciales, con el fin de utilizar todos los recursos eficazmente. Emplea sus conocimientos como herramienta para crear y modificar sistemas cibernéticos, además de evaluar, modificar, diseñar, actualizar y supervisar los sistemas de operación a fin de ofrecer óptimo servicio en cumplimiento de las necesidades ocasionadas por la dinámica de las organizaciones.4
+
+Es un profesional preparado en las áreas correspondientes a estructuras y sistemas de computación, estructuras y procesos de información, investigación operativa y modelos matemáticos.1
+
+Los ingenieros en computación tienen un entrenamiento extensivo en áreas de Ingeniería Eléctrica y ciencias en computación, que son combinaciones atractivas para los futuros contratantes y permiten al estudiante continuar sus estudios en instituciones de postgrado.5
+Habilidades desarrolladas
+
+    Analizar y diseñar sistemas de cómputo (hardware y software).
+    Evaluar alternativas de diseño para sistemas de cómputo y diseñar lenguajes de programación y traducción.
+    Producir el software y hardware correspondiente a las necesidades requeridas de la empresa.
+    Ligar las tecnologías de información con los procesos organizacionales y dirigir proyectos de alta tecnología.6
+
+Campo laboral
+
+El ingeniero en computación es un profesional capaz de actuar productivamente en equipos multidisciplinarios, donde demuestra habilidades para la autogestión y la cogestión, además de una conducta de liderazgo empresarial. Puede desempeñarse en las siguientes áreas:
+
+    Empresas, industrias e instituciones públicas y privadas que cuenten con o deseen implantar sistemas computarizados de información y control
+    Compañías para el servicio y mantenimiento de software y hardware para sistemas de información y equipos de computación
+    Industrias con aplicación de la robótica
+    Empresas de apoyo y soporte tecnológico para las telecomunicaciones
+    Corporaciones nacionales e internacionales especializadas en la instalación de redes de computadores a gran escala
+    Compañías de diseño, programación e implementación de software
+    Compañías asesoras de control de procesos industriales computarizados
+    Firmas y fundaciones públicas y privadas de investigación científica y tecnológica
+    Compañías productoras de bienes de consumo masivo
+    Empresas asociadas a la Ingeniería en Computación
+    Compañías petroleras e industrias en general
+    Instituciones de educación superior
+
+El ingeniero en computación puede desempeñarse en muchas áreas, debido a la gran flexibilidad que tiene la profesión; y es por esta razón que prácticamente cualquier organización de pequeña, mediana o mayor escala es una fuente de empleo para estos profesionales.4
+Área de especialización
+
+Su área de especialización es muy amplia pero se puede dividir en las siguientes áreas:
+
+    Ingeniería de redes de computadoras: donde analiza, diseña, implementa y desarrolla redes de comunicación, tanto de voz como de datos. En esta área realiza además la administración de las redes y ve por la seguridad de la información.
+
+    Sistemas de información: donde analiza, diseña, simula, implementa y optimiza sistemas de software para el manejo de la información, incluida la administración y seguridad de la misma. Los sistemas van desde bases de datos sencillas hasta aplicaciones de comercio electrónico.
+
+    Sistemas controlados por programas almacenados: donde analiza, diseña, simula, implementa y optimiza sistemas de hardware y software de uso específico en cualquier área de aplicación como lo son las telecomunicaciones y la instrumentación y control.
+
+Aplicaciones
+
+Actualmente, la ingeniería en computación se ha vuelto parte indispensable de la mayoría de las ciencias y de la vida cotidiana.
+
+A continuación, se listan algunas aplicaciones de la computación relacionadas a la informática:
+
+    algoritmos y programación
+    bases de datos
+    inteligencia artificial
+    red de computadoras
+    sistemas operativos
+
+Desarrollos de la ingeniería en computación
+
+La ingeniería en computación ha crecido y madurado en una carrera dinámica, ayudando a propulsar la ola de crecimiento tecnológico en el mundo.
+
+Algunos de los más recientes desarrollos en la ingeniería en computación incluyen aplicaciones digitales y de microcomputadores, procesamiento de señales digitales, procesamiento de imágenes, telecomunicaciones, arquitectura de computadoras, compatibilidad electromagnética y visión computacional.
+
+Estas áreas son enfatizadas al igual que el diseño de sistemas digitales, diseño de sistemas embebidos, sistemas operativos, y otros temas más convencionales en Ingeniería en Computación. Hay énfasis en el uso extensivo del computador como herramienta para análisis matemático, diseño, análisis de información e instrumentación. La naturaleza repetitiva del ciclo de diseño y la necesidad de realizar simultáneamente la documentación y el desarrollo se enfatizan durante los proyectos en equipo.5

@@ -1,0 +1,71 @@
+Teoría de la computación
+Spanish Language Wiki.svg
+	Este artículo o sección necesita ser wikificado con un formato acorde a las convenciones de estilo.
+Por favor, edítalo para que las cumpla. Mientras tanto, no elimines este aviso, puesto el 30 de abril de 2014.
+También puedes ayudar wikificando otros artículos o cambiando este cartel por uno más específico.
+
+
+La teoría de la computación es un conjunto de conocimientos racionales, sistematizados y funcionales que se centran en el estudio de la abstracción de los procesos que ocurren en la realidad con el fin de reproducirlos con ayuda de sistemas formales, es decir, a través de códigos de caracteres e instrucciones lógicas, reconocibles por el ser humano, con capacidad de ser modeladas en las limitaciones de dispositivos que procesan información y que efectúan cálculos como, por ejemplo, el ordenador. Para ello, se apoya en la teoría de autómatas, a fin de simular y estandarizar dichos procesos, así como para formalizar los problemas y darles solución.[cita requerida]
+
+Índice
+
+    1 Principales subramas
+        1.1 Teoría de autómatas
+        1.2 Teoría de la computabilidad
+        1.3 Teoría de la complejidad computacional
+    2 Otras subramas
+    3 Historia
+    4 Referencias
+
+Principales subramas
+Teoría de autómatas
+Artículo principal: Teoría de autómatas
+
+Esta teoría provee modelos matemáticos que formalizan el concepto de computadora o algoritmo de manera suficientemente simplificada y general para que se puedan analizar sus capacidades y limitaciones. Algunos de estos modelos juegan un papel central en varias aplicaciones de las ciencias de la computación, incluyendo procesamiento de texto, compiladores, diseño de hardware e inteligencia artificial.
+
+Existen muchos otros tipos de autómatas como las máquinas de acceso aleatorio, autómatas celulares, máquinas ábaco y las máquinas de estado abstracto; sin embargo en todos los casos se ha mostrado que estos modelos no son más generales que la máquina de Turing, pues la máquina de Turing tiene la capacidad de simular cada uno de estos autómatas. Esto da lugar a que se piense en la máquina de Turing como el modelo universal de computadora.
+Teoría de la computabilidad
+Artículo principal: Teoría de la computabilidad
+Véase también: Indecidibilidad
+
+Esta teoría explora los límites de la posibilidad de solucionar problemas mediante algoritmos. Gran parte de las ciencias computacionales están dedicadas a resolver problemas de forma algorítmica, de manera que el descubrimiento de problemas imposibles es una gran sorpresa. La teoría de la computabilidad es útil para no tratar de resolver algoritmicamente estos problemas, ahorrando así tiempo y esfuerzo.
+
+Los problemas se clasifican en esta teoría de acuerdo a su grado de imposibilidad:
+
+    Los computables son aquellos para los cuales sí existe un algoritmo que siempre los resuelve cuando hay una solución y además es capaz de distinguir los casos que no la tienen. También se les conoce como decidibles, resolubles o recursivos.
+    Los semicomputables son aquellos para los cuales hay un algoritmo que es capaz encontrar una solución si es que existe, pero ningún algoritmo que determine cuando la solución no existe (en cuyo caso el algoritmo para encontrar la solución entraría a un bucle infinito). El ejemplo clásico por excelencia es el problema de la parada. A estos problemas también se les conoce como listables, recursivamente enumerables o reconocibles, porque si se enlistan todos los casos posibles del problema, es posible reconocer a aquellos que sí tienen solución.
+    Los incomputables son aquellos para los cuales no hay ningún algoritmo que los pueda resolver, no importando que tengan o no solución. El ejemplo clásico por excelencia es el problema de la implicación lógica, que consiste en determinar cuándo una proposición lógica es un teorema; para este problema no hay ningún algoritmo que en todos los casos pueda distinguir si una proposición o su negación es un teorema.
+
+Hay una versión más general de esta clasificación, donde los problemas incomputables se subdividen a su vez en problemas más difíciles que otros. La herramienta principal para lograr estas clasificaciones es el concepto de reducibilidad: Un problema A se reduce al problema B si bajo la suposición de que se sabe resolver el problema B es posible resolver al problema A; esto se denota por A\le_t B, e informalmente significa que el problema A no es más difícil de resolver que el problema B. Por ejemplo, bajo la suposición de que una persona sabe sumar, es muy fácil enseñarle a multiplicar haciendo sumas repetidas, de manera que multiplicar se reduce a sumar.
+Teoría de la complejidad computacional
+Artículo principal: Complejidad computacional
+Véase también: Clase de complejidad
+
+Aun cuando un problema sea computable, puede que no sea posible resolverlo en la práctica si se requiere mucha memoria o tiempo de ejecución. La teoría de la complejidad computacional estudia las necesidades de memoria, tiempo y otros recursos computacionales para resolver problemas; de esta manera es posible explicar por qué unos problemas son más difíciles de resolver que otros. Uno de los mayores logros de esta rama es la clasificación de problemas, similar a la tabla periódica, de acuerdo a su dificultad. En esta clasificación los problemas se separan por clases de complejidad.
+
+Esta teoría tiene aplicación en casi todas las áreas de conocimiento donde se desee resolver un problema computacionalmente, porque los investigadores no solo desean utilizar un método para resolver un problema, sino utilizar el más rápido. La teoría de la complejidad computacional también tiene aplicaciones en áreas como la criptografía, donde se espera que descifrar un código secreto sea un problema muy difícil a menos que se tenga la contraseña, en cuyo caso el problema se vuelve fácil.
+Otras subramas
+
+    Modelos de cómputo Estudia abstracciones de hacer un cómputo. Aquí se incluyen los clásicos modelos de la teoría de autómatas además de otros modelos como funciones recursivas, cálculo lambda e inclusive lenguajes de programación.
+    Teoría algorítmica de la información Centra su atención en la complejidad para describir algoritmicamente una secuencia de datos (cadena); aquí la complejidad está medida por la longitud de su descripción más pequeña.
+    Especificación y verificación formal Busca metodologías para garantizar que un problema esté correctamente modelado y sistemas formales para validar la corrección de la solución algorítmica.
+    La Teoría del aprendizaje computacional busca algoritmos que hagan que las computadoras modifiquen sus comportamientos de manera autónoma con base en datos empíricos, y concretamente en ejemplos y contraejemplos. A este tipo de aprendizaje se le llama aprendizaje supervisado. De forma análoga a la teoría de la complejidad computacional, en esta teoría las funciones se clasifican por su grado de dificultad de ser aprendidas.
+    Teoría de tipos Busca la clasificación de enunciados de acuerdo a los tipos de valores que calculan utilizando herramientas de teoría de lenguajes formales.
+
+Historia
+Véanse también: Entscheidungsproblem y Tesis de Church-Turing.
+
+La teoría de la computación comienza propiamente a principios del siglo XX, poco antes que las computadoras electrónicas fuesen inventadas. En esta época varios matemáticos se preguntaban si existía un método universal para resolver todos los problemas matemáticos. Para ello debían desarrollar la noción precisa de método para resolver problemas, es decir, la definición formal de algoritmo.
+
+Algunos de estos modelos formales fueron propuestos por precursores como Alonzo Church (cálculo Lambda), Kurt Gödel (funciones recursivas) y Alan Turing (máquina de Turing). Se ha mostrado que estos modelos son equivalentes en el sentido de que pueden simular los mismos algoritmos, aunque lo hagan de maneras diferentes. Entre los modelos de cómputo más recientes se encuentran los lenguajes de programación, que también han mostrado ser equivalentes a los modelos anteriores; esto es una fuerte evidencia de la conjetura de Church-Turing, de que todo algoritmo habido y por haber se puede simular en una máquina de Turing, o equivalentemente, usando funciones recursivas. En 2007 Nachum Dershowitz y Yuri Gurevich publicaron una demostración de esta conjetura basándose en cierta axiomatización de algoritmos.1
+
+Uno de los primeros resultados de esta teoría fue la existencia de problemas imposibles de resolver algoritmicamente, siendo el problema de la parada el más famoso de ellos. Para estos problemas no existe ni existirá ningún algoritmo que los pueda resolver, no importando la cantidad de tiempo o memoria se disponga en una computadora. Asimismo, con la llegada de las computadoras modernas se constató que algunos problemas resolubles en teoría eran imposibles en la práctica, puesto que dichas soluciones necesitaban cantidades irrealistas de tiempo o memoria para poderse encontrar.....
+Referencias
+
+    Nachum Dershowitz & Yuri Gurevich (2008). «A natural axiomatization of computability and proof of Church's Thesis». Bulletin of Symbolic Logic 14 (3). ISSN 10798986, 299-350.
+
+    Sipser, Michael (2005). Introduction to the Theory of Computation (2 edición). Course Technology. ISBN 978-0534950972.
+    Kelley, Dean (1995). Teoría de autómatas y lenguajes formales. Prentice Hall. ISBN 978-0-691-13382-9.
+    Boolos, George; Burgess, John; & Jefrey, Richard (2007). Computability and Logic. Cambridge. ISBN 978-0-521-70146-4.
+    S. Barry Cooper (2004). Computability Theory. Chapman & Hall/CRC. ISBN 1-58488-237-9.
+    Sección 68Qxx, Theory of computing de American Mathematical Society. «2010 Mathematics Subject Classification.». Consultado el 7 de marzo de 2010.

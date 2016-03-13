@@ -1,0 +1,29 @@
+Física de la materia condensada
+Celda hexagonal del niobato de litio.
+
+La física de la materia condensada es el campo de la física que se ocupa de las características físicas macroscópicas de la materia. En particular, se refiere a las fases “condensadas” que aparecen siempre en que el número de constituyentes en un sistema sea extremadamente grande y que las interacciones entre los componentes sean fuertes. Los ejemplos más familiares de fases condensadas son los sólidos y los líquidos, que surgen a partir de los enlaces y uniones causados por interacciones electromagnéticas entre los átomos. Entre las fases condensadas más exóticas se cuentan las fases superfluidas y el condensado de Bose-Einstein, que se encuentran en ciertos sistemas atómicos sometidos a temperaturas extremadamente bajas, la fase superconductora exhibida por los electrones de la conducción en ciertos materiales, y las fases ferromagnética y antiferromagnética de espines en redes atómicas.
+
+La física de la materia condensada es sin duda el campo más extenso de la física contemporánea. Un enorme progreso ha sido realizado en la rama teórica de la física de la materia condensada. Como estimación, un tercio de todos los físicos norteamericanos se identifica a sí mismo como físicos trabajando en temas de la materia condensada. Históricamente, dicho campo nació a partir de la física del estado sólido, que ahora es considerado como uno de sus subcampos principales. El término física condensada de la materia fue acuñado, al parecer, por Philip Anderson, cuando renombró a su grupo de investigación - hasta entonces teoría del estado sólido - (1967). En 1978, la División de Física del Estado Sólido de la American Physical Society fue renombrada como División de Física de Materia Condensada. El campo de estudio de la física de la materia condensada tiene una gran superposición con áreas de estudio de la química, la ciencia de materiales, la nanotecnología y la ingeniería.
+
+Una de las razones para que la física de materia condensada reciba tal nombre es que muchos de los conceptos y técnicas desarrollados para estudiar sólidos se aplican también a sistemas fluidos. Por ejemplo, los electrones de conducción en un conductor eléctrico forman un tipo de líquido cuántico que tiene esencialmente las mismas características que un fluido conformado por átomos. De hecho, el fenómeno de la superconductividad, en el cual los electrones se condensan en una nueva fase fluida en la cual puedan fluir sin disipación, presenta una gran analogía con la fase superfluida que se encuentra en el helio-3 a muy bajas temperaturas.
+Temas de física de materia condensada
+
+    Fases:
+        Fases genéricas: gas; líquido; sólido.
+        Fases a baja temperatura: condensado de Bose-Einstein; gas de Fermi; líquido de Fermi; condensado fermiónico; líquido de Luttinger; superfluido; compuestos de Fermiones; supersólido.
+        Fenómenos de cambio de fase: parámetro de orden; transición de fase; curva de enfriamiento
+
+    Sólidos cristalinos:
+        Tipos: aislante; metal; semiconductor; semimetal; cuasicritales
+        Características electrónicas: band gap; onda de Bloch; banda de conducción; masa efectiva; conducción eléctrica; hueco electrónico; banda de valencia
+        Fenómenos electrónicos: efecto Kondo; plasmón; efecto Hall cuántico; superconductividad; cristal de Wigner; termoelectricidad
+        Fenómenos de redes: antiferromagnetismo; ferromagnetismo; magnón; fonón; vidrio de espínes; defecto topológico
+
+    Materia blanda:
+        Tipos: sólido amorfo; materia granular; cristal líquido; polímero.
+
+    Nanotecnología:
+        Sistemas de Nanoelectromecánica (NEMS).
+        Microscopia de fuerza de resonancia magnética.
+        Transporte del calor en sistemas nanoscópicos.
+        Transporte de espín.

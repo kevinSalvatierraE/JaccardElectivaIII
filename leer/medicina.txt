@@ -1,0 +1,325 @@
+Medicina
+Para la localidad italiana, véase Medicina (Italia).
+Estatua de Asclepio, dios de la Medicina en la mitología griega. Glypotek, Copenhague.
+
+La medicina (del latín medicina, derivado a su vez de mederi, que significa 'curar', 'medicar' )1 es la ciencia dedicada al estudio de la vida, la salud, las enfermedades y la muerte del ser humano, e implica ejercer tal conocimiento técnico para el mantenimiento y recuperación de la salud, aplicándolo al diagnóstico, tratamiento y prevención de las enfermedades. La medicina forma parte de las denominadas ciencias de la salud.
+
+Índice
+
+    1 Historia
+        1.1 Báculo de Asclepio o Esculapio
+    2 Fines de la Medicina
+    3 Práctica de la medicina
+        3.1 Agentes de salud
+        3.2 Relación médico-paciente
+        3.3 Sistema sanitario y salud pública
+    4 Ética médica
+    5 Especialidades médicas
+    6 Sociedades científicas
+    7 Colegios de médicos
+    8 Formación universitaria
+        8.1 Competencias básicas de un estudiante de medicina
+        8.2 Materias básicas
+        8.3 Materias relacionadas
+        8.4 En España
+    9 Controversias
+    10 Véase también
+    11 Referencias
+    12 Enlaces externos
+
+Historia
+Artículo principal: Historia de la medicina
+
+La medicina tuvo sus comienzos en la prehistoria, la cual también tiene su propio campo de estudio conocido como "Antropología médica"; se utilizaban plantas, minerales y partes de animales, en la mayoría de las veces estas sustancias eran utilizadas en rituales mágicos por chamanes, sacerdotes, magos, brujos, animistas, espiritualistas o adivinos.2
+Pintura mural que representa a Galeno e Hipócrates. Siglo XII, Anagni (Italia).
+
+Los datos antiguos encontrados muestran la medicina en diferentes culturas como la medicina Ayurveda de la India, el antiguo Egipto, la antigua China y Grecia. Uno de los primeros reconocidos personajes históricos es Hipócrates quien es también conocido como el padre de la medicina, Aristóteles; supuestamente descendiente de Asclepio, por su familia: los Asclepíades; y Galeno. Posteriormente a la caída de Roma en la Europa Occidental la tradición médica griega disminuyó.
+
+Después de 750 d. C., los musulmanes tradujeron los trabajos de Galeno y Aristóteles al arábigo por lo cual los doctores Islámicos se indujeron en la investigación médica. Cabe mencionar algunas figuras islámicas importantes como Avicena que junto con Hipócrates se le ha sido mencionado también como el padre de la medicina, Abulcasis el padre de la cirugía, Avenzoar el padre de la cirugía experimental, Ibn al-Nafis padre de la fisiología circulatoria, Averroes y Rhazes llamado padre de la pediatría. Ya para finales de la Edad Media posterior a la peste negra, importantes figuras médicas emergieron de Europa como William Harvey y Grabiele Fallopio.3
+
+En el pasado la mayor parte del pensamiento médico se debía a lo que habían dicho anteriormente otras autoridades y se veía del modo tal que si fue dicho permanecía como la verdad. Esta forma de pensar fue sobre todo sustituida entre los siglos XIV y XV d. C., tiempo de la pandemia de la "Peste negra.4
+
+Asimismo, durante los siglos XV y XVI, una parte de la medicina, la anatomía sufrió un gran avance gracias a la aportación del genio renacentista Leonardo Da Vinci, quien proyecto junto con Marcantonio Della Torre (1481-1511); un médico anatomista de Pavia; uno de los primeros y fundamentales tratados de anatomía, denominado Il libro dell'Anatomia. Aunque la mayor parte de las más de 200 ilustraciones sobre el cuerpo humano que realizó Leonardo Da Vinci para este tratado desaparecieron, se pueden observar algunas de las que sobrevivieron en su Tratado sobre la pintura.5
+Edward Jenner, descubridor de la vacuna de la viruela. En 1980 la OMS declaró erradicada a esta enfermedad.
+
+Investigaciones biomédicas premodernas desacreditaron diversos métodos antiguos como el de los "cuatro humores6 " de origen griego; es en el siglo XIX, con los avances de Leeuwenhoek con el microscopio y descubrimientos de Robert Koch de las transmisiones bacterianas, cuando realmente se vio el comienzo de la medicina moderna. A partir del siglo XIX se vieron grandes cantidades de descubrimientos como el de los antibióticos que fue un gran momento para la medicina; personajes tales como Rudolf Virchow, Wilhelm Conrad Röntgen, Alexander Fleming, Karl Landsteiner, Otto Loewi, Joseph Lister, Francis Crick, Florence Nightingale, Maurice Wilkins, Howard Florey, Frank Macfarlane Burnet, William Williams Keen, William Coley, James D. Watson, Salvador Luria, Alexandre Yersin, Kitasato Shibasaburo, Jean-Martin Charcot, Luis Pasteur, Claude Bernard, Paul Broca, Nikolái Korotkov, William Osler y Harvey Cushing como los más importantes entre otros.
+
+Mientras la medicina y la tecnología se desarrollaban, comenzó a volverse más confiable, como el surgimiento de la farmacología de la herbolaria hasta la fecha diversos fármacos son derivados de plantas como la atropina, warfarina, aspirina, digoxina, taxol etc.; de todas las descubiertas primero fue la arsfenamina descubierta por Paul Ehrlich en 1908 después de observar que las bacterias morían mientras las células humanas no lo hacían.
+
+Las primeras formas de antibióticos fueron las drogas sulfas. Actualmente los antibióticos se han vuelto muy sofisticados. Los antibióticos modernos puede atacar localizaciones fisiológicas específicas, algunas incluso diseñadas con compatibilidad con el cuerpo para reducir efectos secundarios.
+
+Las vacunas por su parte fueron descubiertas por el Dr. Edward Jenner al ver que las ordeñadoras de vacas que contraían el virus de vaccinia al tener contacto con las pústulas eran inmunes a la viruela, lo que constituye el comienzo de la vacunación. Años después Louis Pasteur le otorgó el nombre de vacuna en honor al trabajo de Edward Jenner con las vacas.
+
+Actualmente el conocimiento sobre el genoma humano ha empezado a tener una gran influencia sobre ella, razón por la que se han identificado varios padecimientos ligados a un gen en específico en el cual la Biología celular y la Genética se enfocan para la administración en la práctica médica, aun así, estos métodos aún están en su infancia.
+Báculo de Asclepio o Esculapio
+Báculo de Asclepio símbolo de la Medicina.
+
+El báculo de Asclepio es utilizado como el símbolo mundial de la medicina. Se trata de una vara con una serpiente enrollada, representando al dios griego Asclepio, o Esculapio para los romanos. Este símbolo es utilizado por organizaciones como la Organización Mundial de la Salud (OMS),7 la Asociación Americana Médica y de Osteopatía,8 la Asociación Australiana y Británica Médica9 y diversas facultades de medicina en todo el mundo que igualmente incorporan esta insignia.
+Fines de la Medicina
+
+La Medicina debe aspirar a ser honorable y dirigir su propia vida profesional; ser moderada y prudente; ser asequible y económicamente sostenible; ser justa y equitativa; y a respetar las opciones y la dignidad de las personas. Los valores elementales de la Medicina contribuyen a preservar su integridad frente a las presiones políticas y sociales que defienden unos fines ajenos o anacrónicos. Los fines de la Medicina son:
+
+    La prevención de enfermedades y lesiones y la promoción y la conservación de la salud;
+
+son valores centrales, la prevención porque es de sentido común que es preferible prevenir la enfermedad o daño a la salud , cuando ello sea posible. En la promoción; Un propósito de la medicina es ayudar a la gente a vivir de manera más armónica con el medio, un objetivo que debe ser perseguido desde el inicio de la vida y hasta su final.
+
+    El alivio del dolor y el sufrimiento causados por males.
+
+El alivio del dolor y del sufrimiento se cuentan entre los deberes más esenciales del médico y constituye uno de los fines tradicionales de la medicina.
+
+    La atención y curación de los enfermos y los cuidados a los incurables.
+
+la medicina responde buscando una causa de enfermedad, cuando esto resulta posible la medicina busca curar la enfermedad y restituir el estado de bienestar y normalidad funcional del paciente.El cuidado es la capacidad para conversar y para escuchar de una manera que esté también al tanto de los servicios sociales y redes de apoyo para ayudar a enfermos y familiares.
+
+    La evitación de la muerte prematura y la búsqueda de una muerte tranquila.
+
+La medicina, en su contra la muerte, asume como una meta correcta y prioritaria disminuir las muertes prematuras, se trata de considerar como deber primario de la medicina contribuir a que los jóvenes lleguen a la vejez y, cuando ya se ha alcanzado a esa etapa, ayudar a que los ancianos vivan el resto de sus vidas en condiciones de bienestar y dignidad. 10
+
+Los fines erróneos de la Medicina son:
+
+    El uso incorrecto de las técnicas y los conocimientos médicos.
+    El empleo de información sobre salud pública para justificar la coerción antidemocrática de grandes grupos de personas para que cambien sus comportamientos “insanos”.
+    La medicina no puede consistir en el bienestar absoluto del individuo, más allá de su buen estado de salud.
+    Tampoco corresponde a la medicina definir lo que es el bien general para la sociedad.10
+
+Práctica de la medicina
+Agentes de salud
+Artículo principal: Médico
+
+La medicina no es solo un cuerpo de conocimientos teórico-prácticos, también es una disciplina que idealmente tiene fundamento en un trípode:
+
+    El médico, como agente activo en el proceso sanitario;
+    El enfermo, como agente pasivo, por ello es "paciente"
+    La entidad nosológica, la enfermedad que es el vehículo y nexo de la relación médico-paciente.
+
+La práctica de la medicina, encarnada en el médico, combina tanto la ciencia como el arte de aplicar el conocimiento y la técnica para ejercer un servicio de salud en el marco de la relación médico-paciente. En relación al paciente, en el marco sanitario, se establecen análogamente también vínculos con otros agentes de salud (enfermeros, farmacéuticos, fisiatras, etc.) que intervienen en el proceso.
+Relación médico-paciente
+Artículo principal: Relación médico-paciente
+
+El médico, durante la entrevista clínica, transita un proceso junto con el paciente, donde necesita:
+
+    Establecer un vínculo de confianza y seguridad con el paciente (y su entorno también);
+    Recopilar información sobre la situación del paciente haciendo uso de diferentes herramientas (entrevista y anamnesis, historia clínica, examen físico, interconsulta, análisis complementarios, etc.);
+    Organizar, analizar y sintetizar esos datos (para obtener orientación diagnóstica);
+    Diseñar un plan de acción en función de los procesos previos (tratamiento, asesoramiento, etc);
+    Informar, concienciar y tratar al paciente adecuadamente (implica también acciones sobre su entorno);
+    Reconsiderar el plan en función del progreso y los resultados esperados según lo planificado (cambio de tratamiento, suspensión, acciones adicionales, etc.);
+    Dar el alta al momento de resolución de la enfermedad (cuando sea posible), sino propender a medidas que permitan mantener el estatus de salud (recuperación, coadyuvantes, paliativos, etc.).
+
+Toda consulta médica debe ser registrada en un documento conocido como historia clínica, documento con valor legal, educacional, informativo y científico, donde consta el proceder del profesional médico.
+Sistema sanitario y salud pública
+Artículo principal: Sistemas de asistencia sanitaria
+Artículo principal: Sector salud
+
+La práctica de la medicina se ejerce dentro del marco económico, legal y oficial del sistema médico que es parte de los sistemas nacionales de salud pública (políticas sanitarias estatales). Las características bajo las cuales se maneja el sistema sanitario en general y el órgano médico en particular ejercen un efecto significativo sobre cómo el servicio de salud, y la atención sanitaria puede ser aprovechada por la población general.
+
+Una de las variables más importantes para el funcionamiento del sistema se corresponde con el área financiera y el presupuesto que un Estado invierte en materia de salud. Otra variable implica los recursos humanos que articulan las directivas del sistema sanitario.
+
+La otra cara de la moneda en materia de atención médica está dada por el servicio privado de salud. Los honorarios y costos del servicio sanitario corren por cuenta del contratista, siendo de esta forma un servicio generalmente restringido a las clases económicamente solventes. Existen no obstante contratos de seguro médico que permiten acceder a estos servicios sanitarios privados; son, fundamentalmente, de dos tipos:
+
+    De cuadro médico: aquellos en los que se accede a los servicios sanitarios de una entidad privada (a su red de médicos y hospitales) pagando una prima mensual y, en ocasiones, un copago por cada tratamiento o consulta al que se accede.
+    De reembolso: aquellos en los que se accede a cualquier médico u hospital privado y, a cambio de una prima mensual y con unos límites de reembolso, el seguro devuelve un porcentaje de los gastos derivados del tratamiento.
+
+Ética médica
+Artículo principal: Ética médica
+
+La ética es la encargada de discutir y fundamentar reflexivamente ese conjunto de principios o normas que constituyen nuestra moral. La deontología médica es el conjunto de principios y reglas éticas que han de inspirar y guiar la conducta profesional del médico. Los deberes que se imponen obligan a todos los médicos en el ejercicio de su profesión, independientemente de la modalidad.11
+Especialidades médicas
+Artículo principal: Especialidades médicas
+
+    Alergología
+    Análisis clínicos
+    Anatomía patológica
+    Anestesiología y reanimación
+    Angiología y cirugía vascular
+    Bioquímica clínica
+    Cardiología
+    Cirugía cardiovascular
+    Cirugía general y del aparato digestivo
+    Cirugía oral y maxilofacial
+    Cirugía ortopédica y traumatología
+    Cirugía pediátrica
+    Cirugía plástica
+    Cirugía torácica
+    Dermatología
+    Endocrinología y nutrición
+    Epidemiología
+    Estomatología y Odontología
+    Farmacología clínica
+    Gastroenterología
+    Genética
+    Geriatría
+    Ginecología
+    Hebiatría
+    Hematología
+    Hepatología
+    Hidrología médica
+    Infectología
+    Inmunología
+    Medicina de emergencia
+    Medicina del sueño
+    Medicina del trabajo
+    Medicina deportiva
+    Medicina familiar y comunitaria
+    Medicina física y rehabilitación
+    Medicina forense
+    Medicina intensiva
+    Medicina interna
+    Medicina nuclear
+    Medicina preventiva
+    Microbiología y parasitología
+    Nefrología
+    Neonatología
+    Neumología
+    Neurocirugía
+    Neurofisiología clínica
+    Neurología
+    Obstetricia
+    Oftalmología
+    Otorrinolaringologo
+    Oncología médica
+    Oncología radioterápica
+    Otorrinolaringología
+    Pediatría
+    Proctología
+    Psiquiatría
+    Radiología o Radiodiagnóstico
+    Reumatología
+    Salud pública
+    Traumatología
+    Toxicología
+    Urología
+    Ingeniería biomédica
+
+    Medicina Forense
+
+Sociedades científicas
+
+Los médicos se agrupan en sociedades o asociaciones científicas, que son organizaciones sin fines de lucro, donde se ofrece formación médica continuada en sus respectivas especialidades, y se apoyan los estudios de investigación científica.
+Colegios de médicos
+Artículo principal: Colegios de médicos
+
+Un Colegio Médico es una asociación gremial que reúne a los médicos de un entorno geográfico concreto o por especialidades. Actúan como salvaguarda de los valores fundamentales de la profesión médica: la deontología y el código ético. Además de llevar la representación en exclusiva a nivel nacional e internacional de los médicos colegiados, tiene como función la ordenación y la defensa de la profesión médica. En la mayoría de los países la colegiación suele ser obligatoria.12
+Formación universitaria
+Artículo principal: Facultad de medicina
+
+La educación médica, lejos de estar estandarizada, varía considerablemente de país a país. Sin embargo, la educación para la formación de profesionales médicos implica un conjunto de enseñanzas teóricas y prácticas generalmente organizadas en ciclos que progresivamente entrañan mayor especialización.
+Competencias básicas de un estudiante de medicina
+
+Las cualidades y motivaciones iniciales que debe poseer un estudiante de Medicina son:13
+
+    Interés por las ciencias de la salud
+    Organizador de acciones a largo plazo
+    Habilidad en la manipulación precisa de instrumentos
+    Capacidad de servicio y relación personal
+    Sentido de la ética y la responsabilidad
+    Personalidad inquieta y crítica, con ganas de renovar planteamientos y actitudes
+    Motivación para desarrollar actividades médicas.
+
+Materias básicas
+
+La siguiente es una lista de las materias básicas de formación en la carrera de medicina:
+
+    Anatomía humana: es el estudio de la estructura física (morfología macroscópica) del organismo humano.
+    Anatomía patológica: estudio de las alteraciones morfológicas que acompañan a la enfermedad.
+    Bioestadística: aplicación de la estadística al campo de la medicina en el sentido más amplio; los conocimientos de estadística son esenciales en la planificación, evaluación e interpretación de la investigación.
+    Bioética: campo de estudio que concierne a la relación entre la biología, la ciencia la medicina y la ética.
+    Biofísica: es el estudio de la biología con los principios y métodos de la física.
+    Biología: ciencia que estudia los seres vivos.
+    Bioquímica: estudio de la química en los organismos vivos, especialmente la estructura y función de sus componentes.
+    Cardiología: estudio de las enfermedades del corazón y del sistema cardiovascular.
+    Citología (o biología celular): estudio de la célula en condiciones fisiológicas.
+    Dermatología: estudio de las enfermedades de la piel y sus anexos.
+    Embriología: estudio de las fases tempranas del desarrollo de un organismo.
+    Endocrinología: estudio de las enfermedades de las glándulas endócrinas.
+    Epidemiología clínica: El uso de la mejor evidencia y de las herramientas de la medicina basada en la evidencia (MBE) en la toma de decisiones a la cabecera del enfermo.
+    Farmacología: es el estudio de los fármacos y su mecanismo de acción.
+    Fisiología: estudio de las funciones normales del cuerpo y su mecanismo íntimo de regulación.
+    Gastroenterología: estudio de las enfermedades del tubo digestivo y glándulas anexas.
+    Genética: estudio del material genético de la célula.
+    Ginecología y obstetricia: estudio de las enfermedades de la mujer, el embarazo y sus alteraciones.
+    Histología: estudio de los tejidos en condiciones fisiológicas.
+    Historia de la medicina: estudio de la evolución de la medicina a lo largo de la historia.
+    Neumología: estudio de las enfermedades del aparato respiratorio.
+    Neurología: estudio de las enfermedades del sistema nervioso.
+    Otorrinolaringología: estudio de las enfermedades de oídos, naríz y garganta.
+    Patología: estudio de las enfermedades en su amplio sentido, es decir, como procesos o estados anormales de causas conocidas o desconocidas. La palabra deriva de pathos, vocablo de muchas acepciones, entre las que están: «todo lo que se siente o experimenta, estado del alma, tristeza, pasión, padecimiento, enfermedad». En la medicina, pathos tiene la acepción de «estado anormal duradero como producto de una enfermedad», significado que se acerca al de «padecimiento».
+    Patología médica: una de las grandes ramas de la medicina. Es el estudio de las patologías del adulto y tiene múltiples subespecialidades que incluyen la cardiología, la gastroenterología, la nefrología, la dermatología y muchas otras.
+    Patología quirúrgica: incluye todas las especialidades quirúrgicas de la medicina: la cirugía general, la urología, la cirugía plástica, la cirugía cardiovascular y la ortopedia entre otros.
+    Pediatría: estudio de las enfermedades que se presentan en los niños y adolescentes.
+    Psicología médica: estudio desde el punto de vista de la medicina de las alteraciones psicológicas que acompañan a la enfermedad.
+    Psiquiatría: estudio de las enfermedades de la mente.
+    Semiología clínica: estudia los síntomas y los signos de las enfermedades, como se agrupan en síndromes, con el objetivo de construir el diagnóstico. Utiliza como orden de trabajo lo conocido como método clínico. Este método incluye el interrogatorio, el examen físico, el análisis de los estudios de laboratorio y de Diagnóstico por imágenes. El registro de esta información se conoce como Historia Clínica.
+    Traumatología y ortopedia: estudio de las enfermedades traumáticas (accidentes) y alteraciones del aparato musculoesquelético.
+
+Materias relacionadas
+
+    Antropología médica: estudia las formas antiguas y actuales de curación en diferentes comunidades, que no necesariamente siguen lo establecido por la medicina basada en conocimientos occidentales e institucionalizados. Se analizan las influencias de los distintos usos y costumbres de las comunidades para la toma de decisiones respecto al mejoramiento y prevención de la salud y al tratamiento de las enfermedades.
+    Fisioterapia: es el arte y la ciencia de la prevención, tratamiento y recuperación de enfermedades y lesiones mediante el uso de agentes físicos, tales como el masaje, el agua, el movimiento, el calor o la electricidad.
+    Logopedia: es una disciplina que engloba el estudio, prevención, evaluación, diagnóstico y tratamiento de las patologías del lenguaje (oral, escrito y gestual) manifestadas a través de trastornos de la voz, el habla, la comunicación, la audición y las funciones orofaciales.
+    Nutrición: es el estudio de la relación entre la comida y bebida y la salud o la enfermedad, especialmente en lo que concierne a la determinación de una dieta óptima. El tratamiento nutricional es realizado por dietistas y prescrito fundamentalmente en diabetes, enfermedades cardiovasculares, enfermedades relacionadas con el peso y alteraciones en la ingesta, alergias, malnutrición y neoplasias.
+
+En España
+
+Los estudios de medicina en España y en muy pocos países de la Unión Europea tienen una duración de 6 años para la obtención del grado académico y entre 4 y 6 para el posgrado, lo que supone un total de 11 o 12 años de estudio para la formación completa.
+
+El grado de medicina tiene 2 ciclos de 3 años cada uno. Los dos primeros años se dedican al estudio del cuerpo humano en estado de salud, así como de las ciencias básicas (Física, Estadística, Historia de la Medicina, Psicología, Bioquímica, Genética...). El tercer año se dedica a los estudios de laboratorio y a la Patología General médica y quirúrgica. Los 3 años del segundo ciclo suponen un estudio general de todas y cada una de las especialidades médicas, incluyendo muchas asignaturas prácticas en los Hospitales Clínicos asociados a las Facultades de Medicina.
+
+Una vez terminado el grado, los estudiantes reciben el título de Médico y deben colegiarse en el Colegio Médico de la provincia en la que vayan a ejercer. Una vez colegiados, pueden recetar y abrir clínicas por cuenta propia, así como trabajar para clínicas privadas, pero no pueden trabajar en el Sistema Nacional de Salud.
+
+La formación especializada se adquiere en los estudios de posgrado. Existen 50 especialidades médicas que funcionan como títulos de Posgrado, siguiendo la estructura de máster y doctorado. Estos programas de posgrado, conocidos como formación MIR, tienen una duración de 3 o 6 años.
+
+Para el acceso a uno de estos programas de posgrado, los graduados o licenciados en medicina realizan un examen a nivel nacional conocido como Examen MIR en régimen de concurrencia competitiva. La nota se calcula a partir de la media del expediente de los estudios de grado o licenciatura del alumno (ponderado un 25 %) y el resultado del Examen MIR (75 %).[cita requerida]
+
+El aspirante con mayor nota tiene a su disposición todos los programas de formación de todos los hospitales de la nación, el segundo todos menos la plaza que haya elegido el primero, y así sucesivamente.
+
+Previa realización de un trabajo de investigación, el médico recibe el título de doctor y puede ejercer tanto por cuenta propia como ajena en los servicios médicos públicos y privados de España, como facultativo de la especialidad en la que se haya doctorado.
+Controversias
+
+Los siguientes son algunos de los temas que mayor controversia han generado en relación con la profesión o la práctica médicas:
+
+    El filósofo Iván Illich atacó en profundidad la medicina contemporánea occidental en Némesis médica, publicado por primera vez en 1975. Argumentó que la medicalización durante décadas de muchas vicisitudes de la vida (como el nacimiento y la muerte) a menudo causan más daño que beneficio y convierten a mucha gente en pacientes de por vida. Llevó a cabo estudios estadísticos para demostrar el alcance de los efectos secundarios y la enfermedad inducida por los medicamentos en las sociedades industriales avanzadas, y fue el primero en divulgar la noción de iatrogenia.14
+    Se han descrito críticamente las condiciones de hostigamiento laboral a las que se ven enfrentados los estudiantes de medicina en diferentes momentos durante sus estudios en los hospitales.15
+
+Véase también
+
+    Ver el portal sobre Medicina Portal:Medicina. Contenido relacionado con Medicina.
+
+    Atención primaria de salud
+    Bioética
+    Derecho a la vida
+    Enciclopedia médica
+    Glosario de términos médicos
+    Historia clínica
+    Historia clínica electrónica
+    Historia de la medicina
+    Historia de la Medicina General en España
+    Juramento Hipocrático
+    Medicina alternativa
+    Medicina aiurvédica
+    Medicina china tradicional
+    Médico
+    Organización Médica Colegial de España
+    Paciente
+    Semiología clínica
+    Anexo:Cronología de la medicina y de la tecnología médica
+    Medicina de la conservación
+    Medicina en los sellos postales
+
+Referencias
+
+"Medicine" Online Etymology Dictionary.
+Infectious and Epidemic Disease in History.
+«Medieval Sourcebook: Usmah Ibn Munqidh (1095-1188): Autobiography, excerpts on the Franks». Fordham.edu. Consultado el 4 de mayo de 2009.
+Michael Dols has shown that the Black Death was much more commonly believed by European authorities than by Middle Eastern authorities to be contagious; as a result, flight was more commonly counseled, and in urban Italy, quarantines were organized on a much wider level than in urban Egypt or Syria (The Black Death in the Middle East). Princeton, 1977, p. 119; 285-290.
+Royuela, Julián. «Leonardo Da Vinci, El Científico.» Journal of Feelsynapsis (JoF). ISSN: 2254-3651. 2011 (1): 38-43.
+On the dominance of the Greek humoral theory, which was the basis for the practice of bloodletting, in medieval Islamic medicine see Peter E. Pormann and E. Savage Smith, Medieval Islamic medicine, Georgetown University, Washington DC, 2007 p. 10, 43-45.
+WHO - EN WHO is the directing and coordinating authority for health within the United Nations system. It is responsible for providing leadership on global health matters, shaping the health research agenda, setting norms and standards, articulating evidence-based policy options, providing technical support to countries and monitoring and assessing health trends.
+ama-assn
+British Medical Association (BMA).
+Hasting Center. Los fines de la Medicina (2.ª edición). Barcelona: Fundación Víctor Grifols i Lucas; 2007. ISBN 978-84-690-6480-1.
+Consejo General de Colegios Oficiales de Médicos. Código de Deontología Médica. Guía de Ética Médica. Madrid: OMC; 2011.
+La sociedad no puede recibir los mismos beneficios de la profesión médica sin los Colegios de Médicos. II Congreso de la Profesión Médica. Madrid, 16 y 17 de abril de 2010.
+Grado de Medicina. Universidad de Las Palmas de Gran Canaria.
+Illich Ivan (1974). Medical Nemesis. London: Calder & Boyars. ISBN 0714510963. OCLC 224760852.
+Amenazas y humillaciones, parte invisible del currículum médico (nota de Fernando Camacho Servín, La Jornada, p. 36, sección Sociedad y Justicia, 9 de junio de 2013) (Consultado domingo 27 de octubre de 2013)

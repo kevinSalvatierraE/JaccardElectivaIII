@@ -1,0 +1,52 @@
+Informático teórico
+Estatua de Alan Turing, uno de los informáticos teóricos más reconocidos en la historia de las ciencias de la computación.
+
+Un científico de la computación, informático teórico o computólogo es una persona con conocimientos adquiridos en ciencias de la computación, y que se especializa en el estudio de los fundamentos teóricos de la información y la computación, para su posterior aplicación en sistemas de información.
+
+Un científico de la computación puede ser un matemático especializado en ciencias de la computación, o bien un ingeniero informático, enfocado en la parte más conceptual de la computación, a menudo acercándose más al trabajo de un matemático que al de un ingeniero.
+
+El científico de la computación no solo se preocupa de la «verificabilidad» de sus resultados, como suele ser el caso en las matemáticas puras, sino que también se preocupa de la «eficiencia» de estos. Es por ello que su trabajo se enmarca en un enfoque de investigación teórico-práctico.
+
+Aclarar quién es informático teórico y quién no lo es resulta, a pesar de todo, una tarea no exenta de ambigüedad. Sin embargo, la diferenciación se acepta dentro del campo científico, como una manera de diferenciarla de la informática más aplicada.1 2
+
+El premio más prestigioso que se le puede otorgar a un informático teórico en su área es el Premio Turing, otorgado por la Association for Computing Machinery. Entre 2007 y 2013 estuvo acompañado por $250 000 dólares, financiados con el apoyo de Intel y Google.3 Desde 2014, el monto ascendió a $1 000 000 de dólares con el apoyo de Google.4
+
+Índice
+
+    1 Historia
+    2 Campo laboral
+    3 Grados académicos
+    4 Véase también
+    5 Referencias
+
+Historia
+
+Durante los últimos años de 1950, la terminología en el campo de la computación fue discutida en la publicación científica Communications of the ACM y un gran número de términos para los practicantes de esta área del conocimiento fueron sugeridos: «turingeniero», «turólogo», «hombre de los diagramas de flujo», «matemático meta-aplicado», «epistemólogo aplicado», «hypólogo» y «computólogo». El término «científico de la computación» (computer scientist) fue adoptado en Estados Unidos, mientras que «computólogo» es frecuentemente usado en Latinoamérica e «informático teórico» en España.5 Debido al amplio desarrollo de las ciencias de la computación en Estados Unidos y Reino Unido, el término «científico de la computación» suele ser el más utilizado.
+Campo laboral
+
+Un científico de la computación suele ser contratado por empresas editoras de software en distintas áreas tales como el análisis y diseño de algoritmos, ingeniería de software, teoría de la información, teoría de bases de datos, complejidad computacional, interacción hombre-máquina, programación (a un alto nivel), teoría de lenguajes de programación, gráficos por computadora, visión artificial e inteligencia artificial. Así como en investigación científica y organizaciones de desarrollo de software donde se desarrollan las teorías que permiten que las nuevas tecnologías que se desarrollen. Los científicos de la computación también son empleados por las instituciones educativas como las universidades. La Association for Computing Machinery identifica cuatro áreas laborales que los científicos de la computación:6
+
+    Diseño e implementación de software
+    Elaboración de nuevas formas de utilizar las computadoras
+    Desarrollo de formas efectivas de resolver problemas de computación
+    Planificación y gestión de la infraestructura de tecnología de organizaciones
+
+Este último es el tipo de trabajo para el que los nuevos programas de tecnología de la información (IT) apuntan explícitamente a educar a los estudiantes.7 En Estados Unidos, las perspectivas de empleo para los científicos de la computación se dice que son excelentes, en parte a un crecimiento muy rápido en el diseño de sistemas informáticos y servicios relacionados en la industria, así como por la industria de la edición de software, que se prevé que sea una de las de mayor crecimiento en la economía estadounidense.8
+Grados académicos
+
+El informático teórico normalmente tiene un grado universitario en el área de ciencias de la computación en alguna universidad o institución acreditada, una fuerte aptitud para las matemáticas es importante para un científico de la computación. También es común que se trate de ingenieros informáticos o matemáticos que después continúan estudios de posgrado, ya sea una maestría o un doctorado en algún subcampo de las ciencias de la computación.
+Véase también
+
+    Ciencias de la Computación
+    Anexo:Informáticos teóricos
+
+Referencias
+
+Crespo López, Decoroso (1982). Informática teórica. España: Universidad Politécnica de Madrid. Facultad de Informática. ISBN 9788485632329.
+Sicard Ramírez, Andrés (2001). Informática teórica. Gómez Marín, Raul Antonio. Fondo Editorial Universidad Eafit. ISBN 9789589041765.
+«A. M. Turing Award». ACM. Consultado el 5 de noviembre de 2007.
+«ACM's Turing Award Prize Raised to $1 Million». ACM. Consultado el 13 de noviembre de 2014.
+http://epublications.uef.fi/pub/urn_isbn_952-458-867-6/urn_isbn_952-458-867-6.pdf
+http://computingcareers.acm.org/?page_id=8
+http://computingcareers.acm.org/?page_id=8
+http://www.bls.gov/ooh/Computer-and-Information-Technology/Computer-and-information-research-scientists.htm

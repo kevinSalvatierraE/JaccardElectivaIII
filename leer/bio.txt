@@ -1,0 +1,345 @@
+Bioética
+
+La bioética es la rama de la ética que se dedica a proveer los principios para la conducta correcta del humano respecto a la vida, tanto de la vida humana como de la vida no humana (animal y vegetal), así como al ambiente en el que pueden darse condiciones aceptables para la vida.
+
+Se trata de una disciplina relativamente nueva, y el origen del término corresponde al pastor protestante, teólogo, filósofo y educador alemán Fritz Jahr, quien en 1927 usó el término Bio-Ethik en un artículo sobre la relación ética del ser humano con las plantas y los animales.1 Más adelante, en 1970, el bioquímico estadounidense dedicado a la oncología Van Rensselaer Potter utilizó el término bio-ethics en un artículo sobre "la ciencia de la supervivencia"2 3 4 y posteriormente en 1971 en su libro Bioetica un puente hacia el futuro.
+
+En su sentido más amplio, la bioética, a diferencia de la ética médica, no se limita al ámbito médico, sino que incluye todos los problemas éticos que tienen que ver con la vida en general, extendiendo de esta manera su campo a cuestiones relacionadas con el medio ambiente y al trato debido a los animales. Se han formulado una serie de definiciones respecto a la disciplina de la Bioética, siendo una de ellas la adoptada por la Unidad Regional de Bioética de la OPS, con sede en Santiago de Chile y que, modificada por el S.J. Alfonso Llano Escobar en una revista de la especialidad, define a la Bioética como "el uso creativo del diálogo inter y transdisciplinar entre ciencias de la vida y valores humanos para formular, articular y, en la medida de lo posible, resolver algunos de los problemas planteados por la investigación y la intervención sobre la vida, el medio ambiente y el planeta Tierra".5 Sin embargo, cabe destacar, que ya en 1978, el Kennedy Institute de la Universidad jesuita de Georgetown en Estados Unidos, había publicado la primera Enciclopedia de Bioética en cuatro volúmenes, dirigida por Warren Reich, un teólogo católico, donde se define a la Bioética como el "estudio sistemático de la conducta humana en el área de las ciencias de la vida y la salud, examinado a la luz de los valores y principios morales".6
+
+Índice
+
+    1 Definición y dominios
+    2 Principios fundamentales de la bioética
+        2.1 Principio de autonomía
+        2.2 Principio de beneficencia
+        2.3 Principio de no maleficencia
+        2.4 Principio de justicia
+    3 Corrientes y tendencias en la bioética
+    4 Ámbitos de la bioética
+    5 Principales regulaciones y documentos
+    6 Bioeticistas destacados
+    7 Véase también
+    8 Notas y referencias
+    9 Bibliografía adicional
+        9.1 Bioética en general
+        9.2 Bioética aplicada
+            9.2.1 Aborto / estatus del embrión
+            9.2.2 Comités de ética
+            9.2.3 Derecho y legislación
+            9.2.4 Eutanasia
+            9.2.5 Genética
+            9.2.6 Investigación
+            9.2.7 Medio ambiente y animales
+            9.2.8 Relación médico-paciente
+            9.2.9 Tecnociencias
+            9.2.10 Compilaciones de diferentes temas
+            9.2.11 Fundamentación de la bioética
+    10 Enlaces externos
+
+Definición y dominios
+
+La bioética abarca las cuestiones éticas acerca de la vida que surgen en las relaciones entre biología, nutrición, medicina, química, política (no debe confundirse con la "biopolítica"7 ), derecho, filosofía, sociología, antropología, teología, etc. Existe un desacuerdo acerca del dominio apropiado para la aplicación de la ética en temas biológicos. Algunos bioéticos tienden a reducir el ámbito de la ética a lo relacionado con los tratamientos médicos o con la innovación tecnológica. Otros, sin embargo, opinan que la ética debe incluir lo relativo a todas las acciones que puedan ayudar o dañar organismos capaces de sentir miedo y dolor. En una visión más amplia, no sólo hay que considerar lo que afecta a los seres vivos (con capacidad de sentir dolor o sin tal capacidad), sino también al ambiente en el que se desarrolla la vida, por lo que también se relaciona con la ecología.
+
+El criterio ético fundamental que regula esta disciplina es el respeto al ser humano, a sus derechos inalienables, a su bien verdadero e integral: la dignidad de la persona.
+
+Por la íntima relación que existe entre la bioética y la antropología, la visión que de ésta se tenga condiciona y fundamenta la solución ética de cada intervención técnica sobre el ser humano.
+
+La bioética es con frecuencia asunto de discusión política, lo que genera crudos enfrentamientos entre aquellos que defienden el progreso tecnológico en forma incondicionada y aquellos que consideran que la tecnología no es un fin en sí, sino que debe estar al servicio de las personas y bajo el control de criterios éticos; o entre quienes defienden los derechos para algunos animales y quienes no consideran tales derechos como algo regulable por la ley;8 o entre quienes están a favor o en contra del aborto o la eutanasia.
+
+Las primeras declaraciones de bioética surgen con posterioridad a la Segunda Guerra Mundial, cuando el mundo se escandalizó tras el descubrimiento de los experimentos médicos llevados a cabo por los facultativos del régimen hitleriano sobre los prisioneros en los campos de concentración. Esta situación, a la que se suma el dilema planteado por el invento de la fístula para diálisis renal de Scribner (Seattle, 1960), las prácticas del Hospital Judío de Enfermedades Crónicas (Brooklyn, 1963) o la Escuela de Willowbrook (Nueva York, 1963), van configurando un panorama donde se hace necesaria la regulación, o al menos, la declaración de principios a favor de las víctimas de estos experimentos. Ello determina la publicación de diversas declaraciones y documentos bioéticos a nivel mundial.
+Principios fundamentales de la bioética
+
+En 1979, los bioeticistas Tom L. Beauchamp y James F. Childress,9 10 definieron los cuatro principios de la bioética: autonomía, no maleficencia, beneficencia y justicia. En un primer momento definieron que estos principios son prima facie, esto es, que vinculan siempre que no colisionen entre ellos, en cuyo caso habrá que dar prioridad a uno u otro, dependiendo del caso. Sin embargo, en 2003 Beauchamp11 considera que los principios deben ser especificados para aplicarlos a los análisis de los casos concretos, o sea, deben ser discutidos y determinados por el caso concreto a nivel casuístico.
+
+Los cuatro principios definidos por Beauchamp y Childress son:
+Principio de autonomía
+
+La autonomía expresa la capacidad para darse normas o reglas a uno mismo sin influencia de presiones. El principio de autonomía tiene un carácter imperativo y debe respetarse como norma, excepto cuando se dan situaciones en que las personas puedan no ser autónomas o presenten una autonomía disminuida (personas en estado vegetativo o con daño cerebral, etc.), en cuyo caso será necesario justificar por qué no existe autonomía o por qué ésta se encuentra disminuida. En el ámbito médico, el consentimiento informado es la máxima expresión de este principio de autonomía, constituyendo un derecho del paciente y un deber del médico, pues las preferencias y los valores del enfermo son primordiales desde el punto de vista ético y suponen que el objetivo del médico es respetar esta autonomía porque se trata de la salud del paciente.
+Principio de beneficencia
+
+Obligación de actuar en beneficio de otros, promoviendo sus legítimos intereses y suprimiendo prejuicios. En medicina, promueve el mejor interés del paciente pero sin tener en cuenta la opinión de éste. Supone que el médico posee una formación y conocimientos de los que el paciente carece, por lo que aquél sabe (y por tanto, decide) lo más conveniente para éste. Es decir "todo para el paciente pero sin contar con él".
+
+Un primer obstáculo al analizar este principio es que desestima la opinión del paciente, primer involucrado y afectado por la situación, prescindiendo de su opinión debido a su falta de conocimientos médicos. Sin embargo, las preferencias individuales de médicos y de pacientes pueden discrepar respecto a qué es perjuicio y qué es beneficio. Por ello, es difícil defender la primacía de este principio, pues si se toman decisiones médicas desde éste, se dejan de lado otros principios válidos como la autonomía o la justicia.
+Principio de no maleficencia
+
+Abstenerse intencionadamente de realizar actos que puedan causar daño o perjudicar a otros. Es un imperativo ético válido para todos, no sólo en el ámbito biomédico sino en todos los sectores de la vida humana. En medicina, sin embargo, este principio debe encontrar una interpretación adecuada pues a veces las actuaciones médicas dañan para obtener un bien. Entonces, de lo que se trata es de no perjudicar innecesariamente a otros. El análisis de este principio va de la mano con el de beneficencia, para que prevalezca el beneficio sobre el perjuicio.
+
+Las implicaciones médicas del principio de no maleficencia son varias: tener una formación teórica y práctica rigurosa y actualizada permanentemente para dedicarse al ejercicio profesional, investigar sobre tratamientos, procedimientos o terapias nuevas, para mejorar los ya existentes con objeto de que sean menos dolorosos y lesivos para los pacientes; avanzar en el tratamiento del dolor; evitar la medicina defensiva y, con ello, la multiplicación de procedimientos y/o tratamientos innecesarios.
+
+Aparece por primera vez en el Informe Belmont (1978).
+Principio de justicia
+
+Tratar a cada uno como corresponda, con la finalidad de disminuir las situaciones de desigualdad (ideológica, social, cultural, económica, etc.). En nuestra sociedad, aunque en el ámbito sanitario la igualdad entre todos los hombres es sólo una aspiración, se pretende que todos sean menos desiguales, por lo que se impone la obligación de tratar igual a los iguales y desigual a los desiguales para disminuir las situaciones de desigualdad.
+
+El principio de justicia puede desdoblarse en dos: un principio formal (tratar igual a los iguales y desigual a los desiguales) y un principio material (determinar las características relevantes para la distribución de los recursos sanitarios: necesidades personales, mérito, capacidad económica, esfuerzo personal, etc.).
+
+Las políticas públicas se diseñan de acuerdo con ciertos principios materiales de justicia. En España, por ejemplo, la asistencia sanitaria es teóricamente universal y gratuita y está, por tanto, basada en el principio de la necesidad. En cambio, en Estados Unidos la mayor parte de la asistencia sanitaria de la población está basada en los seguros individuales contratados con compañías privadas de asistencia médica.
+
+Para excluir cualquier tipo de arbitrariedad, es necesario determinar qué igualdades o desigualdades se van a tener en cuenta para determinar el tratamiento que se va a dar a cada uno. El enfermo espera que el médico haga todo lo posible en beneficio de su salud. Pero también debe saber que las actuaciones médicas están limitadas por una situación impuesta al médico, como intereses legítimos de terceros.
+
+La relación médico-paciente se basa fundamentalmente en los principios de beneficencia y de autonomía, pero cuando estos principios entran en conflicto, a menudo por la escasez de recursos, es el principio de justicia el que entra en juego para mediar entre ellos. En cambio, la política sanitaria se basa en el principio de justicia, y será tanto más justa en cuanto que consiga una mayor igualdad de oportunidades para compensar las desigualdades.
+Corrientes y tendencias en la bioética
+
+a) Bioética personalista. Parte de la dignidad como valor propio de la persona, la cual se manifiesta en su capacidad intrínseca de realizar los valores. El fundamento de las orientaciones que deben apoyar las propuestas de solución a los dilemas éticos se encuentra en la naturaleza humana ya que la persona es el centro.
+
+b) Bioética consensualista o civil. En esta corriente se busca establecer un mínimo de principios aplicables dentro de una sociedad pluralista y secular. Se basa en los postulados de la llamada “Ética de mínimos” que propone un conjunto de normas a cumplir por todos los miembros de la sociedad y que sería producto del consenso social en torno a ciertos parámetros mínimos de convivencia.
+
+c) Bioética clínica. Esta escuela sigue el enfoque biomédico que se da a partir de Hellegers con su trabajo en el Kennedy Institute of the Bioethics. Su centro de atención son los problemas suscitados por el avance en el conocimiento científico y tecnológico respecto de su aplicación en los diferentes ámbitos de la salud humana.
+
+d) Bioética social. Su centro de interés es la problemática de la justicia y el desarrollo social como el mejoramiento de las condiciones de vida de la población en equilibrio con el medio en que interactúa. Hay un énfasis en la promoción de los derechos humanos en una sociedad plural.
+
+e) Bioética transdisciplinar, como ciencia de la complejidad. Esta corriente es menos conocida y surge desde la perspectiva de las ciencias de la complejidad. Dentro de los sistemas dinámicos de los que se ocupa la complejidad como ciencia, está la vida, la cual es analizada por la bioética que tiene carácter inter y transdiplinario, no lineal. Este estudio abarca no solo la vida humana, sino las demás existentes y su interacción con los sistemas dinámicos.
+Ámbitos de la bioética
+
+Aunque la bioética está muy relacionada con la ética no son lo mismo. En el caso de la medicina, la ética médica no es idéntica a la bioética médica: la ética médica trata los problemas planteados por la práctica de la medicina mientras que la bioética es un tema más amplio que aborda los problemas morales derivados de los avances en las ciencias biológicas en general. La bioética se diferencia de la ética, según algunos autores, en que no necesita la aceptación de ciertos valores tradicionales que son fundamentales para la ética.12
+
+    Problemas éticos derivados de las profesiones sanitarias: transfusiones de sangre, eutanasia, trasplantes de órganos, reproducción asistida o mediante fertilización in vitro, aborto, todos los asuntos implicados en la relación médico-paciente.
+    Problemas de la investigación científica, en particular la investigación biomédica, que tanto pueden transformar al hombre: manipulación genética, tecnologías reproductivas como la fecundación in vitro o la (por ahora sólo hipotética) clonación humana, etc.
+    Los problemas ecológicos, del medio ambiente y la biosfera: necesidad de conservación del medio ambiente, como mantener el equilibrio entre las especies y el respeto hacia los animales y la naturaleza, impedir el uso de energía nuclear, controlar el crecimiento de la población mundial y el incremento del hambre en los países pobres, etc.
+    Influencia social y política de las cuestiones anteriores, en cuanto a legislación, educación, políticas sanitarias, religión, etc.
+    Temáticas relativas a la relación entre neurología y ética, que daría lugar a lo que se conoce como neuroética.
+
+La Dra. María Dolores Vila-Coro Barrachina, en su libro La vida humana en la encrucijada, establece una clasificación de la bioética en cuatro aspectos:13
+
+    La bioética teórica, o «meta-bioética», que trata los fundamentos conceptuales de la bioética en el marco de las teorías morales y la justificación de sus nociones básicas (persona, dignidad, autonomía, etc.).
+    La bioética clínica, referida a las decisiones éticas que se toman en la práctica profesional, vinculada a la deontología médica clásica y que se focaliza en los casos individuales de los pacientes que plantean la resolución de un problema ético.
+    La bioética normativa, conocida también como «bioderecho», en la que tienen una participación directa juristas y autoridades públicas y que se orienta hacia la adopción de reglas generales en la política sanitaria y el sistema jurídico. Centra su interés en la racionalidad de las decisiones colectivas en las áreas donde confluyen la salud pública, los derechos humanos y la regulación de los avances científicos.
+    La bioética cultural, que trata del esfuerzo sistemático en relacionar los nuevos dilemas bioéticos con el contexto histórico y sociocultural en el que se dan. Trata de evitar la imposición de determinadas visiones de la bioética en sociedades que tienen valores distintos.
+
+    Aborto inducido
+    Calidad de vida y sanidad
+    Clonación humana
+    Circuncisión
+    Concepto de funcionalidad conductual
+    Contaminación genética
+    Criónica
+    Derechos de los animales
+    Desarrollo sostenible
+    Donación de órganos
+    Drogas
+
+	
+
+    Ética medio ambiental
+    Eutanasia
+    Genética
+    Investigación médica
+    Investigación farmacológica
+    Ingeniería genética
+    Ingeniería genética humana
+    Inseminación artificial
+    Investigación con células madre
+    Investigación y ensayos clínicos
+    Métodos anticonceptivos
+
+	
+
+    Nanotecnologías
+    Quimera
+    Reprogenética
+    Reproducción asistida
+    Sexualidad
+    Sida
+    Suicidio
+    Trasplante
+    Tratamiento del dolor
+    Vida artificial
+
+Principales regulaciones y documentos
+
+    Declaración Universal de los Derechos Humanos (1948)
+    Código de Núremberg (1947)
+    Declaración de Helsinki (1964)
+    Declaración de Tokio (1975)
+    Informe Belmont (1979)
+    Declaración de Manila (1980)
+    Conferencia Internacional sobre armonización de requisitos técnicos para el registro de productos farmacéuticos para uso humano
+    Convenio para la protección de los Derechos Humanos y la Dignidad del Ser Humano con respecto a las aplicaciones de la Biología y la Medicina (Convenio sobre Derechos Humanos y Biomedicina o "Convención de Asturias de Bioética"), Consejo de Europa (1997)
+    Declaración Universal sobre el Genoma y los Derechos Humanos, Unesco (1997)
+    Declaración Internacional sobre los Datos Genéticos Humanos, UNESCO (2003)
+    Declaración Internacional sobre Bioética y Derechos Humanos, UNESCO (2005)
+    Código de Deontología Médica. Guía de Ética Médica de la Organización Médica Colegial de España (2011).
+    Principios de Tavistock
+    Ley 41/2002, de 14 de noviembre, 'Ley Básica Reguladora de la Autonomía del Paciente y de Derechos y Obligaciones en materia de Información y Documentación Clínica'. BOE español
+
+Bioeticistas destacados
+
+    Roberto Andorno
+    Francesc Abel i Fabre
+    Van Rensselaer Potter
+    Adriano Bompiani
+    María Casado
+    Francesco D'Agostino
+    Javier Gafo
+    Diego Gracia Guillén
+    André Hellegers
+    James Hughes
+    Leon Kass
+    Jérôme Lejeune
+
+	
+
+    Florencia Luna
+    Federico Mayor Zaragoza
+    Edmund Pellegrino
+    Javier Sádaba
+    Jesús Ballesteros
+    Michael Sandel
+    Elio Sgreccia
+    Peter Singer
+    Mary Warnock
+    Marcela Iacub
+
+Véase también
+
+    Deontología profesional
+    Ética médica
+    Ley de cuidados inversos
+    Malicia sanitaria
+    Organización Médica Colegial de España
+    Prevención cuaternaria
+    Principios de Tavistock
+    Sesgo de información científica
+    Sesgo en publicación científica
+    Derecho a Morir Dignamente
+    Geoética
+
+Notas y referencias
+
+Artículo de Hans-Martin Sass en la edición de diciembre del 2007 del Kennedy Institute of Ethics Journal.
+Lolas, F. (2008). [http://www.scielo.cl/scielo.php?script=sci_arttext&pid=S0716-97602008000100013&lng=es&nrm=iso «Bioethics and animal research: A personal perspective and a note on the contribution of Fritz Jahr.» Biol. Res., Santiago, 41(1), 119-123. Consultado el 15 de enero de 2010. doi: 10.4067/S0716-97602008000100013.
+Sass, H. M. (2007). «Fritz Jahr's 1927 concept of bioethics.» Kennedy Inst Ethics J, 17(4), Dec, 279-295.
+Goldim, J. R. (2009). «Revisiting the beginning of bioethics: The contribution of Fritz Jahr (1927).» Perspect Biol Med, Sum, 377-380.
+Revista Selecciones de Bioética Nº 15 del Instituto de Bioética de la Pontificia Universidad Javeriana de Colombia. Link: http://puj-portal.javeriana.edu.co/portal/page/portal/Bioetica/1pdfs_docs/revistaseleccionesNo.15.pdf.
+Reich, W., Encyclopedia of Bioethics, Schuster, New York 1978..
+"Valores bioéticos, subjetividad y biopolítica" de G. Mayos (UB).
+"La desconsideración de los animales no humanos en la bioética", de Oscar Horta, en Isegoría: Revista de Filosofía Moral y Política, 43, 2010, pp. 671-686.
+Principios de ética biomédica, Barcelona, Masson, 1999 (que traduce la 4ª edición norteamericana de 1994)
+Tom L. Beauchamp, James F. Childress (2001). Principles of Biomedical Ethics (5ª edición). Oxford University Press. ISBN 9780195143317.
+J Med Ethics 2003;29:269-274)
+«Manual de ética médica de la Asociación Médica Mundial(AMM), página 9». Consultado el 4 de febrero de 2012.
+
+    Vila-Coro Barrachina, 2010 pp.133-134
+
+    [1] Declaración: 'Dignitas Personae', Cardenal William Levada, Congregación para la doctrina de la Fe, 2008.
+
+Bibliografía adicional
+Bioética en general
+
+    Abel Fabre, Francesc: Bioética: orígenes, presente y futuro. Instituto Borja de Bioética. 2001. ISBN 84-7100-799-1
+    Andorno, Roberto: Bioética y dignidad de la persona, 2ª edición, Madrid, Tecnos, 2012. ISBN 978-84-309-5445-2
+    Beauchamp, T. L. y Childress, J.: Principios de ética biomédica. Barcelona, Masson, 1999, ISBN 84-458-0480-4
+    Casado, María: Bioética, derecho y sociedad. Trotta, Madrid, 1998. ISBN 987-1145-10-1
+    Ciccone, Lino (2005). Bioética: historia, principios, cuestiones (2ª edición). Palabra. ISBN 9788482398990.
+    Clotet, Joaquim: Bioética: Una aproximación. Ed. Pontificia Universidad Católica de Río Grande do Sul, Porto Alegre, 2003. ISBN 85-7430-363-1
+    Escríbar, Ana, Pérez, Manuel, Villarroel, Raúl (eds.): Bioética. Fundamentos y dimensión práctica. Mediterráneo, Santiago, 2004. ISBN 956-220-236-4
+    Ferrer, Jorge José: Deber y deliberación: Una invitación a la bioética. Centro de Publicaciones Académicas Facultad de Artes y Ciencias UPR-RUM. Mayaguez, 2007 ISBN 13-978-0-9789886-5-4
+    Fisher, Anthony (2011). Catholic Bioethics for a New Millennium. Cambridge University Press. ISBN 9781139504881.
+    Gracia, Diego: Como arqueros al blanco: Estudios de bioética. Madrid, Triacastela, 2004, ISBN 84-95840-13-8
+    Gracia, Diego: Procedimientos de decisión en ética clínica. Madrid, Eudema, 1991, ISBN 84-7754-083-7
+    Jaki, Stanley: Fundamentos éticos de la bioética, Ciencia y Cultura, Madrid, 2006. ISBN 978-84-934675-6-2
+    Lora, Pablo de; Gascón, Marina: Bioética: Principios, desafíos, debates, Alianza editorial, 2008, ISBN 978-84-206-9125-1
+    Lucas Lucas, Ramón, Antropología y problemas bioéticos, Editorial Biblioteca Autores Cristianos, 2001. ISBN 84-7914-596-X, ISBN 978-84-7914-596-5
+    Lucas Lucas, Ramón, Bioetica para todos, Trillas, México 2008 (3 Ed.). ISBN 978-968-24-7736-2
+    Manero Richard, Elvira; Tomás y Garrido, Gloria María (2008). Diccionario de bioética para estudiantes. Editorial Formación Alcalá. ISBN 978-84-96804-83-8.
+    Pardo, Antonio (2010). Cuestiones básicas de Bioética. Ediciones Rialp. ISBN 978-84-321-3786-0.
+    Sádaba, Javier; Velázquez, José Luis. Hombres a la carta: los dilemas de la bioética. Temas de hoy, 1998.
+    Sádaba, Javier. Principios de bioética laica. Gedisa, Barcelona, 2004. ISBN 84-7432-996-5
+    Sádaba, Javier: La vida en nuestras manos. Ed. B, Barcelona, 2000. ISBN 84-406-9378-4
+    Sádaba, Javier. La necesidad de la bioética (repensar el sujeto). Ágora: Papeles de filosofía, 1999, vol. 18, nº 1. Pág. 55-67.
+    Sádaba, Javier. Laicismo y bioética. Jano: Medicina y humanidades, 2005, vol. 69, nº 1570. Pág. 72.
+    Sádaba, Javier. Bioética y democracia. Revista internacional de pensamiento político, 2006, nº 1. Pág. 225-238
+    Sádaba, Javier. La felicidad y el cuerpo humano. Revista de bioética y derecho, 2008, nº 12, Pág.11.
+    Sádaba, Javier. Bioética, inmigración y mestizaje. (El caso europeo. El caso español). Revista Colombiana de Bioética volumen 2, número 2. Julio–Diciembre de 2007
+    Sádaba, Javier. Identidad humana e ingeniería genética. En El conflicto de las racionalidades. Universidad Pontificia Comillas, 2008. Pág. 87-102.
+    Sádaba, Javier. “Multidisciplinaridad e Interdisciplinaridad”. En Derecho y en Bioética, En busca de una Bioética compartida, México. Ediciones Hombre y Mundo, 2011, pág. 110.
+    Sgreccia, Elio: Manual de bioética. I: Fundamentos y ética biomédica. BAC, Madrid, 2009. ISBN 978-84-220-1408-9
+    Singer, Peter: Compendio de ética. Ed. Alianza, Madrid, 1995. ISBN 84-206-5249-0
+    Valls, Ramón: Ética para la bioética, y a ratos para la política. Gedisa, Barcelona, 2003. ISBN 978-84-7432-978-0
+    Vila-Coro Barrachina, María Dolores (2010). La vida humana en la encrucijada. Pensar la bioética. Madrid: Ediciones Encuentro. ISBN 9788499200132.
+
+Bioética aplicada
+Aborto / estatus del embrión
+
+    Dworkin, Ronald: El dominio de la vida. Una discusión acerca del aborto, la eutanasia y la libertad individual. Versión española de Ricardo Caracciolo y Víctor Ferreres (Universitat Pompeu Fabra) del original Life's Dominion, 1ª ed. 1993. Ed. Ariel, Barcelona, 1994. ISBN 84-344-1115-6
+    Singer, Peter: Repensando la vida y la muerte. Oxford University Press, 1994. ISBN 84-493-0414-8
+    Lucas Lucas, Ramón, El inicio de la vida: Identidad y estatuto del embrión humano, Ed. Biblioteca de Autores Cristianos, Madrid, 1999. ISBN 84-7914-430-0 ISBN 978-84-7914-430-2
+    Thomasma, David y Kushner, Thomasine: De la vida a la muerte: ciencia y bioética. Traducción española de la primera edición (1999) hecha por Rafael Herrera Bonet. Cambridge University Press, Madrid, 1999. ISBN 84-8323-073-9
+    Vázquez, Rodolfo: Del aborto a la clonación. Principios de una bioética liberal. Ed. Fondo de Cultura Económica, México, 2004. ISBN 968-16-7108-2
+
+Comités de ética
+
+    Bellver Capella, Vicente: Por una bioética razonable. Medios de comunicación, comités de ética y derecho. Ed. Comares, Granada, 2006. ISBN 84-9836-017-X
+    Herranz Rodríguez, Gonzalo: Comentarios al código de ética y deontología médica. Eunsa, 1993. ISBN 978-84-313-1182-7
+
+Derecho y legislación
+
+    Fundación Fernando Fueyo Laneri: Derecho, bioética y genoma humano. Editorial Jurídica de Chile, 2003. ISBN 956-10-1497-1
+    Francesco D'Agostino (2003). Bioética, estudios de filosofía del derecho. Ediciones Internacionales Universitarias-. ISBN 978-84-8469-075-7.
+    'La responsabilidad civil y penal del médico'. ICOMEM, 1999. Dep legal: M-39653-1999 (sin ISBN)
+
+Eutanasia
+
+    Comité Consultivo de Bioética de Cataluña: Informe sobre la eutanasia y la ayuda al suicidio. Ed. Prous Science, 2006. ISBN 84-8124-228-4
+    Dworkin, Ronald: El dominio de la vida. Una discusión acerca del aborto, la eutanasia y la libertad individual. Versión española de Ricardo Caracciolo y Víctor Ferreres (Universitat Pompeu Fabra) del original Life's Dominion, 1ª ed. 1993. Ed. Ariel, Barcelona, 1994. ISBN 84-344-1115-6
+    Dworkin, Gerald; Frey, R. G. y Bok, Sissela: La eutanasia y el auxilio médico al suicidio. Traducción de la primera edición en Cambridge (1998) hecha por Carmen Francí Ventosa. Cambridge University Press, Madrid, 2000. ISBN 84-8323-109-3
+    Thomasma, David y Kushner, Thomasine: De la vida a la muerte: ciencia y bioética. Traducción española de la primera edición (1999) hecha por Rafael Herrera Bonet. Cambridge University Press, Madrid, 1999. ISBN 84-8323-073-9
+
+Genética
+
+    Alonso Bedate, Carlos y Mayor Zaragoza, Federico (coord.): Gen-ética. Editorial Ariel, Barcelona, 2004. ISBN 84-344-1241-1
+
+Investigación
+
+    Levine, Robert: Ethics and regulation of Clinical Research. Ed. Urban y Schwarzenberg, Baltimore, 1986. ISBN 0-8067-1112-4
+    César Nombela (2007). Células madre. EDAF. ISBN 978-84-414-1823-3.
+
+Medio ambiente y animales
+
+    Grupo Ad Hoc sobre Diversidad Biológica (ILSA, Instituto de Gestión Ambiental, Grupo Semillas, Fondo Mundial para la Naturaleza): Diversidad biológica y cultural. Retos y propuestas desde América Latina. Ed. ILSA, Santa Fe de Bogotá, 1998. ISBN 978-958-9262-02-3
+    Riechmann, Jorge: Ética Ecológica: propuestas para una reorientación. Ed. Nordan, Montevideo, 2004. ISBN 84-7426-697-1
+    Riechmann, Jorge: Todos los animales somos hermanos. Ensayos sobre el lugar de los animales en las sociedades industrializadas. Ed. Universidad de Granada, 2003. ISBN 978-84-338-3046-3
+    Singer, Peter: Liberación animal. Ed. Trotta, Madrid, 1999. ISBN 978-84-8164-262-9
+    Tafalla, Marta: Los derechos de los animales. Idea Books, Barcelona, 2004. ISBN 84-493-1433-X
+    Velayos, Carmen: La dimensión moral del ambiente natural: ¿Necesitamos una nueva ética?. Ed. Comares, Granada, 1996. ISBN 84-8151-366-0
+    Villarroel, Raúl: La naturaleza como texto. Hermenéutica y crisis medio ambiental. Editorial Universitaria, Santiago, de Chile, 2006. ISBN 956-11-1911-0
+
+Relación médico-paciente
+
+    Beauchamp, Tom y Childress, James: "Principios de ética biomédica". Versión española de la cuarta edición de la obra original en lengua inglesa Principles of Biomedical Ethics publicada por Oxford University Press, Nueva York (1994). Traducción de Teresa García-Miguel, Javier Júdez y Lydia Feito, revisión de Diego Gracia y Javier Júdez. Ed. Masson, Barcelona, 1999. ISBN 84-458-0480-4
+    Cabré Pericàs, Lluís (coord.): Decisiones terapéuticas al final de la vida. Editorial Edikamed S.L, Barcelona, 2003. ISBN 84-7877-344-4
+    Organización Médica Colegial (Consejo general de colegios de médicos): 'Código de ética y deontología médica', Madrid. Dep legal M-33966-1999 (sin ISBN)
+    'Ethical Choices' -Case Studies for Medical Practice'. Lois Snyder, editor. American College of Physicians, 2005. ISBN 1-930513-57-7
+
+Tecnociencias
+
+    Hottois, Gilbert: El paradigma bioético. Una ética para la tecnociencia. Ed. Anthropos, Barcelona, 1991. ISBN 84-7658-308-7
+
+Compilaciones de diferentes temas
+
+    Gómez-Heras, José M. G. Bioética. Perspectivas emergentes y nuevos problemas. Tecnos, 2005. ISBN 84-309-4282-3
+    Gazzaniga, Michael: El cerebro ético. Ed. Paidós, Barcelona, 2006. ISBN 84-493-7-1885-8
+    Pardo Sáenz, José María. Bioética práctica al alcance de todos. Ediciones Rialp, 2004. ISBN 978-84-321-3513-2
+    Singer, Peter: Ética práctica. 2ª Edición, Cambridge University Press, 2003. ISBN 84-344-1027-3
+    Tomás y Garrido, Gloria Mª. Cuestiones actuales de bioética. EUNSA. 2006. ISBN 84-313-2392-2
+    Francisco José Alarcos Martínez (Coord): 'Objeción de conciencia y sanidad', Ed Comares, Granada, 2011. ISBN 978-84-9836-806-2
+
+Fundamentación de la bioética
+
+    Bueno, Gustavo: ¿Qué es la bioética?. Pentalfa Ediciones. Oviedo. 2001. ISBN 84-930676-7-9
+    José Manuel , Silvero A.: Bioéticas. Thémata. Sevilla, nº 33, 2004. ISSN 0212-8365
+
+Enlaces externos
+
+    Bioética en Colombia
+    Observatorio de Bioética y Derecho
+    Institut Borja de Bioètica
+    Revista de Bioética y Derecho
+    Revista Bioetica&Debat
+    Bioética en la red
+    Videos y conferencias sobre bioética
+    Derechos humanos, bioética y pobreza en Latinoamérica
+    Artículos en bioética
+    Bioética e Interculturalidad
+    Voz Bioética en Philosophica: Enciclopedia filosófica en línea
+    Enciclopedia de Bioética en línea

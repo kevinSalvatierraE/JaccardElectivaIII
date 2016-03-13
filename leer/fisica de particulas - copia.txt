@@ -1,0 +1,230 @@
+Física de partículas
+Artículo bueno
+
+La física de partículas es la rama de la física que estudia los componentes elementales de la materia y las interacciones entre ellos.1
+
+Las partículas fundamentales se subdividen en bosones (partículas de espín entero, como por ejemplo 0, 1, 2...), que son las responsables de transmitir las fuerzas fundamentales de la naturaleza, y fermiones (partículas de espín semientero, como por ejemplo 1/2 o 3/2).
+
+Se conoce a esta rama también como física de altas energías, debido a que muchas de las partículas se las puede ver sólo en grandes colisiones provocadas en los aceleradores de partículas.2
+Diagrama de Feynman de una desintegración beta, proceso mediante el cual un neutrón puede convertirse en protón. En la figura, uno de los tres quarks del neutrón de la izquierda (quark d en azul) emite una partícula W-, pasando a ser un quark (u); la partícula emitida (W-) se desintegra en un antineutrino y un electrón.
+
+Índice
+
+    1 Historia
+    2 Partículas elementales
+        2.1 Bosones
+        2.2 Fermiones
+    3 Partículas compuestas
+        3.1 Bariones
+        3.2 Mesones
+    4 Partículas hipotéticas
+        4.1 Supersimetría
+        4.2 Otras
+        4.3 Clasificación por velocidad
+    5 Cuasipartículas
+    6 Principales centros de investigación
+    7 Véase también
+    8 Referencias
+        8.1 Notas
+        8.2 Bibliografía
+        8.3 Enlaces externos
+
+Historia
+Artículo principal: Historia de la física de partículas
+Primera observación de un neutrino, tras incidir sobre un protón, en una cámara de burbujas.
+
+El hombre, desde la antigüedad, ha imaginado que el Universo en el que habita está compuesto de varios elementos; por ejemplo, Empédocles en el siglo V antes de nuestra era postuló que todo lo existente se podría obtener de la mezcla de agua, tierra, fuego y aire.3 Podríamos mencionar a Demócrito como el primero en indicar la existencia de átomos, como una especie de elementos indivisibles.
+
+Los avances científicos de principios del siglo XX por parte de Max Planck, Albert Einstein, Niels Bohr y otros dieron lugar al nacimiento de la mecánica cuántica. El efecto fotoeléctrico mostraba la naturaleza cuántica de la luz para explicar su interacción con la materia, denominándose fotón al "cuanto" de luz. Actualmente se conocen otras tres partículas que interactúan con la materia, llamadas bosones. Para explicar la estructura de la materia aparecieron diferentes modelos atómicos, siendo, hacia 1930, los electrones, protones y neutrones los constituyentes básicos de la materia. Hacia 1960, gracias a Murray Gell-Mann, se predicen constituyentes más elementales para los protones y neutrones, los quarks, por lo que los elementos básicos constituyentes de la materia se convierten en quarks, electrones y neutrinos.
+Partículas elementales
+Artículos principales: Partícula elemental y Modelo estándar.
+
+Los físicos de partículas se han esforzado desde un principio por clasificar las partículas conocidas y por describir toda la materia y sus interacciones. A lo largo de la historia de la física han existido muchas partículas que en su momento se han definido como indivisibles, tales como los protones y neutrones, que más adelante se ha demostrado que si lo son. Después de diferentes teorías atómicas y nucleares, en la actualidad se usa el llamado modelo estándar para describir la materia que constituye el universo y sus interacciones.
+
+De acuerdo con el modelo estándar, existen seis tipos de quarks, seis tipos de leptones y cuatro tipos de bosones. Estas partículas están divididas en dos grandes categorías por el principio de exclusión de Pauli: las que no están sujetas a este principio son los bosones y a las que sí lo están se las llama fermiones.4
+Bosones
+Nombre y carga eléctrica de los componentes de la materia.
+Artículo principal: Bosón
+
+Los bosones son partículas que no cumplen el principio de exclusión de Pauli, por lo que dos partículas pueden ocupar el mismo estado cuántico. A temperaturas muy bajas tienden a ocupar el nivel energético más bajo, ocupando todas las partículas el mismo estado cuántico.5 En 1924, Satyendra Nath Bose y Albert Einstein postularon un modelo de estadística, conocida ahora como estadística de Bose-Einstein, para moléculas a temperaturas muy cercanas al cero absoluto; esta misma estadística resulta que puede aplicarse también a este tipo de partículas.6
+
+Según el modelo estándar, los bosones son cuatro:7
+Partícula 	Símbolo 	Masa (en GeV/c2) 	Carga eléctrica 	Espín 	Interacción
+Fotón 	\ \gamma 	0 	0 	1 	electromagnética
+Bosón W 	W± 	80,4 	± 1 	1 	débil
+Bosón Z 	Z0 	91,187 	0 	1 	débil
+Gluón 	g 	0 	0 	1 	fuerte
+
+Las teorías matemáticas que estudian los fenómenos de estas partículas son, en el caso de la interacción fuerte, de los gluones, la cromodinámica cuántica; y en el caso de la interacción electrodébil, de fotones y bosones W y Z, la electrodinámica cuántica.
+Fermiones
+Artículo principal: Fermión
+
+Los fermiones son partículas con espín, o momento angular intrínseco, fraccionario y que sí están sujetos al principio de exclusión de Pauli. O sea que dos partículas no pueden estar en un mismo estado cuántico en el mismo momento. Su distribución está regida por la estadística de Fermi-Dirac; de ahí su nombre.8
+
+Los fermiones son básicamente partículas de materia, pero a diferencia de los bosones, no todos los fermiones son partículas elementales. El caso más claro es el de los protones y neutrones; estas partículas son fermiones pero están compuestos de quarks, que, en nuestro nivel actual de conocimientos, sí se consideran como elementales.
+
+Los fermiones se dividen en dos grupos: los quarks y los leptones. Esta diferencia se aplica debido a que los leptones pueden existir aislados, a diferencia de los quarks que se encuentran siempre en presencia de otros quarks.9 Los grupos de quarks no pueden tener carga de color debido a que los gluones que los unen poseen carga de color. Las propiedades básicas de estas partículas se las encuentra aquí:7
+Tipo de fermión 	Nombre 	Símbolo 	Carga
+electromagnética 	Carga débil* 	Carga de
+color 	Masa
+Leptón
+Electrón 	e- 	-1 	-1/2 	0 	0,511 MeV/c²
+Muon 	\mu- 	-1 	-1/2 	0 	105,6 MeV/c²
+Tauón 	\tau- 	-1 	-1/2 	0 	1,784 GeV/c²
+Neutrino electrónico 	\nue 	0 	+1/2 	0 	< 50 eV/c²
+Neutrino muónico 	\nu\mu 	0 	+1/2 	0 	< 0,5 MeV/c²
+Neutrino tauónico 	\nu\tau 	0 	+1/2 	0 	< 70 MeV/c²
+Quark
+up 	u 	+2/3 	+1/2 	R/G/B 	~5 MeV/c²
+charm 	c 	+2/3 	+1/2 	R/G/B 	~1.5 GeV/c²
+top 	t 	+2/3 	+1/2 	R/G/B 	>30 GeV/c²
+down 	d 	-1/3 	-1/2 	R/G/B 	~10 MeV/c²
+strange 	s 	-1/3 	-1/2 	R/G/B 	~100 MeV/c²
+bottom 	b 	-1/3 	-1/2 	R/G/B 	~4,7 GeV/c²
+
+    Las partículas de la tabla sólo tienen carga débil cargada (W+ y W-) si son levógiras o, para las antipartículas, si son dextrógiras.
+
+Las partículas se agrupan en generaciones. Existen tres generaciones: ·la primera está compuesta por el electrón, su neutrino y los quarks up y down. ·La materia ordinaria está compuesta por partículas de esta primera generación. ·Las partículas de otras generaciones se desintegran en partículas de las generaciones inferiores.
+Partículas compuestas
+Artículos principales: Partícula compuesta y Hadrón.
+
+Los físicos de partículas denominan como hadrones a las partículas que se componen de otras más elementales. Los hadrones están compuestos de quarks, de antiquarks y de gluones. La carga eléctrica de los hadrones es un número entero, por lo que la suma de la carga de los quarks que los componen debe ser un entero.10
+
+La interacción fuerte es la que predomina en los hadrones, aunque también se manifiestan la interacción electromagnética y la débil.11 Las partículas con carga de color interactúan mediante gluones; los quarks y los gluones, al tener carga de color, están confinados a permanecer unidos en una partícula con carga de color neutra.12 La formulación teórica de estas partículas la realizaron simultánea e independientemente Murray Gell-Mann y George Zweig en 1964, en el llamado modelo de quarks. Este modelo ha recibido numerosas confirmaciones experimentales desde entonces.
+
+Los hadrones se subdividen en dos clases de partículas, los bariones y los mesones.
+Bariones
+Artículo principal: Barión
+Estructura de un protón.
+
+Los bariones son partículas que contienen tres quarks, algunos gluones y algunos antiquarks. Los bariones más conocidos son los nucleones; es decir, los protones y neutrones, además de otras partículas más masivas conocidas como hiperones.13 Dentro de los bariones existe una intensa interacción entre los quarks a través de los gluones, que transporta la interacción fuerte. Como los gluones tienen carga de color, en los bariones las partículas que lo contienen cambian rápidamente de carga de color, pero el conjunto del barión permanece con carga de color neutra.14
+
+Los bariones son también fermiones, por lo que el valor de su espín es 1/2, 3/2,.... Como todas las partículas, los bariones tienen su partícula de antimateria llamada antibarión, que se forma con la unión de tres antiquarks.14 Sin contar con los nucleones, la mayoría de bariones son inestables.13
+Mesones
+Artículo principal: Mesón
+
+Los mesones son partículas formadas por un quark, un antiquark y la partícula que las une, el gluon. Todos los mesones son inestables; pese a ello pueden encontrarse aislados debido a que las cargas de color del quark y del antiquark son opuestas, obteniendo un mesón con carga de color neutra. Los mesones son además bosones, ya que la suma de los espines, de sus quark-antiquark más la contribución del movimiento de estas partículas es un número entero.15 Se conoce también que el mesón posee interacciones fuertes, débiles y electromagnéticas.13
+
+En este grupo se incluyen el pion, el kaón, la J/?, y muchas otras. Puede que existan también mesones exóticos, aunque no existe evidencia experimental de ellos.
+Partículas hipotéticas
+Artículo principal: Partícula hipotética
+
+Entre las principales partículas conjeturadas teóricamente y que aún no han sido confirmadas por ningún experimento hasta el 2008, se encuentran:
+
+    El bosón de Higgs es la única partícula del modelo estándar cuya existencia aún no se confirmó.16 Experimentos en el Gran colisionador de hadrones han confirmado el hallazgo de una partícula que podría ser el bosón de Higgs, aunque se está a la espera de mayores precisiones.17 En la formulación del modelo electrodébil, la partícula que podría explicar la diferencia de masas de los bosones W y Z y el fotón; se postula que para poder romper espontáneamente la simetría de un campo de Yang-Mills se necesita una partícula, ahora conocida como bosón de Higgs. Esta partícula en un campo de Higgs daría las respuestas a esta interrogante.18
+    El gravitón es el hipotético bosón para la interacción gravitatoria que ha sido propuesto en las teorías de la gravedad cuántica. No suele formar parte del modelo estándar debido a que no se ha encontrado experimentalmente. Se teoriza que interaccionaría con leptones y quarks y que no tendría masa.19
+
+Véanse también: axión, Graviescalar, Gravifotón, Neutrino estéril y Bosón X (demasiados parámetros en {{VT}}) Wikipedia.
+Supersimetría
+
+La teoría de supersimetría plantea la existencia de partículas supercompañeras de las actuales partículas existentes.20 Así, entre las más destacadas tenemos:
+
+    El neutralino es la mejor candidata, en el modelo estándar, para partícula de materia oscura. En la teoría de supersimetría, el neutralino es una partícula neutra, estable y super ligera,21 que no tiene una pareja simétrica en las partículas ordinarias.22
+    Los sleptones y los squarks son los compañeros supersimétricos de los fermiones del modelo estándar.20
+    El fotino, el wino, el zino, el gravitino y el gluino son las partículas supercompañeras de los bosones.20
+
+Otras
+
+    Un WIMP (del inglés: partícula masiva que interactúa débilmente) son unas partículas hipotéticas propuestas para explicar la materia oscura (como el neutralino o el axión).
+    El pomerón, usado en la teoría Regge para explicar el fenómeno de la dispersión elástica de los hadrones y la posición de los polos de Regge.
+    El skirmión, un solitón topológico para el campo del pion que se usa para modelar las propiedades a baja energía del nucleón.
+    El bosón de Goldstone es una excitación sin masa de un campo cuya simetría ha sido rota espontáneamente. Los piones son casi bosones de Goldstone por la ruptura de la simetría del isospín de la quiralidad en la cromodinámica cuántica (no lo es porque tiene masa).
+    El goldstino (fermión) se produce entonces por la ruptura espontánea de la supersimetría por el bosón de Goldstone.
+    El instantón es una configuración de campo que es un mínimo local de una acción euclídea. Se usan en cálculos no perturbativos del efecto túnel.
+
+Clasificación por velocidad
+
+De acuerdo con su masa y rango de velocidad alcanzable las partículas hipotéticas (y las reales) pueden clasificarse en:
+
+    Un tardión viaja más lento que la luz y tiene una masa en reposo no nula. Todas las partículas con masa pertenecen a esta categoría.
+    Un luxón viaja exactamente a la velocidad de la luz, y no tiene masa. Todas las partículas bosónicas sin masa pertenecen a esta categoría, usualmente se acepta que los neutrinos también pertenecen a esta categoría.
+    Un taquión es una partícula hipotética que viaja más rápido que la luz, y cuya masa debe de ser imaginaria. No se han detectado ejemplos de este tipo de partícula.
+
+Cuasipartículas
+Artículo principal: Cuasipartícula
+
+Las ecuaciones de campo de la física de la materia condensada son muy similares a las de la física de partículas. Por eso, mucha de la teoría de la física de partículas se puede aplicar a la física de la materia condensada, asignando a cada campo o excitación de la misma un modelo que incluye "cuasipartículas". Se incluyen:
+
+    Los fonones, modos vibratorios en una estructura cristalina.
+    Los excitones, que son la superposición de un electrón y un hueco.
+    Los plasmones, conjunto de excitaciones coherentes de un plasma.
+    Los polaritones son la mezcla de un fotón y otra de las cuasipartículas de esta lista.
+    Los polarones, que son cuasipartículas cargadas en movimiento que están rodeadas de iones en un material.
+    Los magnones son excitaciones coherentes de los espines de los electrones en un material.
+
+Principales centros de investigación
+
+Los más importantes laboratorios de física de partículas en el mundo son:
+
+    CERN, localizado entre la frontera Franco-Suiza cerca de la ciudad suiza de Ginebra. Su principal proyecto actual es el Large Hadron Collider o LHC, terminada su construcción, ha sido puesto en funcionamiento. Éste es el mayor colisionador de partículas del mundo. En el CERN también podemos encontrar al LEP, colisionador electrón positrón, y al Superproton sincrotrón.
+
+LHC quadrupole magnets.jpg
+
+    Fermilab, localizado cerca de Chicago en Estados Unidos, cuenta con el Tevatrón que puede colisionar protones y antiprotones y es el segundo acelerador de partículas más energético del mundo después del LHC.
+
+    Laboratorio Nacional Brookhaven, localizado en Long Island (Estados Unidos), cuenta con un acelerador relativista de iones pesados que puede colisionar iones pesados como el oro y protones polarizados. Fue el primer acelerador de iones pesados y es el único que puede acelerar protones polarizados.
+
+    DESY, localizado en Hamburgo (Alemania), cuenta con el HERA que puede acelerar electrones, positrones y protones.
+
+    KEK, localizado en Tsukuba (Japón), es la organización japonesa de investigación de altas energías. Aquí se han producido muchos experimentos interesantes como el experimento de oscilación del neutrino y el experimento para medir la violación de simetría CP en el mesón B.
+
+    SLAC, localizado en Palo Alto (Estados Unidos), cuenta con el PEP-II que puede colisionar electrones y positrones.
+
+Éstos son los principales laboratorios pero existen muchos más.
+Véase también
+
+    Anexo:Tabla de partículas
+    Mecánica cuántica
+    Teoría del todo
+    Teoría de cuerdas
+    Modelo estándar de física de partículas
+    Física de Astropartículas
+
+Referencias
+Notas
+
+«Campos y Partículas». 2000. Archivado desde el original el 30 de noviembre de 2015. Consultado el 27 de febrero de 2008.
+Enciclopedia Encarta (2007). «Partículas elementales». Consultado el 28 de febrero de 2008.
+Particle Data Group. «Respuesta a la pregunta sobre los cuatro elementos». Consultado el 27 de febrero de 2008.
+Particle Data Group. «Clasificación de las Partículas». Consultado el 3 de marzo de 2008.
+Departamento de Física y Matemática (Junta de Andalucía). «La física de partículas y las interacciones fundamentales». Consultado el 3 de marzo de 2008.
+A. Cantorné (profes.net) (2001). «Un nuevo estado de la materia:Condensado Bose-Einstein». Archivado desde el original el 30 de noviembre de 2015. Consultado el 3 de marzo de 2008.
+Particle Data Group. «Componentes del "Modelo Standard" de las partículas e interacciones fundamentales». Consultado el 3 de marzo de 2008.
+Particle Data Group. «Fermiones». Consultado el 4 de marzo de 2008.
+Particle Data Group. «Leptones solitarios». Consultado el 4 de marzo de 2008.
+Particle Data Group. «Hadrones: sociedades de quarks». Consultado el 5 de marzo de 2008.
+Carlos Díaz. «Hadron». Consultado el 5 de marzo de 2008.
+Particle Data Group. «Carga de color y confinamiento». Consultado el 5 de marzo de 2008.
+Solo Ciencia (2007). «Teoría de las partículas elementales». Consultado el 6 de marzo de 2008.
+Particle Data Group. «Bariones». Consultado el 6 de marzo de 2008.
+Particle Data Group. «Mesón». Consultado el 6 de marzo de 2008.
+Scientific American (1999). «What exactly is the Higgs boson?» (en inglés). Archivado desde el original el 30 de noviembre de 2015. Consultado el 6 de marzo de 2008.
+http://cms.web.cern.ch/news/observation-new-particle-mass-125-gev
+«Unificación eletrodébil». 2002. Consultado el 7 de marzo de 2008.
+Eric W. Weisstein (2007). «Graviton» (en inglés). Consultado el 13 de marzo de 2008.
+Santiago Cárdenas Martín. «Modelo estándar de la Física de Partículas». Consultado el 8 de marzo de 2008.
+David Darling. «neutralino» (en inglés). Consultado el 8 de marzo de 2008.
+
+    New Scientist (1995). «Flashes from the beginning of the Universe» (en inglés). Consultado el 8 de marzo de 2008.
+
+Bibliografía
+
+    Close, Frank (2004). Particle Physics: A Very Short Introduction. Oxford University Press. ISBN 0-19-280434-0.
+    Oerter, Robert (2006). The Theory of Almost Everything: The Standard Model, the Unsung Triumph of Modern Physics. Plume.
+
+Enlaces externos
+
+    Wikimedia Commons alberga contenido multimedia sobre Física de partículas.
+    Proyecto Consolider 2010 CPAN (Centro Nacional de Física de Partículas, Astropartículas y Nuclear)
+    Energía nuclear: el poder del átomo
+    La aventura de las partículas
+
+En inglés
+
+    Particle Data Group
+    CERN
+    Fermilab
+    Brookhaven National Laboratory
+    DESY
+    KEK
+    SLAC

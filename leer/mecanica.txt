@@ -1,0 +1,229 @@
+Mecánica de sólidos deformables
+Espuma viscoelástica, es un sólido deformable ya que tiende a recuperar su forma para esfuerzos ligeros, aunque el modo de recuperación es retardado a diferencia de un sólido elástico en que la respuesta es prácticamente instantánea.
+
+La mecánica de sólidos deformables estudia el comportamiento de los cuerpos sólidos deformables ante diferentes tipos de situaciones como la aplicación de cargas o efectos térmicos. Estos comportamientos, más complejos que el de los sólidos rígidos, se estudian en mecánica de sólidos deformables introduciendo los conceptos de deformación y de tensión mediante sus aplicaciones de deformación.
+
+Una aplicación típica de la mecánica de sólidos deformables es determinar a partir de una cierta geometría original de sólido y unas fuerzas aplicadas sobre el mismo, si el cuerpo cumple ciertos requisitos de resistencia y rigidez. Para resolver ese problema, en general es necesario determinar el campo de tensiones y el campo de deformaciones del sólido. Las ecuaciones necesarias para ello son:
+
+    ecuaciones de equilibrio, que relacionan tensiones internas del sólido con las cargas aplicadas. Las ecuaciones de la estática son deducibles de las ecuaciones de equilibrio.
+    ecuaciones constitutivas, que relacionan tensión y deformación, y en las que pueden intervenir también otras magnitudes como temperatura, velocidad de deformación, deformaciones plásticas acumuladas, variables de endurecimiento, etc.
+    ecuaciones de compatibilidad, a partir de la cual pueden calcularse los desplazamientos en función de las deformaciones y las condiciones de contorno o enlace con el exterior.
+
+Índice
+
+    1 Tipos de sólidos deformables
+        1.1 Ecuaciones constitutivas
+        1.2 Termodinámica
+    2 Materiales elásticos
+        2.1 Teoría de la elasticidad lineal
+        2.2 Resistencia de materiales
+    3 Materiales viscoelásticos
+    4 Véase también
+    5 Referencia
+        5.1 Bibliografía
+
+Tipos de sólidos deformables
+
+Los sólidos deformables difieren unos de otros en su ecuación constitutiva. Según sea la ecuación constitutiva que relaciona las magnitudes mecánicas y termodinámicas relevantes del sólido, se tiene la siguiente clasificación para el comportamiento de sólidos deformables:
+
+    Comportamiento elástico, se da cuando un sólido se deforma adquiriendo mayor energía potencial elástica y, por tanto, aumentando su energía interna sin que se produzcan transformaciones termodinámicas irreversibles. La característica más importante del comportamiento elástico es que es reversible: si se suprimen las fuerzas que provocan la deformación el sólido vuelve al estado inicial de antes de aplicación de las cargas. Dentro del comportamiento elástico hay varios subtipos:
+        Elástico lineal isótropo, como el de la mayoría de metales no deformados en frío bajo pequeñas deformaciones.
+        Elástico lineal no isótropo, la madera es material ortotrópico que es un caso particular de no-isotropía.
+        Elástico no lineal, ejemplos de estos materiales elásticos no lineales son la goma, el caucho y el hule, también el hormigón o concreto para esfuerzos de compresión pequeños se comporta de manera no lineal y aproximadamente elástica.
+    Comportamiento plástico: aquí existe irreversibilidad; aunque se retiren las fuerzas bajo las cuales se produjeron deformaciones elásticas, el sólido no vuelve exactamente al estado termodinámico y de deformación que tenía antes de la aplicación de las mismas. A su vez los subtipos son:
+        Plástico puro, cuando el material "fluye" libremente a partir de un cierto valor de tensión.
+        Plástico con endurecimiento, cuando para que el material acumule deformación plástica es necesario ir aumentando la tensión.
+        Plástico con ablandamiento.
+    Comportamiento viscoso que se produce cuando la velocidad de deformación entra en la ecuación constitutiva, típicamente para deformar con mayor velocidad de deformación es necesario aplicar más tensión que para obtener la misma deformación con menor velocidad de deformación pero aplicada más tiempo. Aquí se pueden distinguir los siguientes modelos:
+        Visco-elástico, en que las deformaciones elásticas son reversibles. Para velocidades de deformaciones arbitrariamente pequeñas este modelo tiende a un modelo de comportamiento elástico.
+        Visco-plástico, que incluye tanto el desfasaje entre tensión y deformación por efecto de la viscosidad como la posible aparición de deformaciones plásticas irreversibles.
+
+En principio, un sólido de un material dado es susceptible de presentar varios de estos comportamientos según sea el rango de tensión y deformación que predomine. Uno u otro comportamiento dependerá de la forma concreta de la ecuación constitutiva que relaciona parámetros mecánicos importantes como la tensión, la deformación, la velocidad de deformación y la deformación plástica, junto con parámetros como las constantes elásticas, la viscosidad y parámetros termodinámicos como la temperatura o la entropía.
+Ecuaciones constitutivas
+
+Los sólidos elásticos son el tipo de sólido deformable de más sencillo tratamiento, ya que son materiales "sin memoria" en que el valor de las tensiones \boldsymbol{\sigma} en un punto \mathbf{x} en un instante dado dependen sólo de las deformaciones \boldsymbol{\varepsilon} en el mismo punto y no de las deformaciones anteriores (ni el valor de otras magnitudes en un instante anterior). Para un sólido elástico la ecuación constitutiva funcionalmente es de la forma:
+
+    (1)\boldsymbol{\sigma}(\mathbf{x},t) = T(\boldsymbol{\varepsilon}(\mathbf{x},t);\mathbf{x}), \qquad \qquad T:\mathcal{T}_2(\R^3) \times \R^3 \to \mathcal{T}_2(\R^3)
+
+Si el sólido elástico además es homogéneo, la función T(\cdot,\cdot) sólo dependerá del primer argumento. En la especificación anterior \mathcal{T}_2(\R^3) denota el conjunto de tensores simétricos en el espacio euclídeo tridimensional. Si el material no responde a una ecuación como la anterior entonces el material es anelástico. Los materiales anelásticos se caracterizan por ser materiales "con memoria" en los que la tensión actual en punto depende de la deformación en el mismo punto en algún instante anterior. La viscoelasticidad es el tipo de fenómeno de memoria más simple, aunque otros fenómenos como la existencia de plasticidad son formas de anelasticidad que requieren un tratamiento más complejo. Un material con memoria totalmente general responde a una ecuación más compleja:
+
+    (2)\boldsymbol{\sigma}(\mathbf{x},t) = T(\boldsymbol{\tilde\varepsilon}^t(\mathbf{x},\cdot);\mathbf{x}), \qquad \qquad \boldsymbol{\tilde\varepsilon}^t(\mathbf{x},\tau):= \boldsymbol{\varepsilon}(\mathbf{x},\tau-t), \quad T:\mathcal{F}(\mathcal{T}_2(\R^3)) \times \R^3 \to \mathcal{T}_2(\R^3)
+
+Obsérvese que ahora el segundo argumento de T(\cdot,\cdot) no está sobre un espacio vectorial finito (tensores simétricos de orden dos), sino sobre un espacio funcional \mathcal{F}(\mathcal{T}_2(\R^3)) (funciones que toman valores sobre los tensores de orden dos). Ahora no basta con especificar el valor actual de la deformación \boldsymbol{\varepsilon} sino que es necesario especificar el valor para cualquier instante de tiempo \boldsymbol{\tilde\varepsilon}^t lo cual requiere especificar una función del tiempo con lo cual el primer argumento pertenece a un espacio infinitodimensional.
+
+Afortunadamente el tratamiento de los materiales viscoelásticos y elastoplásticos convencionales puede hacerse con ecuaciones constitutivas menos generales que (2). Los sólidos viscoelásticos y elastoplásticos son casos particulares de (2) pueden definirse sobre espacios de dimensión finita. Por ejemplo un sólido viscoelástico de tipo diferencial con complejidad 1, el tipo más simple de viscoelasticidad, pude ser descrito simplemente mediante una ecuación constitutiva del tipo:
+
+    (3)\boldsymbol{\sigma}(\mathbf{x},t) = T(\boldsymbol{\varepsilon}(\mathbf{x},t),\boldsymbol{\dot\varepsilon}(\mathbf{x},t);\mathbf{x}), \qquad \qquad \boldsymbol{\dot\varepsilon}(\mathbf{x},\tau):= \frac{d\boldsymbol{\varepsilon}}{dt}, \quad T:(\mathcal{T}_2(\R^3)\times \mathcal{T}_2(\R^3)) \times \R^3 \to \mathcal{T}_2(\R^3)
+
+Si la complejidad es más alta, bastaría añadir derivadas segundas o terceras hasta el orden adecuado. Para un sólido viscoelástico lineal, puede verse que (3) es un caso particular de (2) ya que en un sólido viscoelástico lineal cuya función de relajación sea \scriptstyle F(\cdot) la tensión se relaciona con la deformación mediante:
+
+    \boldsymbol{\sigma}(\mathbf{x},t) = [\mathbf{C}+\mathbf{F}(0)]:\boldsymbol{\varepsilon}(\mathbf{x},t) - \mathbf{F}(t):\boldsymbol{\varepsilon}(\mathbf{x},0) + \int_0^t \dot\mathbf{F}(\tau):\boldsymbol{\varepsilon}(\mathbf{x},t-\tau) d\tau
+
+que es una ecuación del tipo (3) que es lineal en todos sus argumentos.
+
+Para un material elastoplástico los efectos "de memoria" del material se representan mediante una variable interna, asociada a la deformación plástica, cuyo valor numérico va a depender de la historia pasada del material: Pero como sólo importa el valor actual de la variable interna las variables seguirán definidas sobre un espacio de dimensión finita. Un material elastoplástico no dependiente de la velocidad de deformación puede representarse por una sistema de ecuaciones del tipo:
+
+    (4)\boldsymbol{\sigma}(\mathbf{x},t) = T(\boldsymbol{\varepsilon}(\mathbf{x},t),\boldsymbol{\xi}(\mathbf{x},t);\mathbf{x}), \qquad \qquad \dot\boldsymbol{\xi} = \Phi(\boldsymbol{\varepsilon}(\mathbf{x},t),\boldsymbol{\xi})\boldsymbol{\dot\varepsilon}
+
+Donde las variables internas \scriptstyle\xi incluyen la deformación plástica y posiblemente otras magnitudes. Si el material es viscoelastoplástico entonces hay que complicar un poco más la primera ecuación anterior:
+
+    (5)\boldsymbol{\sigma}(\mathbf{x},t) = T(\boldsymbol{\varepsilon}(\mathbf{x},t),\boldsymbol{\dot\varepsilon}(\mathbf{x},t),\boldsymbol{\xi}(\mathbf{x},t);\mathbf{x})
+
+Termodinámica
+
+Para sólidos elásticos y viscoelásticos la ecuación constitutiva, de acuerdo con el procedimiento de Coleman-Noll, puede derivarse de la existencia de una función de densidad energía almacenada. En el caso que sólidos que puedan sufrir cambios de temperatura o entropía al deformase debe substituirse la función de densidad de energía por la energía libre de Helmholtz \Psi(C_{AB},\Gamma_\alpha, T) por unidad de volumen. Usualmente la forma de la potencial de energía libre se toma de la forma:1
+
+    (6)\Psi(\mathbf{C},\Gamma_1,\dots,\Gamma_m,T) = \Psi_\mathrm{vol}^\infty(J,T) + \Psi_\mathrm{iso}^\infty(\mathbf{\bar{C}},T) + \sum_{\alpha=1}^m \Upsilon_\alpha(\mathbf{\bar{C}},\Gamma_\alpha,T)
+
+donde:
+
+    \mathbf{C}, \mathbf{\bar{C}}, es el tensor de Cauchy diestro y su parte desviadora.
+    J\,, jacobiano del gradiente de deformación.
+    \Gamma_\alpha son variables que caracterizan el comportamiento de fluencia lenta y de relajación.
+    T\, es la temperatura.
+
+En esa formulación el segundo tensor de tensiones de Piola-Kirchhoff puede obtenerse como:
+
+    (7)S_{AB} = 2 \frac{\part \Psi}{\part C_{AB}}
+
+donde:
+
+    C_{AB} son las componentes del tensor Cauchy diestro a partir del cual se define el tensor de deformación material de Green-Lagrange.
+
+Materiales elásticos
+
+Los materiales elásticos son el tipo más simple de sólido deformable donde las tensiones en un punto depende sólo de las deformaciones coocurrentes en el mismo punto. Esa restricción hace que los materiales elásticos sean sistemas termodinámicamente reversibles donde no hay disipación. Dentro de los materiales elásticos además es frecuente la diferencia entre materiales elásticos lineales, donde la ecuación constitutiva (1) es una función lineal en su primer argumento y además las deformaciones sean pequeñas(\scriptstyle |\varepsilon_{ij}| < 10^{-2}). Matemáticamente los materiales elásticos lineales son fácilmente tratables y gran parte de las aplicaciones prácticas y el análsiis estructural se basan en este tipo de materiales. Sin embargo, la linealidad entre deformaciones y desplazamientos sólo se da aproximadamente para pequeñas deformaciones y en general los problemas con grandes deformaciones, requieren su tratamiento mediante elasticidad no lineal. Este tratamiento es sustancialmente más complejo desde el punto de vista matemático.
+Teoría de la elasticidad lineal
+Artículo principal: Elasticidad (mecánica de sólidos)
+
+Para materiales que tienen un comportamiento elástico lineal, o aproximadamente lineal, para pequeñas o moderadas deformaciones. El cálculo de tensiones y deformaciones puede hacerse usando la teoría lineal de la elasticidad. Esta teoría resuelve los problemas de mecánica de sólidos planteando un sistema de ecuaciones diferenciales en derivadas parciales. Desde el punto de vista físico los diversos subsistemas de ecuaciones que incluye esta teoría son:
+
+    Ecuaciones de equilibrio interno. Que relacionan las fuerzas volumétricas (bi) con las derivadas de las tensiones (sij) en el interior del sólido:
+
+        \frac{\partial \sigma_{xx}}{\partial x}+ \frac{\partial \sigma_{xy}}{\partial y}+ \frac{\partial \sigma_{xz}}{\partial z} + b_x = 0 \qquad \frac{\partial \sigma_{yx}}{\partial x}+ \frac{\partial \sigma_{yy}}{\partial y}+ \frac{\partial \sigma_{yz}}{\partial z} + b_y = 0 \qquad \frac{\partial \sigma_{zx}}{\partial x}+ \frac{\partial \sigma_{zy}}{\partial y}+ \frac{\partial \sigma_{zz}}{\partial z} + b_z = 0 
+
+    Ecuaciones de equilibrio externo. Que relacionan las fuerzas superficiales o fuerzas de contacto (fi) aplicadas en la superficie del sólido con el valor de las tensiones en el controno del sólido:
+
+        \sigma_{xx}\ n_x+ \sigma_{xy}\ n_y+ \sigma_{xz}\ n_z = f_x \qquad \sigma_{yx}\ n_x+ \sigma_{yy}\ n_y+ \sigma_{yz}\ n_z = f_y \qquad \sigma_{zx}\ n_x+ \sigma_{zy}\ n_y+ \sigma_{zz}\ n_z = f_z 
+
+    Ecuaciones constitutivas o ecuaciones de Lamé-Hooke. Son ecuaciones algebraicas y lineales que relacionan el valor de las componentes del tensor tensión con el valor del tensor deformación:
+
+        \varepsilon_{xx} = \frac{1}{E}\left( \sigma_{xx} - \nu(\sigma_{yy}+\sigma_{zz})\right) \qquad \varepsilon_{xy} = \frac{(1+\nu)}{E}\sigma_{xy}
+        \varepsilon_{yy} = \frac{1}{E}\left( \sigma_{yy} - \nu(\sigma_{xx}+\sigma_{zz})\right) \qquad \varepsilon_{yz} = \frac{(1+\nu)}{E}\sigma_{yz}
+        \varepsilon_{zz} = \frac{1}{E}\left( \sigma_{zz} - \nu(\sigma_{xx}+\sigma_{yy})\right) \qquad \varepsilon_{xz} = \frac{(1+\nu)}{E}\sigma_{xz}
+
+    Relación entre desplazamientos y deformaciones. Que relacionan las componentes del tensor de deformaciones (eij) con las componentes del vector de desplazamiento u = (ux, uy, uz):
+
+        \varepsilon_{ij}={1\over2}\left({\part u_i \over\part x_j}+{\part u_j \over\part x_i}\right) 
+
+    Condiciones de contorno, que fijan el valor del desplazamiento para algunos puntos del contorno exterior, normalmente los puntos que sean puntos de unión del sólido deformable a alguna otra estructura o elemento resistente sobre el que se apoye o ancle.
+
+Resistencia de materiales
+Artículo principal: Resistencia de materiales
+
+Ciertos problemas sencillos de la mecánica de sólidos deformables con geometrías simples pueden tratarse mediante la resistencia de materiales clásica. En especial para el cálculo de vigas y cuando la concentración de tensiones no es particularmente pueden plantearse ecuaciones diferenciales ordinarias en una variable para el cálculo de tensiones y deformaciones, lo cual hace muy fácil el encontrar soluciones analíticas que aproximen las tensiones del problema real tridimensional.
+
+Además, muchos problemas que son indeterminados según el modelo de la mecánica del sólido rígido (problemas hiperestáticos), son resolubles en el modelo de sólidos deformables gracias a que se usan ecuaciones adicionales (ecuación constitutiva y ecuaciones de compatibilidad). Normalmente estas ecuaciones adicionales se escriben en términos de esfuerzos, deformaciones o desplazamientos (Véase también: teoremas de Castigliano, ecuaciones de Navier-Bresse, teoremas de Mohr).
+
+Una de las principales aplicaciones de la mecánica de sólidos deformables es el cálculo de estructuras en ingeniería y arquitectura. Como campo de estudio, la mecánica de sólidos deformables forma parte de la mecánica de medios continuos. Cabe señalar que los métodos simplifcados usados en resistencia de materiales también pueden extenderse a materiales con cierto tipo de plasticidad o materiales viscoelásticos, por lo que la resistencia de materiales no está limitada estrictamente a materiales elásticos, aunque en la práctica la resistencia de materiales no elásticos es poco usada en la práctica, siendo más común el uso de códigos basados en elementos finitos u otros métodos computacionales y el tratamiento no simplificado de la geometría.
+Materiales viscoelásticos
+
+Para un sólido viscoelástico el tensor de tensiones se puede descomponer en una combinación lineal de tensiones en el equilibrio (al que convergerían las tensiones si la deformación se mantiene constante) y tensiones transitorias asociadas al comportamiento propiamente viscoelástico. Usando la forma (6) para la energía libre de Helmholtz, el tensor de tensiones tendrá la forma:
+
+    \mathbf{S}(\mathbf{x},t) = \mathbf{S}_\mathrm{vol}^\infty(\mathbf{x}) + \mathbf{S}_\mathrm{iso}^\infty(\mathbf{x})+ \sum_\alpha \mathbf{Q}_\alpha (\mathbf{x},t)
+
+donde el último término contiene las tensiones de no equilibrio asociadas al comportamiento de fluencia y relajación.
+Véase también
+
+    Mecánica de medios continuos y Mecánica del sólido rígido
+    Material simple
+    Elasticidad y Resistencia de materiales
+    Tensión y Deformación
+    Problema elástico y Problema elastoplástico
+    Dislocación (metalotecnia)
+
+Referencia
+
+    Holzapfel, 2000, p. 283.
+
+Bibliografía
+
+    Holzapfel, G.A. (2000). Nonlinear Solid Mechanics: A Continuum Approach for Engineering. John Wiley & Sons. ISBN 9780471823193.
+    Antman, Stuart (2006). Nonlinear Problems of Elasticity. Springer. ISBN 0387276491.
+
+Categoría:
+
+    Mecánica de sólidos deformables
+
+Menú de navegación
+
+    No has iniciado sesión
+    Discusión
+    Contribuciones
+    Crear una cuenta
+    Acceder
+
+    Artículo
+    Discusión
+
+    Leer
+    Editar
+    Ver historial
+
+    Portada
+    Portal de la comunidad
+    Actualidad
+    Cambios recientes
+    Páginas nuevas
+    Página aleatoria
+    Ayuda
+    Donaciones
+    Notificar un error
+
+Imprimir/exportar
+
+    Crear un libro
+    Descargar como PDF
+    Versión para imprimir
+
+Herramientas
+
+    Lo que enlaza aquí
+    Cambios en enlazadas
+    Subir archivo
+    Páginas especiales
+    Enlace permanente
+    Información de la página
+    Elemento de Wikidata
+    Citar esta página
+
+En otros idiomas
+
+    ???????
+    Català
+    Ceština
+    English
+    ?????
+    Français
+    ?????
+    ??????
+    ???????
+    Bahasa Indonesia
+    Ido
+    Italiano
+    ?????????
+    ???
+    ?????
+    Português
+    ???????
+    Simple English
+    ??????????
+    Ti?ng Vi?t
+    ??
+
+Editar enlaces
+
+    Esta página fue modificada por última vez el 28 ene 2016 a las 02:58.
+    El texto está disponible bajo la Licencia Creative Commons Atribución Compartir Igual 3.0; podrían ser aplicables cláusulas adicionales. Léanse los términos de uso para más información.
+    Wikipedia® es una marca registrada de la Fundación Wikimedia, Inc., una organización sin ánimo de lucro.
+    Contacto

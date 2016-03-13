@@ -1,0 +1,161 @@
+ísica del estado sólido
+
+Las propiedades físicas del estado sólido, es la rama de la propiedad física de la materia condensada que trata sobre el estudio de los sólidos, es decir, la materia rígida o semirígida. Estudia las propiedades físicas de los materiales sólidos utilizando disciplinas tales como la mecánica cuántica, la cristalografía, el electromagnetismo y la metalurgia física. Forma la base teórica de la ciencia de materiales y su desarrollo ha sido fundamental en el campo de las aplicaciones tecnológicas de microelectrónica al posibilitar el desarrollo de transistores y materiales semiconductores.*
+
+La mayor parte de la investigación en la teoría de la física de estado sólido se centra en los cristales, en gran parte porque la periodicidad de los átomos en un cristal, su característica definitoria, facilita el modelado matemático, y también porque los materiales cristalinos tienen a menudo características eléctricas, magnéticas, ópticas, o mecánicas que pueden ser explotadas para los propósitos de la ingeniería.
+
+El marco de la mayoría de la teoría en la física de estado sólido es la formulación (de la onda) de Schrödinger de la mecánica cuántica no relativista. Un importante punto de partida para mucho análisis es el teorema de Bloch, que caracteriza las funciones de onda de electrones en un potencial periódico. Puesto que el teorema de Bloch se aplica solamente a los potenciales periódicos, y puesto que los incesantes movimientos al azar de los átomos en un cristal interrumpen la periodicidad, este uso del teorema de Bloch es solamente una aproximación, pero ha demostrado ser una aproximación enormemente valiosa, sin la cual la mayoría del análisis de la física de estado sólido serían insuperables. Las desviaciones de la periodicidad son tratadas por la teoría de perturbaciones de la mecánica cuántica.
+
+Índice
+
+    1 Introducción
+    2 Estructura Cristalina
+    3 Modelo de bandas energéticas
+        3.1 Modelo simple
+        3.2 Distribución probabilística de los electrones en las bandas
+    4 Conductividad eléctrica
+    5 Temas de la física de estado sólido
+    6 Véase también
+    7 Enlaces externos y referencias
+
+Introducción
+
+Los cuerpos sólidos están formados por átomos densamente empaquetados con intensas fuerzas de interacción entre ellos. Los efectos de interacción son responsables de las propiedades mecánicas, térmicas, eléctricas,magnéticas y ópticas de los sólidos.
+
+Una característica importante de la mayoría de los sólidos es su estructura cristalina. Los átomos están distribuidos en posiciones regulares que se repiten regularmente de manera geométrica. La distribución específica de los átomos puede deberse a una variada gama de fuerzas. Por ejemplo, algunos sólidos como el cloruro de sodio o sal común se mantienen unidos por enlaces iónicos debidos a la interacción electrostática entre los iones que componen el material. En otros, como el diamante, los átomos comparten electrones, lo que da lugar a los llamados enlaces covalentes.
+
+Las sustancias inertes, como el neón, no presentan ninguno de esos enlaces. Su existencia es el resultado de unas fuerzas de atracción conocidas como fuerzas de Van der Waals, así llamadas en honor al físico holandés Johannes Diderik van der Waals. Estas fuerzas aparecen entre átomos neutros o moléculas como resultado de la polarización eléctrica. Los metales, se mantienen unidos por lo que se conoce como gas electrónico, formado por electrones libres de la capa atómica externa compartidos por todos los átomos del metal y que definen la mayoría de sus propiedades. también presenta características del estado sólido tales como:
+Estructura Cristalina
+
+La Física del estado sólido constituye una parte importante de la Física Cuántica. Con su ayuda podemos comprender las propiedades mecánicas, térmicas, eléctrico-magnéticas y ópticas propias de los sólidos.
+
+La existencia de la materia en un estado u otro depende de las condiciones de presión y temperatura en las que se formaron. De la misma forma, estos parámetros condicionan la formación de la estructura interna del sólido.
+
+Cada elemento tiene sus propias curvas de cambio de fase, de manera que dependiendo del elemento se necesitarán unas condiciones u otras para la formación del sólido o para realizar cualquier otro cambio de fase. Dependiendo del alcance del orden espacial de la estructura interna en la materia y su distribución en la misma podemos distinguir entre:
+
+    Monocristal: Presenta una fuerte interacción entre sus componentes los cuales describen una mínima oscilación con poca energía potencial. Las partículas están dispuestas de acuerdo a un orden en el espacio que está determinado de acuerdo con una red estructural formada por la "recreación" geométrica de la celdilla unidad en toda la estructura del sólido. Presentan lo que se conoce como Anisotropía.
+
+    Policristal: Está compuesto por diversas regiones en las que individualmente se recrea un monocristal aunque las disposiciones de cada una de estas regiones no son simétricas entre sí. Presenta lo que se llama Isotropía estadística.
+
+    Amorfos: No presentan una estructura o distribución en el espacio, lo cual los determina como una estructura espacial tridimensional no definida. No se trata de una estructura cristalina.
+
+Formas y propiedades del cristal.
+
+En rigor, esta clasificación sólo es aplicable a sustancias puras.
+
+En un modelo de sólido en el que los átomos están conectados entre sí mediante una especie de "muelles" (los cuales representarían la energía potencial que los une), la energía interna del sólido se compone de energía potencial elástica y energía cinética de sus átomos. La presión es una medida del grado de compresión de sus átomos y la temperatura una medida de la energía cinética interna del conjunto de los mismos. Esto nos permite determinar que de acuerdo con las características externas del medio en que se encuentre, permitirán al elemento en cuestión poder adoptar un estado u otro e incluso formar o no una estructura cristalina.
+
+Sin embargo la formación de una estructura cristalina no es un proceso fijo en un mismo elemento, ya que incluso tratándose así las condiciones de formación del sólido podrían determinar dos estructuras cristalinas diferentes para un mismo elemento, la cuál otorga las propiedades tanto físicas y eléctricas como ópticas al nuevo sólido formado. Por ejemplo, el carbono puede cristalizar en grafito en determinadas condiciones y en otras cristaliza en el diamante, sin duda las características de uno frente a otro difieren bastante para tratarse en ambos casos de carbono cristalizado.
+
+Este proceso no sólo es dependiente de la presión y la temperatura en sí mismos, sino también del tiempo aplicado en cada uno de dichos factores. De esta forma se sabe que la formación de cristales requiere un calentamiento del material a alta temperatura, aproximadamente 200 °C, lo que se conoce como temperatura de cristalización, a partir de la cual el elemento se funde para posteriormente, después de un tiempo lo suficientemente largo, cristalice. Al añadir temperatura al material, realmente le estamos damos energía, permitiendo que las partículas que lo componen oscilen a mayor velocidad con una mayor energía térmica, logrando que se funda(cambie al estado líquido). Luego mediante un enfriamiento lento conseguimos dar tiempo a las partículas que, de forma natural, tienden a retomar una forma geométrica y ordenada en la red interna consiguiendo así que se forme un cristal.
+
+De igual forma, si repetimos el proceso pero aplicando un tiempo de enfriamiento demasiado corto impedimos que las partículas pueda "re-colocarse" en una red cristalina homogénea haciendo así que la solidificación de lugar a un amorfo.
+
+El policristal es el caso más típico de los que puedan encontrarse en la naturaleza, ya que un monocristal es un caso que rara vez se da. Un cristal posee diferentes zonas que no pueden homogeneizarse entre si, pero se puede hacer que sean como monocristales individuales en cada una de sus regiones.
+
+Siguiendo el ejemplo del carbono, la cualidad de que un mismo elemento pueda cristalizar en diferentes formas nos lleva al hecho de que es la red cristalina que forman la que determina sus propiedades. En la naturaleza existen 14 tipos de redes cristalinas (otras más complejas son combinaciones de estas más simples) que son conocidas como Redes de Bravais.
+
+Estas redes son organizaciones geométricas tridimensionales en el espacio características de las partículas del sólido. Así pueden estudiarse las distribuciones en la red de los elementos.
+
+Por ejemplo: El fósforo(P) cristaliza en una estructura cúbica, el hierro (Fe) en una bcc ("Body Center Cubic") y la plata (Ag) en una fcc ("Face Center Cubic"). Otros cristalizan en redes compuestas como por ejemplo los elementos del grupo IV(C, Si, Ge...) o del III de la tabla periódica que lo hacen en una estructura de tipo diamante, que es la combinación de dos redes fcc con una distancia interatómica de 1/4 de la diagonal.
+Representación de una celdilla en la disposición geométrica de sus partículas.
+
+Según cada una de estas distribuciones, cada una de las partículas situadas en los nodos de la estructura, contribuye en una parte a la formación del número de átomos contenido en su interior. Se trata del número de partículas por celdilla elemental que puede obtenerse como:
+nc = \frac{nv}{8}+ni+\frac{nf}{2}
+
+Siendo "nv" el número de partículas en los vértices, "ni" en el interior y "nf" en las caras del tetraedro.
+
+Debido a que muchos de los compuestos elementales presentan simetría esférica podemos visualizarlas considerando éstas como empaquetamientos espaciales de esferas rígidas. Partiendo de esta idea, podemos determinar la llamada Fracción de Empaquetamiento que nos proporciona una medida de lo "llena" que está la estructura reticular:
+fc = \frac{n_c \cdot V_e}{a^3}=\frac{Volumen.de.las.esferas}{Volumen.de.la.celda}
+
+Para observar la estructura interna que posee un cristal generalmente puede determinarse a partir del análisis de la difracción ondulatoria producida cuando los fotones inciden en el cristal.
+
+Gracias a estas observaciones W.L.Bragg propuso la conocida Ley de Bragg, que permite ver superficialmente la posición de los planos que forman los átomos.. Ley de Bragg:
+n\lambda=2d\sin(\theta) \,
+
+Estas mismas propiedades pertenecientes a los sólidos cristalinos y el fundamento de los cambios de fase es el utilizado en el proceso de grabación de CD-RW y DVD-RW mediante cambios en la estructura cristalina, haciendo zonas amorfas o policristalinas, según los datos (bits) que se desean grabar. Otras propiedades y teorías están relacionadas con la física de los cristales como las bandas de energías o los modelos que explican las propiedades eléctricas de conductores metálicos y semiconductores.
+
+Véase también: Teoría de bandas
+Modelo de bandas energéticas
+
+El comportamiento de los electrones está regido por las leyes de la mecánica cuántica, por lo tanto:
+
+    Los electrones no pueden tener cualquier nivel de energía: los estados de energía están cuantificados. A un conjunto de niveles de energía muy cerca entre sí se lo denomina banda de energía y se la considera continua.
+    No todas las bandas se ocupan uniformemente, sino que algunas tienen más probabilidades de ser ocupadas que otras, incluso hay bandas totalmente desocupadas, o sea que la probabilidad de que un electrón tenga ese nivel de energía es nula o muy cercana a cero.
+
+Véase también: Modelo de Kronig-Penney
+Modelo simple
+Icono de nota
+Poner un nombre más adecuado y hacer el artículo correspondiente. ¿Modelo de los enlaces covalentes?
+
+El modelo de Drude permitía explicar el comportamiento como conductor de algunos sólidos basándose en la aplicación de la teoría cinética a los electrones en un sólido. Sin embargo este modelo era insuficiente a la hora de explicar el comportamiento de otros materiales que hoy día se conocen como semiconductores. En respuesta al modelo de Drude surgió el modelo de bandas energéticas, el cual basándose en las distribuciones de los electrones en sus orbitales a modo de regiones discretas, puede explicar el comportamiento de la conductividad en los materiales.
+
+Usualmente, se presenta este esquema basado en el modelo atómico de Bohr y el principio de exclusión de Pauli.
+
+Supóngase una red cristalina formada por átomos de silicio. Cuando los átomos están aislados, el orbital s (2 estados con dos electrones) y el orbital p (6 estados con 2 electrones y cuatro vacantes) tendrán una cierta energía Es y Ep respectivamente (punto A). A medida que disminuye la distancia interatómica comienza a observarse la interacción mutua entre los átomos, hasta que ambos orbitales llegan a formar, por la distorsión creada, un sistema electrónico único. En este momento se tienen 8 orbitales híbridos sp³ con cuatro electrones y cuatro vacantes (punto B).
+
+Si se continúa disminuyendo la distancia interatómica hasta la configuración del cristal, comienzan a interferir los electrones de las capas internas de los átomos, formándose bandas de energía (punto C). Las tres bandas de valores que se pueden distinguir son:
+
+    Banda de valencia. 4 estados, con 4 electrones.
+    Banda prohibida. No puede haber electrones con esos valores de energía en el cristal.
+    Banda de conducción. 4 estados, sin electrones.
+
+Bandas de energía en cristales.png
+Distribución probabilística de los electrones en las bandas
+
+Los electrones no se distribuyen uniformemente en las diferentes bandas, sino que algunas son más probables a ser ocupadas que otras. La probabilidad de ocupación de las bandas está dada por la estadística de Fermi-Dirac, y el parámetro más importante es la energía de Fermi.
+Conductividad eléctrica
+
+La conducción eléctrica en un sólido se presenta cuando el mismo tiene parcialmente llena su banda de conducción. También hay conducción eléctrica cuando la banda de conducción está vacía y además ésta se traslapa con la banda de valencia.
+Temas de la física de estado sólido
+
+    Electrónica de estado sólido
+    Sólido amorfo
+    Estructura cristalina
+        Defecto cristalino
+        Cuasicristal
+        Modelo de electrón libre
+        Red recíproca
+        Cristalografía de rayos X
+        Difracción del neutrón
+        Teoría dinámica de la difracción
+    Estructura electrónica
+        Banda prohibida
+        Función de Bloch (Ondas de electrón en un enrejado (lattice))
+        Banda de conducción
+        Masa efectiva
+        Hueco de electrón
+        Gas de Fermi
+            Energía de Fermi
+        Líquido de Fermi
+        Excitón
+        Banda de valencia
+    Transporte electrónico
+        Oscilaciones de Bloch
+        Modelo de Drude
+        Conducción eléctrica
+        Efecto Hall
+        Magnetorresistencia
+        Superconductividad
+    Características mecánicas
+        Modelo de Debye de calor específico
+        Elasticidad
+        Efecto de Mössbauer
+        Fonón (vibraciones de redes cristalinas)
+        Fragilidad
+    Características ópticas
+        Óptica cristalina
+
+Véase también
+
+    Ver el portal sobre Física Portal:Física. .
+    Wikimedia Commons alberga contenido multimedia sobre Física del estado sólido.
+    Física de la materia condensada
+    Metalografía
+    Teoría de bandas
+
+
+Enlaces externos y referencias
+
+    Entrevista al Dr. David Comedi investigador del laboratorio del sólido (LAFISIO)de la Universidad Nacional de Tucumán(UNT)
+    Online textbook: Introduction to Modern Solid State Physics by Yuri M. Galperin.

@@ -1,0 +1,34 @@
+La física teórica constituye la rama de la física que elabora teorías y modelos usando el lenguaje matemático con el fin de explicar y comprender fenómenos físicos, aportando las herramientas necesarias no solo para el análisis sino para la predicción del comportamiento de los sistemas físicos. El objetivo de la física teórica es comprender el universo elaborando unos modelos matemáticos y conceptuales de la realidad que se utiliza para racionalizar, explicar y predecir los fenómenos de la naturaleza, planteando una teoría física de la realidad.
+Aunque trabajos anteriores pueden considerarse parte de esta disciplina, la física teórica cobra especial fuerza desde la formulación de la mecánica analítica (Joseph-Louis de Lagrange, William Rowan Hamilton) y adquiere una relevancia de primera línea a partir de las revoluciones cuántica y relativista de principios del siglo XX (por ejemplo la bomba atómica fue una predicción de la física teórica).
+La física teórica tiene una importante relación con la física matemática, en ésta última se pone énfasis en analizar las propiedades de las estructuras matemáticas empleadas en la física teórica, y en teoriazar posibles generalizaciones que puedan servir como descripciones matemáticas más complejas y generales de los sistemas estudiados en la física teórica
+opiedades de las estructuras matemáticas empleadas en la física teórica, y en teoriazar posibles generalizaciones que puedan servir como descripciones matemáticas más complejas y generales de los sistemas estudiados en la física teórica.
+
+
+Método de la física
+
+Todas las ciencias de la naturaleza poseen una característica común: son ciencias experimentales, es decir, los conocimientos acumulados han sido obtenidos mediante la experimentación sistemática. Este procedimiento se denomina método científico experimental o también método empírico-descriptivo.
+
+No obstante, la física teórica crea y usa la matemática adecuada para predecir fenómenos que aún no han sido observados experimentalmente así como otros que nos permiten conocer el universo en formas no accesibles experimentalmente, sobre la base de principios bien demostrados experimentalmente. Pero la demostración final de todo conocimiento en física es experimental y hasta que no se demuestra de esta forma las predicciones de la teoría no se puede estar seguro de la validez de una teoría o modelo. Un ejemplo está en los aceleradores de partículas en los que se busca en muchas ocasiones partículas previstas por el modelo de la física de partículas y frecuentemente se encuentran otras no previstas inicialmente y que hacen cambiar el modelo. Asimismo, las predicciones de la física teórica han indicado a menudo la existencia de partículas no descubiertas y han proporcionado las técnicas adecuadas para su búsqueda experimental, siendo encontradas de forma posterior a su predicción teórica.
+
+Teorías propuestas
+
+Las teorías propuestas de la física son relativamente nuevas teorías que se ocupan del estudio de la física, que incluyen los enfoques científicos, medios para determinar la validez de los modelos y los nuevos tipos de razonamiento utilizados para llegar a la teoría. Sin embargo, algunas teorías propuestas son las teorías que han existido durante décadas y han eludido a los métodos de descubrimiento y de la prueba. Teorías propuestas pueden incluir las teorías marginales en el proceso de establecerse (y, a veces, ganando una mayor aceptación). Las teorías propuestas por lo general no han sido probados
+Ejemplos
+
+    Conjuntos causales
+    Energía oscura o Constante cosmológica
+    Agujero de gusano
+    Teoría de la gran unificación
+    Gravedad cuántica de bucles
+    Teoría M
+    Teoría de cuerdas
+    Supersimetría
+    Teoría del todo
+    Teoría de supercuerdas
+
+Experimentos mentales frente a experimentos reales
+Artículo principal: Experimento mental
+
+Los experimentos "mentales" son situaciones imaginarias, que plantean un interrogante del tipo "Supongamos que estás en esta situación, asumiendo que esto es cierto, ¿qué cabría esperar a continuación?".
+
+Los experimentos mentales han sido una herramienta usada para investigar cuestiones que no era posible someter a experimento real inmediatamente. Algunos ejemplos famosos de experimentos mentales notables de la física han sido el gato de Schrödinger, la paradoja EPR, la paradoja de los gemelos, etc. Muchos de estos experimentos mentales han llevado a experimentos físicos de verificación reales que han permitido examinar ciertas asunciones teóricas. La paradoja EPR por ejemplo condujo a las desigualdades de Bell, que a su vez fueron comprobadas con diferentes grados de rigor, lo cual a su vez condujo a la aceptación de ciertos principios de la mecánica cuántica, previamente muy debatidos, así como a la aceptación general del indeterminismo cuántico como hipótesis de trabajo principal.

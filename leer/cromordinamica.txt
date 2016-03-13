@@ -1,0 +1,63 @@
+Cromodinámica cuántica
+Ejemplo de estructura de color de un neutrón. Puede observarse la composición de quarks y la carga de color que adopta.
+
+La cromodinámica cuántica (QCD) es una teoría cuántica de campos que describe una de las fuerzas fundamentales, la interacción fuerte. Fue propuesta a comienzos de los años 70 por David Politzer, Frank Wilczek y David Gross como teoría para entender la estructura de bariones (colectivos de tres quarks, como protones y neutrones) y mesones (pares quark-antiquark, como los piones).1 Por su trabajo en cromodinámica cuántica, a Gross, Wilczek y Politzer les fue concedido el Premio Nobel de Física en 2004.
+
+El nombre «cromodinámica» viene de la palabra griega chromos (color). Este nombre es oportuno ya que a la carga de los quarks, partículas básicas dentro de esta teoría, se le designa como carga de color; aunque no está relacionada con la percepción visual del color. La cromodinámica cuántica es una parte muy importante del modelo estándar de la física de partículas.
+
+Índice
+
+    1 Descripción
+    2 Características
+        2.1 Libertad asintótica
+        2.2 Conservación de la carga de color
+        2.3 Confinamiento de la carga de color
+        2.4 Lagrangiano
+        2.5 Ecuación del campo gluónico
+    3 Enfoques dentro de la QCD
+        3.1 Teoría perturbativa
+        3.2 Cromodinámica Cuántica en el Retículo
+        3.3 Desarrollos recientes
+    4 Véase también
+    5 Referencias
+
+Descripción
+
+La cromodinámica cuántica es una teoría de gauge que describe la interacción entre quarks y gluones. Los quarks son los fermiones de esta teoría y desempeñan un papel análogo a los electrones y neutrinos del modelo electrodébil, los gluones son los bosones de gauge de la teoría, y desempeñan un papel análogo a los fotones en la QED.1 Los gluones son representables mediante un campo de Yang-Mills cuya simetría interna es el grupo SU(3).
+
+Según esta teoría, el carácter de la interacción fuerte está determinado por una simetría especial entre las cargas de color de los quarks. Se conoce a esta simetría como el grupo de gauge SU(3) y los quarks se transforman bajo este grupo como tripletes SU(3) de campos fermiónicos de Dirac. Aunque las expansiones perturbativas eran importantes para el desarrollo de la QCD, esta también predice muchos efectos no perturbativos tales como confinamiento, condensados fermiónicos e instantones.
+
+Un enfoque particular a la QCD, a saber el modelo de red de QCD en el retículo, ha permitido a los investigadores obtener algunos resultados y cantidades teóricas que eran previamente incalculables.
+Características
+Libertad asintótica
+Artículo principal: Libertad asintótica
+
+Una de las propiedades básicas de la teoría es la libertad asintótica: a cortas distancias, las partículas cargadas son prácticamente libres. Sin embargo, cuando las distancia entre ellas aumenta, la interacción que las mantiene juntas también aumenta. Esto contrasta fuertemente con el carácter de otras interacciones como la electromagnética y la gravitatoria, que disminuyen con la distancia.
+
+Este comportamiento anómalo de la cromodinámica cuántica se debe a que los mediadores de la interacción (los gluones), son capaces de interactuar entre ellos. Esto contrasta con la interacción electromagnética cuyos mediadores, los fotones, no interactúan entre ellos.
+Conservación de la carga de color
+
+El lagrangiano de la cromodinámica cuántica posee una simetría SU(3)c en la parte dependiente de los campos leptónicos. Eso implica por el teorema de Noether que existen magnitudes conservadas asociada a esa simetría. La magnitud conservada es lo que llamamos "color". Las tres variedades de color se designan normalmente como R (red), B (blue) y G (green) (aunque estos nombres no tienen nada que ver con el color visual, que es un fenómeno electromagnético asociado a diferentes longitudes de onda).
+Confinamiento de la carga de color
+Artículo principal: Confinamiento del color
+
+El confinamiento de la carga de color se produce por el hecho de que los gluones a su vez pueden interaccionar entre ellos según su carga de color. Esto contrasta con la situación de los fotones del campo electromagnético que como están desprovistos de carga no interaccionan entre ellos. Esa diferencia crucial hace que la interacción electromagnética tenga un alcance potencialmente infinito frente al muy corto alcance de la interacción fuerte.
+Lagrangiano
+
+El lagrangiano de la teoría es invariante lorentz e invariante bajo transformaciones de fase locales del grupo SU(3) (por la carga de color) y tiene la siguiente forma:Enfoques dentro de la QCD
+Teoría perturbativa
+
+Los primeros intentos de obtener predicciones concretas a partir de la cromodinámica cuántica se basaron en la teoría de perturbaciones usada previamente en la electrodinámica cuántica. Estos enfoques consistían en descomponer ciertos cálculos en series de términos, representables mediante diagramas de Feynman. El cálculo en electrodinámica cuántica es tanto más exacto cuantos más términos se consideran en el desarrollo. Sin embargo, la cromodinámica cuántica al ser una teoría de gauge para un campo de Yang-Mills cuyo grupo de simetría interna no es conmutativa no resulta tan satisfactoria como teoría práctica como la electrodinámica cuántica. Por esa razón se han buscado algunos enfoques alternativos que permitan realizar cálculos prácticos y predicciones concretas.
+Cromodinámica Cuántica en el Retículo
+
+Es una formulación de la Cromodinámica Cuántica en un espacio-tiempo discretizado. Fue propuesta por Keneth Wilson en 1974 como una alternativa que permite usar el computador para simular la teoría en los casos donde la teoría de perturbaciones falla.
+Desarrollos recientes
+
+El trabajo de Juan M. Maldacena sobre Correspondencia AdS/CFT se basó en un modelo basado en la cromodinámica cuántica, por el cual parece que ciertos modelos de gravedad cuántica basados en la teoría de cuerdas podrían ser equivalentes a ciertos subsistemas de la cromodinámica cuántica. Ese trabajo fue el primer ejemplo concreto que sugirió fuertemente la validez del principio holográfico.
+Véase también
+
+    Quark
+    Teoria cuántica
+    Teoría cuántica de campos, Teoría de gauge, Teoría de gauge cuántica, Fantasma de Faddeev-Popov.
+    Interacción fuerte, Modelo de red de QCD.
+    BRST,, Condensado fermiónico, Expansión 1/N.

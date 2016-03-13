@@ -1,0 +1,114 @@
+Dinámica
+Para otros usos de este término, véase Dinámica (desambiguación).
+
+La dinámica es la rama de la física que describe la evolución en el tiempo de un sistema físico en relación con los motivos o causas que provocan los cambios de estado físico y/o estado de movimiento. El objetivo de la dinámica es describir los factores capaces de producir alteraciones de un sistema físico, cuantificarlos y plantear ecuaciones de movimiento o ecuaciones de evolución para dicho sistema de operación. El estudio de la dinámica es prominente en los sistemas mecánicos (clásicos, relativistas o cuánticos), pero también en la termodinámica y electrodinámica. En este artículo se describen los aspectos principales de la dinámica en sistemas mecánicos, y se reserva para otros artículos el estudio de la dinámica en sistemas no mecánicos.
+
+En otros ámbitos científicos, como la economía o la biología, también es común hablar de dinámica en un sentido similar al de la física, para referirse a las características de la evolución a lo largo del tiempo del estado de un determinado sistema.
+
+Índice
+
+    1 Historia
+    2 Cálculo en dinámica
+        2.1 Leyes de conservación
+        2.2 Ecuaciones de movimiento
+    3 Dinámica de sistemas mecánicos
+        3.1 Dinámica de la partícula
+        3.2 Dinámica del sólido rígido
+        3.3 Dinámica de medios continuos y teoría de campos
+    4 Conceptos relacionados con la dinámica
+        4.1 Inercia
+        4.2 Trabajo y energía
+        4.3 Fuerza y potencial
+    5 Sistemas dinámicos
+    6 Véase también
+    7 Referencias
+        7.1 Bibliografía
+        7.2 Enlaces externos
+
+Historia
+
+Una de las primeras reflexiones sobre las causas de movimiento es la debida al filósofo griego Aristóteles. Aristóteles definió el movimiento, lo dinámico (t? d??at??), como:
+
+    La realización acto, de una capacidad o posibilidad de ser potencia, en tanto que se está actualizando.
+
+Por otra parte, a diferencia del enfoque actual, Aristóteles invierte el estudio de la cinemática y dinámica, estudiando primero las causas del movimiento y después el movimiento de los cuerpos. Este enfoque dificultó el avance en el conocimiento del fenómeno del movimiento hasta, en primera instancia, San Alberto Magno, que fue quien hizo notar esta dificultad, y en última instancia hasta Galileo Galilei e Isaac Newton. De hecho, Thomas Bradwardine, en 1328, presentó en su De proportionibus velocitatum in motibus una ley matemática que enlazaba la velocidad con la proporción entre motivos a fuerzas de resistencia; su trabajo influyó la dinámica medieval durante dos siglos, pero, por lo que se ha llamado un accidente matemático en la definición de «acrecentar», su trabajo se descartó y no se le dio reconocimiento histórico en su día.1
+
+Los experimentos de Galileo sobre cuerpos uniformemente acelerados condujeron a Newton a formular sus leyes fundamentales del movimiento, las cuales presentó en su obra principal Philosophiae Naturalis Principia Mathematica.
+
+Los científicos actuales consideran que las leyes que formuló Newton dan las respuestas correctas a la mayor parte de los problemas relativos a los cuerpos en movimiento, pero existen excepciones. En particular, las ecuaciones para describir el movimiento no son adecuadas cuando un cuerpo viaja a altas velocidades con respecto a la velocidad de la luz o cuando los objetos son de tamaño extremadamente pequeños comparables a los tamaños.
+Cálculo en dinámica
+
+En mecánica clásica y mecánica relativista, mediante los conceptos de desplazamiento, velocidad y aceleración es posible describir los movimientos de un cuerpo u objeto sin considerar cómo han sido producidos, disciplina que se conoce con el nombre de cinemática. Por el contrario, la dinámica es la parte de la mecánica que se ocupa del estudio del movimiento de los cuerpos sometidos a la acción de las fuerzas. En sistemas cuánticos la dinámica requiere un planteamiento diferente debido a las implicaciones del principio de incertidumbre.
+
+El cálculo dinámico se basa en el planteamiento de ecuaciones del movimiento y su integración. Para problemas extremadamente sencillos se usan las ecuaciones de la mecánica newtoniana directamente auxiliados de las leyes de conservación. En mecánica clásica y relativista, la ecuación esencial de la dinámica es la segunda ley de Newton (o ley de Newton-Euler) en la forma:
+
+    \frac{d\mathbf{p}}{dt} = \mathbf{F}
+
+donde F es la sumatoria de las fuerzas y p la cantidad de movimiento. La ecuación anterior es válida para una partícula o un sólido rígido, para un medio continuo puede escribirse una ecuación basada en esta que debe cumplirse localmente. En teoría de la relatividad general no es trivial definir el concepto de fuerza resultante debido a la curvatura del espacio tiempo. En mecánica cuántica no relativista, si el sistema es conservativo la ecuación fundamental es la ecuación de Schrödinger:
+
+    i\hbar \frac{\partial \psi(\mathbf{x},t)}{dt} = \hat{\mathbf{H}}\psi(\mathbf{x},t)
+
+Leyes de conservación
+Artículo principal: Ley de conservación
+
+Las leyes de conservación pueden formularse en términos de teoremas que establecen bajo qué condiciones concretas una determinada magnitud "se conserva" (es decir, permanece constante en valor a lo largo del tiempo a medida que el sistema se mueve o cambia con el tiempo). Además de la ley de conservación de la energía las otras leyes de conservación importante toman la forma de teoremas vectoriales. Estos teoremas son:
+
+    El teorema de la cantidad de movimiento, que para un sistema de partículas puntuales requiere que las fuerzas de las partículas sólo dependan de la distancia entre ellas y estén dirigidas según la línea que las une. En mecánica de medios continuos y mecánica del sólido rígido pueden formularse teoremas vectoriales de conservación de cantidad de movimiento.
+    El teorema del momento cinético, establece que bajo condiciones similares al anterior teorema vectorial la suma de momentos de fuerza respecto a un eje es igual a la variación temporal del momento angular. En concreto el lagrangiano del sistema.
+
+Estos teoremas establecen bajo qué condiciones la energía, la cantidad de movimiento o el momento cinético son magnitudes conservadas. Estas leyes de conservación en ocasiones permiten encontrar de manera más simple la evolución del estado físico de un sistema, frecuentemente sin necesidad de integrar directamente las ecuaciones diferenciales del movimiento.
+Ecuaciones de movimiento
+Artículo principal: Ecuación de movimiento
+
+Existen varias formas de plantear ecuaciones de movimiento que permitan predecir la evolución en el tiempo de un sistema mecánico en función de las condiciones iniciales y las fuerzas actuantes. En mecánica clásica existen varias formulaciones posibles para plantear ecuaciones:
+
+    La mecánica newtoniana que recurre a escribir directamente ecuaciones diferenciales ordinarias de segundo orden en términos de fuerzas y en coordenadas cartesianas. Este sistema conduce a ecuaciones difícilmente integrables por medios elementales y sólo se usa en problemas extremadamente sencillos, normalmente usando sistemas de referencia inerciales.
+    La mecánica lagrangiana, este método usa también ecuaciones diferenciales ordinarias de segundo orden, aunque permite el uso de coordenadas totalmente generales, llamadas coordenadas generalizadas, que se adapten mejor a la geometría del problema planteado. Además las ecuaciones son válidas en cualquier sistema de referencia sea éste inercial o no. Además de obtener sistemas más fácilmente integrables, el teorema de Noether y las transformaciones de coordenadas, permiten encontrar integrales de movimiento, también llamadas leyes de conservación, más sencillamente que el enfoque newtoniano.
+    La mecánica hamiltoniana es similar a la anterior pero en él las ecuaciones de movimiento son ecuaciones diferenciales ordinarias de primer orden. Además la gama de transformaciones de coordenadas admisibles es mucho más amplia que en mecánica lagrangiana, lo cual hace aún más fácil encontrar integrales de movimiento y cantidades conservadas.
+    El método de Hamilton-Jacobi es un método basado en la resolución de una ecuación diferencial en derivadas parciales mediante el método de separación de variables, que resulta el medio más sencillo cuando se conocen un conjunto adecuado de integrales de movimiento.
+
+En mecánica relativista los tres últimos enfoques son posibles, además de un enfoque directo en problemas sencillos que es análogo a muchos métodos de la mecánica newtoniana. Igualmente, la mecánica de medios continuos admite enfoques lagrangianos y hamiltonianos, aunque el formalismo subyacente se trate de un sistema clásico o relativista, es notablemente más complicado que en el caso de sistemas partículas y sólidos rígidos (estos últimos tienen un número finito de grados de libertad, a diferencia de un medio continuo). Finalmente, la mecánica cuántica, tanto no-relativista como relativista, también requiere de un formalismo matemático notablemente más complejo que usualmente involucra el uso de espacios de Hilbert incluso para sistemas con un número finito de grados de libertad.
+Dinámica de sistemas mecánicos
+
+En física existen dos tipos importantes de sistemas físicos los sistemas finitos de partículas y los campos. La evolución en el tiempo de los primeros pueden ser descritos por un conjunto finito de ecuaciones diferenciales ordinarias, razón por la cual se dice que tienen un número finito de grados de libertad. En cambio la evolución en el tiempo de los campos requiere un conjunto de ecuaciones complejas. En derivadas parciales, y en cierto sentido informal se comportan como un sistema de partículas con un número infinito de grados de libertad.
+
+La mayoría de sistemas mecánicos son del primer tipo, aunque también existen sistemas de tipo mecánico que son descritos de modo más sencillo como campos, como sucede con los fluidos o los sólidos deformables. También sucede que algunos sistemas mecánicos formados idealmente por un número infinito de puntos materiales, como los sólidos rígidos pueden ser descritos mediante un número finito de grados de libertad.
+Dinámica de la partícula
+Artículo principal: Dinámica del punto material
+
+La dinámica del punto material es una parte de la mecánica newtoniana en la que los sistemas se analizan como sistemas de partículas puntuales y que se ejercen fuerzas instantáneas a distancia.
+
+En la teoría de la relatividad no es posible tratar un conjunto de partículas cargadas en mutua interacción, usando simplemente las posiciones de las partículas en cada instante, ya que en dicho marco se considera que las acciones a distancia violan la causalidad física. En esas condiciones la fuerza sobre una partícula, debida a las otras, depende de las posiciones pasadas de la misma.
+Dinámica del sólido rígido
+Artículo principal: Mecánica del sólido rígido
+
+La mecánica de un sólido rígido es aquella que estudia el movimiento y equilibrio de sólidos materiales ignorando sus deformaciones. Se trata, por tanto, de un modelo matemático útil para estudiar una parte de la mecánica de sólidos, ya que todos los sólidos reales son deformables. Se entiende por sólido rígido un conjunto de puntos del espacio que se mueven de tal manera que no se alteran las distancias entre ellos, sea cual sea la fuerza actuante (matemáticamente, el movimiento de un sólido rígido viene dado por un grupo uniparamétrico de isometrías).
+Dinámica de medios continuos y teoría de campos
+Artículos principales: Medio continuo y Teoría de campos.
+
+En física existen otras entidades como los medios continuos (sólidos deformables y fluidos) o los campos (graviatorio, electromagnético, etc.) que no pueden ser descritos mediante un número finito de coordenadas que caractericen el estado del sistema. En general, se requieren funciones definidas sobre un dominio cuatridiomensional o región. El tratamiento de la mecánica clásica y la mecánica relativista de los medios continuos requiere el uso de ecuaciones diferenciales en derivadas parciales, lo cual ocasiona dificultades analíticas mucho más notables que las encontradas en los sistemas con un número finito de coordenadas o grados de libertad (que frecuentemente pueden ser tratadas como sistemas de ecuaciones diferenciales ordinarias).
+Conceptos relacionados con la dinámica
+Inercia
+Artículos principales: Inercia y Masa inercial.
+
+La inercia es la propiedad de los cuerpos de no modificar su estado de reposo o movimiento uniforme, si sobre ellos no influyen otros cuerpos o si la acción de otros cuerpos se compensa.
+
+En física se dice que un sistema tiene más inercia cuando resulta más difícil lograr un cambio en el estado físico del mismo. Los dos usos más frecuentes en física son la inercia mecánica y la inercia térmica. La primera de ellas aparece en mecánica y es una medida de dificultad para cambiar el estado de movimiento o reposo de un cuerpo. La inercia mecánica depende de la cantidad de masa y del tensor de inercia del cuerpo. La inercia térmica mide la dificultad con la que un cuerpo cambia su temperatura al estar en contacto con otros cuerpos o ser calentado. La inercia térmica depende de la cantidad de masa y de la capacidad calorífica.
+
+Las llamadas fuerzas de inercia son fuerzas ficticias o aparentes para un observador en un sistema de referencia no-inercial.
+
+La masa inercial es una medida de la resistencia de una masa al cambio en velocidad en relación con un sistema de referencia inercial. En física clásica la masa inercial de partículas puntuales se define por medio de la siguiente ecuación, donde la partícula uno se toma como la unidad (m_1 =1):
+
+    m_i a_{i1} = m_1 a_{1i} \,
+
+donde mi es la masa inercial de la partícula i, y ai1 es la aceleración inicial de la partícula i, en la dirección de la partícula i hacia la partícula 1, en un volumen ocupado sólo por partículas i y 1, donde ambas partículas están inicialmente en reposo y a una distancia unidad. No hay fuerzas externas pero las partículas ejercen fuerzas entre si.
+Trabajo y energía
+
+El trabajo y la energía aparecen en la mecánica gracias a los teoremas energéticos. El principal, y de donde se derivan los demás teoremas, es el teorema de la energía cinética. Este teorema se puede enunciar en versión diferencial o en versión integral. En adelante se hará referencia al Teorema de la energía cinética como TEC.
+
+Gracias al TEC se puede establecer una relación entre la mecánica y las demás ciencias como, por ejemplo, la química y la electrotecnia, de dónde deriva su vital importancia.
+Fuerza y potencial
+
+La mecánica de partículas o medios continuos tiene formulaciones ligeramente diferentes en mecánica clásica, mecánica relativista y mecánica cuántica. En todas ellas las causas del cambio se representa mediante fuerzas o conceptos derivados como la energía potencial asociada al sistema de fuerzas. En las dos primeras se usa fundamentalmente el concepto de fuerza, mientras que en la mecánica cuántica es más frecuente plantear los problemas en términos de energía potencial. La fuerza resultante \scriptstyle \mathbf{F} sobre un sistema mecánico clásico se relaciona con la variación de la cantidad de movimiento \scriptstyle \mathbf mediante la relación simple:
+
+  

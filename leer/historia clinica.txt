@@ -1,0 +1,158 @@
+Historia clínica
+
+La historia clínica es un documento médico-legal que surge del contacto entre el profesional de la salud (médico, fisioterapeuta, odontólogo, psicólogo, enfermero, podólogo, etc.) y el paciente, donde se recoge la información necesaria para la correcta atención de los pacientes. La historia clínica es un documento válido desde el punto de vista clínico y legal, que recoge información de tipo asistencial, preventivo y social.
+Un archivo de historias clínicas.
+
+Índice
+
+    1 Origen
+    2 Descripción
+        2.1 Modelos
+        2.2 Soporte físico
+        2.3 Gestión del archivo en formato papel
+        2.4 Gestión de la historia clínica electrónica
+    3 Funciones
+    4 Propiedad
+    5 Legislación de la historia clínica en España
+    6 Legislación de la historia clínica en México
+    7 Privacidad y confidencialidad
+    8 Véase también
+    9 Referencias
+    10 Bibliografía
+
+Origen
+
+La historia clínica se origina con el primer episodio de enfermedad o control de salud en el que se atiende al paciente, ya sea en el hospital o en el centro de atención primaria, o en un consultorio médico. La historia clínica está incluida dentro del campo de la semiología clínica.
+
+El registro de la historia clínica construye un documento principal en un sistema de información sanitario, imprescindible en su vertiente asistencial, administrativa, y además constituye el registro completo de la atención prestada al paciente durante su enfermedad, de lo que se deriva su trascendencia como documento legal.
+
+La información contenida en la historia clínica puede obtenerse siguiendo el método clínico, orden de trabajo semiológico, por diferentes vías que son:
+
+    La anamnesis es la información surgida de la entrevista clínica proporcionada por el propio paciente (o familiar, en el caso de menores de edad, alteraciones de la conciencia del propio paciente, o del responsable del animal en el caso de los veterinarios)
+    exploración física o examen físico: a través de la inspección, palpación, percusión y auscultación del paciente deben registrarse: peso, talla, índice de masa corporal y signos vitales.
+    exploración complementaria (pruebas o exámenes complementarios) de laboratorio, diagnóstico por imágenes y pruebas especiales realizados en el paciente;
+    diagnósticos presuntivos: basados en la información extraída del interrogatorio y exploración física, calificados de presuntivos ya que están sujetos a resultados de laboratorio o pruebas de gabinete (estudios de imagen), así como a la propia evolución natural de la enfermedad;
+    juicios de valor que el propio médico extrae o de documentos que él elabora para fundamentar un diagnóstico, prescribir el tratamiento y, finalmente, dejar constancia del curso de la enfermedad;
+    tratamiento instaurado.
+
+Por tanto, los cinco componentes principales de la historia clínica son:
+
+    datos subjetivos proporcionados por el paciente
+    datos objetivos obtenidos de la exploración física y de las exploraciones complementarias
+    diagnóstico
+    pronóstico
+    tratamiento
+
+Con el transcurso del tiempo, los datos surgidos de la enfermedad del paciente ayudan a comprender la variación de la historia natural de la enfermedad.
+Descripción
+
+Además de los datos clínicos que tengan relación con la situación actual del paciente, incorpora los datos de sus antecedentes personales y familiares, sus hábitos y todo aquello vinculado con su salud biopsicosocial. También incluye el proceso evolutivo, tratamiento y recuperación. La historia clínica no se limita a ser una narración o exposición de hechos simplemente, sino que incluye en una sección aparte los juicios, documentos, procedimientos, informaciones y consentimiento informado. El consentimiento informado del paciente, que se origina en el principio de autonomía, es un documento donde el paciente deja registrado y firmado su reconocimiento y aceptación sobre su situación de salud y/o enfermedad y participa en la toma de decisiones del profesional de la salud.
+Modelos
+
+Hay varios modelos de historia clínica:
+
+    la crónológica: la tradicionalmente usada en los hospitales;
+    la orientada por problemas de salud,1 manejada sobre todo en atención primaria y descrita por el doctor Lawrence L. Weed en 1968;2
+    la protocolizada: con preguntas cerradas, se utiliza para el seguimiento de enfermedades muy concretas; se usa en unidades especializadas.
+
+Soporte físico
+
+Básicamente la historia clínica en la actualidad tiene dos tipos de soportes:
+
+    Papel: una serie de formularios que se ordenan en una carpeta. Puede ser individual o familiar.
+    Electrónico: es la denominada historia clínica electrónica almacenada en ordenadores mediante la utilización de programas informáticos.3 4 5
+
+Gestión del archivo en formato papel
+
+Esta documentación debidamente encarpetada pasa al archivo central y único del hospital o centro de salud para su correspondiente custodia. Es responsabilidad de este sector la oportuna entrega de la misma a los distintos profesionales que la soliciten. No resulta extraño encontrar hospitales que entregan/reciben varios cientos y hasta algunos miles de historias clínicas al día. Es fácil imaginar las dificultades que esto implica.
+
+Se conocen, al menos, tres distintos procedimientos de archivado: correlativo (por números correlativos empezando desde el uno), por dígito terminal (por ejemplo a partir de la fecha de nacimiento del paciente) y por valor posicional dinámico asistido por ordenador.
+
+Los dos primeros corresponden a diseños realizados en la era pre-digitalizacíon, y se caracterizan por ocupar grandes espacios y generar mucho trabajo para su rearchivado. De todos modos son los más difundidos en este momento. Ambos implican la existencia de Ubicación Unívoca (un lugar para cada carpeta y cada carpeta en su lugar) en perfecto ordenamiento.
+
+Desde hace ya más de una década, algunos hospitales de Argentina utilizan el sistema de Valor Posicional Dinámico.6
+Gestión de la historia clínica electrónica
+
+Con la historia clínica electrónica persisten los problemas de almacenamiento (centralizado o descentralizado) y de protección, confidencialidad y seguridad de los datos clínicos.7 8
+Funciones
+
+La información recogida y ordenada en la historia clínica es un registro de datos imprescindible para el desarrollo de las funciones profesionales de los médicos:
+
+    Clínica o asistencial: es la principal, y la que le da sentido a la creación y manejo continuo en la relación médico-paciente.
+    Docencia: permite aprender tanto de los aciertos como de los errores de las actividades desarrolladas.
+    Investigación: a partir de la información que aporta la historia clínica se pueden plantear preguntas de investigación sanitaria, con el objetivo de buscar respuestas científicas razonables.
+    Epidemiología: con los datos acumulados en las historias clínicas, se puede extrapolar perfiles e información sanitaria local, nacional e internacional.
+    Mejora continua de calidad: la historia clínica es considerada por las normas deontológicas y legales como un derecho del paciente, derivado del derecho a una asistencia médica de calidad; puesto que se trata de un fiel reflejo de la relación médico-paciente, así como un registro de la actuación médico-sanitario prestada al paciente. Su estudio y valoración permite establecer el nivel de calidad asistencial prestada.
+    Gestión y administración: la historia clínica es el elemento fundamental para el control y gestión de los servicios médicos de las instituciones sanitarias.
+    Médico-legal: la historia clínica es un documento legal, que se usa habitualmente para enjuiciar la relación médico-paciente.
+
+Propiedad
+
+La Ley 41/2002 de 15 de noviembre de la autonomía del paciente y los derechos y obligaciones en materia de información y documentación clínica (España), no especifica a quién pertenece la historia clínica, por el contrario sí que indica cuales son las instituciones asistenciales las encargadas de custodiar, vigilar, regular y facilitar el acceso a ellas.
+
+No es, tampoco, propiedad del equipo facultativo, pese a ser artífices materiales de ella. Sin embargo, al igual que el paciente, tendrán el derecho a ser conservada su intimidad en caso de revisión de la misma por parte del paciente.
+
+Tampoco, se indica en la ley, que la historia clínica sea propiedad del paciente, pese a ser el agente causal de ella.
+
+Aun así, la ley 41/2002 deja los límites que tiene éste para tener acceso a su propia historia, que según el párrafo 3º del artículo 18:
+
+    El derecho al acceso del paciente a la documentación de la historia clínica no puede ejercitarse en perjuicio del derecho de terceras personas a la confidencialidad de los datos que constan en ella recogidos en interés terapéutico del paciente, ni en perjuicio del derecho de los profesionales participantes en su elaboración los cuales pueden oponer al derecho de acceso la reserva de sus anotaciones subjetivas.
+
+Es un tema muy discutido el qué se considera anotación subjetiva y qué no.
+
+Respecto a la propiedad de la historia clínica, de lo único que podemos estar seguros es que en caso de denuncia, y una vez que la historia es reclamada por el juzgado, la discusión carece de sentido, ya que pasa a ser propiedad judicial con todas sus consecuencias.9
+Legislación de la historia clínica en España
+
+    Ley General de Sanidad (14/1986, de 25 de abril): El paciente tiene derecho a que quede constancia por escrito de todo su proceso, (en una historia clínica), así como a recibir un Informe de Alta al finalizar su estancia hospitalaria y al informe de consulta externa.
+    La historia clínica se identifica con un número único por cada paciente y debe ser almacenada de forma centralizada en un único lugar.
+    Real Decreto 63/1995 (BOE 10-2-95): El paciente tiene derecho a la comunicación o entrega, a petición del interesado, de un ejemplar de su historia clínica o de determinados datos contenidos en la misma, sin perjuicio de la obligación de su conservación en el centro sanitario.
+    El Sistema Público debe preservar y garantizar la confidencialidad de los datos contenidos en la Historia clínica. «El paciente tiene derecho a la confidencialidad de toda la información relacionada con su proceso y con su estancia en instituciones sanitarias públicas o privadas que colaboren con el sistema público».
+    El acceso a la historia clínica sin autorización, en perjuicio de un tercero, está tipificado como delito grave y está castigado con penas de prisión. Igualmente el profesional que revele o divulgue datos de la historia clínica será castigado con las mismas penas.
+    La Historia clínica debe ser un reflejo veraz del curso de la enfermedad. Los datos incluidos entre sus documentos no pueden ser alterados, falseados ni simulados, lo cual constituiría un delito de falsedad documental que está penado por el mismo Cuerpo Legal.
+    LOPD: Ley Orgánica de Protección de Datos de carácter personal (Ley Orgánica 15/1999, de 13 de diciembre).
+    Ley 41/2002, de 14 de noviembre, básica reguladora de la autonomía del paciente y de derechos y obligaciones en materia de información y documentación clínica.
+
+Legislación de la historia clínica en México
+
+    5.1 Los prestadores de servicios de atención médica de los establecimientos de carácter público, social y privado, estarán obligados a integrar y conservar el expediente clínico los establecimientos serán solidariamente responsables respecto del cumplimiento de esta obligación, por parte del personal que preste sus servicios en los mismos, independientemente de la forma en que fuere contratado dicho personal.10
+
+Privacidad y confidencialidad
+
+De esta forma, todo el personal que trata con los datos de carácter personal de los pacientes (ficheros de cualquier tipo) o que mantiene relación laboral con ellos, y por tanto tiene acceso a información confidencial está obligado a mantener el secreto de la información conocida.
+
+No sólo está obligado por el Código Deontológico de su profesión (en el caso de los médicos y enfermeras), sino también por la legislación en materia de protección de datos y por la legislación penal.
+
+El secreto profesional alcanza a los facultativos, psicólogos, enfermería, fisioterapeutas, terapeutas ocupacionales, auxiliares de enfermería, podólogos, celadores y personal administrativo, así como al personal auxiliar del hospital.
+
+El mantenimiento de la confidencialidad y privacidad de los pacientes implica primeramente a la historia clínica, que debe estar custodiada de forma adecuada, permaneciendo accesible únicamente al personal autorizado.
+
+Sin embargo, los preceptos de privacidad deben ser observados en todos los campos de la vida hospitalaria: la privacidad en el momento de la realización de la anamnesis y de la exploración física, la privacidad en el momento de la información a los familiares, las conversaciones entre sanitarios en los pasillos, el mantenimiento de la reserva adecuada de los datos de los pacientes en los controles de enfermería de las plantas de hospitalización (tablones, pizarras), las conversaciones telefónicas, los interfonos abiertos...
+Véase también
+
+    Ver el portal sobre Medicina Portal:Medicina. Contenido relacionado con Medicina.
+    Anamnesis
+    Caso clínico
+    Catamnesis
+    Historia clínica electrónica
+    Informática médica
+    Leyes de España sobre privacidad
+    Ley Orgánica de Protección de Datos de Carácter Personal de España
+    Privacidad
+
+Referencias
+
+Equipo CESCA. Los sistemas de registro en la atención primaria de salud. Madrid: Díaz de Santos; 1987.
+Weed, L. L. «Medical records that guide and teach (I y II).» N Engl J Med. 1968 Mar 14;278(11):593-600. y NEJM. 1968 Mar 21; 278(12):652-7.
+Pastor Sánchez R, López Miras A, Gérvas J. Historia clínica informatizada. Med Clin (Barc). 1994;103:304-9.
+Pastor Sánchez R, López Miras A, Gérvas J. Evaluación de historias clínicas informatizadas. Med Clin (Med). 1996;107:250-4.
+Gérvas, J., Pérez Fernández, M. «La historia clínica electrónica en atención primaria. Fundamento clínico, teórico y práctico.» SEMERGEN. 2000;26(1):17-32.
+Rosbaco G, et al. Archivo central de historias clínicas hospitalarias a 10 años de su informatización. Argentina: Hospital A. Zatti; 1996.
+Gérvas, J. «Expectación excesiva acerca de la pronta implantación de la historia clínica electrónica.» SEMERGEN. 2000;26(1):3-4.
+Gérvas, J. «La historia clínica electrónica: muchas promesas y pocos hechos.» Aten Primaria. 2008; 40(Supl 1):13.
+Gérvas, J., García Sagredo, P., Pérez Fernández, M. «El libre acceso del paciente a su historia clínica.» BIS. 1988;28.
+
+    NORMA Oficial Mexicana NOM-004-SSA3-2012, Del expediente clínico.
+
+Bibliografía
+
+    Da Costa Carballo CM. Otros documentos: la historia clínica. Documentación de las Ciencias de la Información. 1997; (20): 41-63.

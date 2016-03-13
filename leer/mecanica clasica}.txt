@@ -1,0 +1,167 @@
+Mecánica clásica
+El Sistema Solar puede ser explicado con gran aproximación mediante la mecánica clásica, concretamente, mediante las leyes de Newton y la ley de la gravitación universal de Newton. Solo algunas pequeñas desviaciones en el perihelio de mercurio que fueron descubiertas tardíamente no podían ser explicadas por las teoría de Newton y solo pudieron ser explicadas mediante la teoría de la relatividad general de Einstein.
+
+La mecánica clásica es la ciencia que estudia las leyes del comportamiento de cuerpos físicos macroscópicos en reposo y a velocidades pequeñas comparadas con la velocidad de la luz.
+
+Existen varias formulaciones diferentes, en mecánica clásica, para describir un mismo fenómeno natural que, independientemente de los aspectos formales y metodológicos que utilizan, llegan a la misma conclusión.
+
+    La mecánica vectorial, deviene directamente de las leyes de Newton, por eso también se le conoce como «mecánica newtoniana». Es aplicable a cuerpos que se mueven en relación a un observador a velocidades pequeñas comparadas con la de la luz. Fue construida en un principio para una sola partícula moviéndose en un campo gravitatorio. Se basa en el tratamiento de dos magnitudes vectoriales bajo una relación causal: la fuerza y la acción de la fuerza, medida por la variación del momentum (cantidad de movimiento). El análisis y síntesis de fuerzas y momentos constituye el método básico de la mecánica vectorial. Requiere del uso privilegiado de sistemas de referencia inercial.
+    La mecánica analítica (analítica en el sentido matemático de la palabra y no filosófico). Sus métodos son poderosos y trascienden de la Mecánica a otros campos de la física. Se puede encontrar el germen de la mecánica analítica en la obra de Leibniz que propone para solucionar los problemas mecánicos otras magnitudes básicas (menos oscuras según Leibniz que la fuerza y el momento de Newton), pero ahora escalares, que son: la energía cinética y el trabajo. Estas magnitudes están relacionadas de forma diferencial. La característica esencial es que, en la formulación, se toman como fundamentos primeros principios generales (diferenciales e integrales), y que a partir de estos principios se obtengan analíticamente las ecuaciones de movimiento.
+
+Índice
+
+    1 Aproximaciones de la mecánica clásica
+        1.1 Aproximación empírica
+        1.2 Aproximación analítica
+        1.3 Ambas aproximaciones
+    2 Principios básicos e invariantes
+    3 Mecánica newtoniana
+    4 Mecánica analítica
+        4.1 Mecánica lagrangiana
+        4.2 Mecánica hamiltoniana
+    5 Véase también
+    6 Enlaces externos
+    7 Referencias
+        7.1 Bibliografía
+
+Aproximaciones de la mecánica clásica
+
+La mecánica clásica fue concebida como un sistema que permitiera explicar adecuadamente el movimiento de los cuerpos relacionándolo con las causas que los originan, es decir, las fuerzas. La mecánica clásica busca hacer una descripción tanto cualitativa (¿qué y cómo ocurre?), como cuantitativa (¿en qué cantidad ocurre?) del fenómeno en cuestión. En este sentido, la ciencia mecánica podría ser construida desde dos aproximaciones alternativas:
+
+    la aproximación empírica
+    la aproximación analítica
+
+Aproximación empírica
+
+Es aquella fundamentada en la experimentación, esto es, en la observación controlada de un aspecto previamente elegido del medio físico. Un ejemplo puede ayudar a entender este punto: si dejamos caer una pelota de golf desde cierta altura y partiendo del reposo, podemos medir experimentalmente la velocidad que adquiere la pelota para diferentes instantes. Si despreciamos los efectos de la fricción del aire, podremos constatar que, dentro de las inevitables incertidumbres inherentes a las mediciones, la relación de velocidad (v) contra tiempo (t) se ajusta bastante bien a la función lineal de la forma:
+
+v=gt\,
+
+donde g representa el valor de la aceleración de la gravedad (9,81 m/s², a nivel del mar y 45 grados de latitud). Así, esta es la aproximación empírica o experimental al fenómeno mecánico estudiado, es decir, la caída libre de un cuerpo.
+Aproximación analítica
+
+En este caso se parte de una premisa básica (experimentalmente verificable) y, con la ayuda de las herramientas aportadas por cálculo infinitesimal, se deducen ecuaciones y relaciones entre las variables implicadas. Si volvemos al ejemplo anterior: es un hecho de naturaleza experimental, que cuando se deja caer un cuerpo, la aceleración con la que desciende (si se ignora la fricción del aire) es constante e igual a g = 9,81 m/s². Por otra parte, se sabe que la aceleración (en este caso, g) se define matemáticamente como la derivada de la velocidad respecto del tiempo:
+
+    g=\frac{dv}{dt}
+
+Por tanto, si se integra esta ecuación diferencial, sabiendo que en el inicio del movimiento (t = 0) la velocidad es nula (v = 0 ), se llega de nuevo a la expresión:
+
+    v=gt
+
+Así, esta es la aproximación analítica o teórica al tema en discusión.
+Ambas aproximaciones
+
+La aproximación empírica establece relaciones entre variables de interés mediante la búsqueda de dependencias o relaciones matemáticas, a partir de resultados experimentales. La aproximación analítica establece relaciones entre variables de interés a partir de premisas y de las herramientas que proporciona el cálculo.
+
+Así, se busca derivar conclusiones y expresiones útiles a partir del razonamiento deductivo y el formalismo matemático. Si se extrema este argumento, la Mecánica Racional podría ser considerada una rama de las matemáticas, donde se juega con relaciones entre variables físicas, y se obtienen a partir de ellas ecuaciones útiles y aplicaciones prácticas.
+Principios básicos e invariantes
+Artículos principales: Determinismo científico#El determinismo de la mecánica clásica y Causalidad (física).
+Trayectoria de una partícula y su posición \displaystyle\vec{r_i}(t) en función del tiempo.
+
+Los principios básicos de la mecánica clásica son los siguientes:
+
+    El Principio de Hamilton o principio de mínima acción (del cual las leyes de Newton son una consecuencia).
+    La existencia de un tiempo absoluto, cuya medida es igual para cualquier observador con independencia de su grado de movimiento.
+    El estado de una partícula queda completamente determinado si se conoce su cantidad de movimiento y posición siendo estas simultáneamente medibles. Indirectamente, este enunciado puede ser reformulado por el principio de causalidad. En este caso se habla de predictibilidad teóricamente infinita: matemáticamente si en un determinado instante se conocieran (con precisión infinita) las posiciones y velocidades de un sistema finito de N partículas teóricamente pueden ser conocidas las posiciones y velocidades futuras, ya que en principio existen las funciones vectoriales \displaystyle\{\vec{r}_i=\vec{r}_i(t;\vec{r}_{i,0},\vec{v}_{i,0}\}_{i=1}^N que proporcionan las posiciones de las partículas en cualquier instante de tiempo. Estas funciones se obtienen de unas ecuaciones generales denominadas ecuaciones de movimiento que se manifiestan de forma diferencial relacionando magnitudes y sus derivadas. Las funciones \displaystyle\{\vec{r_i}(t)\}_{i=1}^N se obtienen por integración, una vez conocida la naturaleza física del problema y las condiciones iniciales.
+
+Es interesante notar que en mecánica relativista el supuesto (2) es inaceptable aunque sí son aceptables los supuestos (1) y (3). Por otro lado, en mecánica cuántica no es aceptable el supuesto (3) (en la mecánica cuántica relativista ni el supuesto (2) ni el (3) son aceptables).
+
+
+Aunque la mecánica clásica y en particular la mecánica newtoniana es adecuada para describir la experiencia diaria (con eventos que suceden a velocidades muchísimo menores que la velocidad de la luz y a escala macroscópica), debido a la aceptación de estos tres supuestos tan restrictivos como (1), (2) y (3), no puede describir adecuadamente fenómenos electromagnéticos con partículas en rápido movimiento, ni fenómenos físicos microscópicos que suceden a escala atómica.
+
+Sin embargo, esto no es un demérito de la teoría ya que la simplicidad de la misma se combina con la adecuación descriptiva para sistemas cotidianos como: cohetes, movimiento de planetas, moléculas orgánicas, trompos, trenes y trayectorias de móviles macroscópicos en general. Para estos sistemas cotidianos es muy complicado siquiera describir sus movimientos en términos de las teorías más generales como:
+
+    La mecánica relativista, que va más allá de la mecánica clásica y trata con objetos moviéndose a velocidades relativamente cercanas a la velocidad de la luz. En mecánica relativista siguen siendo válidos los supuestos básicos 1 y 3 aunque no el 2.
+    La mecánica cuántica, que trata con sistemas de reducidas dimensiones (a escala semejante a la atómica), y la teoría cuántica de campos (ver tb. campo), que trata con sistemas que exhiben ambas propiedades. En mecánica cuántica son válidos los supuestos básicos 1 y 2, pero no el 3. Mientras que en teoría cuántica de campos solo se mantiene el supuesto 1.
+
+Mecánica newtoniana
+Artículo principal: Mecánica newtoniana
+
+La mecánica newtoniana o mecánica vectorial es una formulación específica de la mecánica clásica que estudia el movimiento de partículas y sólidos en un espacio euclídeo tridimensional. Aunque la teoría es generalizable, la formulación básica de la misma se hace en sistemas de referencia inerciales donde las ecuaciones básicas del movimiento se reducen a las Leyes de Newton, en honor a Isaac Newton quien hizo contribuciones fundamentales a esta teoría.
+
+En mecánica vectorial precisamos de tres ecuaciones escalares, o una ecuación vectorial, para el caso más simple de una sola partícula:
+
+    \dot{\mathbf{p}} = m\frac{d\mathbf{v}}{dt} = \mathbf{F}, \qquad \begin{cases} \dot{p}_x = m\frac{dv_x}{dt} = F_x \\ \dot{p}_y = m\frac{dv_y}{dt} = F_y \\ \dot{p}_z = m\frac{dv_z}{dt} = F_z \end{cases}
+
+y en el caso de sistemas formados por N partículas puntuales, el número de ecuaciones escalares es igual a 3N. En mecánica newtoniana también pueden tratarse los sólidos rígidos mediante una ecuación vectorial para el movimiento de traslación del sólido y otra ecuación vectorial para el movimiento de rotación del sólido:
+
+    \begin{cases} \dot{\mathbf{p}} = \cfrac{d}{dt}(m\mathbf{v}) = \mathbf{F}_R \\ \dot{\mathbf{L}} = \cfrac{d}{dt}(\mathbf{I}\boldsymbol{\omega}) = \mathbf{M}_R \end{cases}
+
+Estas ecuaciones constituyen la base de partida de la mecánica del sólido rígido.
+Mecánica analítica
+Artículo principal: Mecánica analítica
+
+La mecánica analítica es una formulación más abstracta y general, que permite el uso en igualdad de condiciones de sistemas inerciales o no inerciales sin que, a diferencia de las leyes de Newton, la forma básica de las ecuaciones cambie. La mecánica analítica tiene, básicamente dos formulaciones: la formulación lagrangiana y la formulación hamiltoniana. Las dos llegan básicamente a los mismo resultados físicos, aunque la elección del enfoque puede depender del tipo de problema.
+
+El germen de la mecánica analítica puede encontrarse en los trabajos de Leibniz y en la definición de dos magnitudes escalares básicas: la energía cinética y el trabajo. Estas magnitudes están relacionadas de forma diferencial por la ecuación del principio de fuerzas vivas:
+
+    \displaystyle dE_c=\delta W,
+
+Una propiedad notable de este principio es que siendo el movimiento general un fenómeno en varias dimensiones, parece misterioso que con dos magnitudes escalares relacionadas mediante una sola ecuación diferencial, podamos predecir la evolución de los sistemas mecánicos (en la mecánica vectorial precisamos de 3N ecuaciones siendo N el número de partículas).
+
+Aunque las formulaciones lagrangiana y hamiltoniana son esencialmente equivalentes, siendo más conveniente un enfoque u otro según el objeto del análisis. Formalmente cabe señalar que la mecánica lagrangiana describe el movimiento de un conjunto de N partículas puntuales mediante coordenadas generales sobre el fibrado tangente del llamado espacio de configuración mediante un sistema de N ecuaciones diferenciales ordinarias de segundo orden. En cambio en mecánica hamiltoniana el movimiento se describe mediante 2N ecuaciones diferenciales de primer orden sobre una variedad simpléctica formada a partir del fibrado tangente mencionado. El conjunto de transformaciones de coordenadas que permitan resolver el problema es más amplio en mecánica hamiltoniana.
+Mecánica lagrangiana
+Artículo principal: Mecánica lagrangiana
+
+La mecánica lagrangiana tiene la ventaja de ser suficientemente general como para que las ecuaciones de movimiento sean invariantes respecto a cualquier cambio de coordenadas. Eso permite trabajar con sistema de referencia inerciales o no-inerciales en pie de igualdad.
+
+Para un sistema de n grados de libertad, la mecánica lagrangiana proporciona un sistema de n ecuaciones diferenciales ordinarias de segundo orden, llamadas ecuaciones del movimiento que permiten conocer como evolucionará el sistema. La forma explícita de las ecuaciones tiene la forma:
+
+    (*)\frac{d}{dt}\frac{\part L}{\part \dot{q}_i} - \frac{\part L}{\part q_i} = 0
+
+Donde L(q_1,\dots,q_n,\dot{q}_i,\dots,\dot{q}_n,t) es la expresión de lagrangiano en el sistema de coordenadas generalizadas (q_1,\dots,q_n,\dot{q}_i,\dots,\dot{q}_n)\in\R^{2n}. Aunque en general la integración del sistema de ecuaciones (*) no es sencilla, resulta de gran ayuda reducir el número de coordenadas del problema buscando magnitudes conservadas, es decir, magnitudes que no varían a lo largo del tiempo. Las magnitudes conservadas también se suelen llamar integrales del movimiento y suelen estar asociadas a leyes de conservación comunes.
+
+En mecánica lagrangiana existe un modo muy elegante de buscar integrales de movimiento a partir del teorema de Noether. De acuerdo con este teorema cuando un lagrangiano es invariante bajo un grupo de simetría uniparamétrico entonces cualquier generador del álgebra de Lie asociada a ese grupo uniparmétrico es proporcional a una magnitud conservada:
+
+    Así cuando un problema físico tiene algún tipo de simetría rotacional, su lagrangiano es invariante bajo algún grupo de rotación y tenemos que se conserva el momento angular.
+    Cuando un problema físico presenta simetría traslacional, es decir, cuando las fuerzas que actúan sobre un sistema de partículas son idénticas en cualquier posición a lo largo de una línea, tenemos que en esa dirección se conserva el momento lineal.
+    La ley de conservación de la energía está asociada a una simetría de traslación en el tiempo. Cuando las ecuaciones básicas de un sistema son iguales en todos los instantes del tiempo y los parámetros que determinan el problema no dependen del tiempo, entonces la energía de dicho sistema se conserva.
+
+La mecánica lagrangiana puede generalizarse de forma muy abstracta e incluso ser usada en problemas fuera de la física (como en el problema de determinar las geodésicas de una variedad de Riemann). En esa forma abstracta la mecánica lagrangina se construye como un sistema dinámico sobre el fibrado tangente de cierto espacio de configuración aplicándose diversos teoremas y temas de la geometría diferencial.
+Mecánica hamiltoniana
+Artículo principal: Mecánica hamiltoniana
+Espacio de fases de un péndulo forzado. El sistema se hace caótico.
+
+La mecánica hamiltoniana es similar, en esencia, a la mecánica lagrangiana, aunque describe la evolución temporal de un sistema mediante ecuaciones diferenciales de primer orden, lo cual permite integrar más fácilmente las ecuaciones de movimiento. En su forma canónica las ecuaciones de Hamilton tienen la forma:
+
+    {\partial H \over \partial q_i} = - \dot{p_i}, \qquad {\partial H \over \partial p_i} = \dot{q_i}
+
+Donde H es la función de Hamilton o hamiltoniano, y (q_i, p_i)_{i=1...n} \, son los pares de coordenadas canónicas conjugadas del problema. Usualmente las variables tipo qi se interpretan como coordenadas generalizadas de posición y las pi como momentos asociados a las velocidades.
+
+Sin embargo, una característica notable de la mecánica hamiltoniana es que trata en pie de igualdad los grados de libertad asociados a la posición y a la velocidad de una partícula. De hecho en mecánica hamiltoniana no podemos distinguir formalmente entre coordenadas generalizadas de posición y coordenadas generaliadas de momento. De hecho se puede hacer un cambio de coordenadas en que las posiciones queden convertidas en momentos y los momentos en posiciones. Como resultado de esta descripción igualitaria entre momentos y posiciones la mecánica hamiltoniana admite transformaciones de coordenadas mucho más generales que la mecánica lagrangiana. Esa mayor libertad en escoger coordenadas generalizadas se traduce en una mayor capacidad para poder integrar las ecuaciones de movimiento y determinar propiedades de las trayectorias de partículas.
+
+Una generalización de la mecánica hamiltoniana es la geometría simpléctica, en esa forma la mecánica hamiltoniana es usada para resolver problemas no físicos, incluso para la matemática básica. Algunas generalizaciones y regeneralizaciones de la mecánica hamiltoniana son:
+
+    La geometría simpléctica.
+    La geometría de contacto que propiamente es una generalización de la anterior.
+    La mecánica de Nambu que es una especie de mecánica hamiltoniana con varios hamiltonianos simultáneos.1
+
+Véase también
+
+    Relatividad especial de Einstein
+    Mecánica cuántica
+    Teoría cuántica de campos
+
+Enlaces externos
+
+    Wikimedia Commons alberga contenido multimedia sobre Mecánica clásica.
+
+Referencias
+
+    Curtright, T.; Zachos, C. (2003). «Classical and quantum Nambu mechanics». Physical Review D68 (8): 085001. arXiv:hep-th/0212267. Bibcode:2003PhRvD..68h5001C. doi:10.1103/PhysRevD.68.085001.
+
+Bibliografía
+
+    Feynman, Richard (1996). Six Easy Pieces. Perseus Publishing. ISBN 0-201-40825-2.
+    Feynman, Richard; Phillips, Richard (1998). Six Easy Pieces. Perseus Publishing. ISBN 0-201-32841-0.
+    Feynman, Richard (1999). Lectures on Physics. Perseus Publishing. ISBN 0-7382-0092-1.
+    Landau, L. D.; Lifshitz, E. M. (1972). Mechanics and Electrodynamics, Vol. 1. Franklin Book Company, Inc. ISBN 0-08-016739-X.
+    Kleppner, D. and Kolenkow, R. J., An Introduction to Mechanics, McGraw-Hill (1973). ISBN 0-07-035048-5
+    Gerald Jay Sussman and Jack Wisdom, Structure and Interpretation of Classical Mechanics, MIT Press (2001). ISBN 0-262-019455-4
+    Herbert Goldstein, Charles P. Poole, John L. Safko, Classical Mechanics (3rd Edition), Addison Wesley; ISBN 0-201-65702-3
+    Robert Martin Eisberg, Fundamentals of Modern Physics, John Wiley and Sons, 1961
+    M. Alonso, J. Finn, "Fundamental university physics", Addison-Wesley
+
+Categorías:
+
+    Mecánica clásicaModelos y teorías aproximadas

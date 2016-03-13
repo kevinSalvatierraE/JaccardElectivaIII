@@ -1,0 +1,41 @@
+Óptica cuántica
+
+En física, la óptica cuántica es un campo de investigación que se ocupa la aplicación de la mecánica cuántica a fenómenos que implican la luz y sus interacciones con la materia.
+
+Índice
+
+    1 Óptica Cuántica
+    2 Historia de la óptica cuántica
+    3 Véase también
+    4 Enlaces externos
+
+Óptica Cuántica
+
+La Óptica cuántica es una rama de la física cuántica que estudia como se comportan los fotones, la partícula fundamental de las interacciones electromagnéticas Así mismo, estudia el comportamiento de los fotones para el uso en la trasmisión de información.
+Historia de la óptica cuántica
+
+La luz se compone de partículas llamadas fotones y por lo tanto intrínsecamente es "granulosa" (cuantizada); la óptica cuántica es el estudio de la naturaleza y los efectos de esto. La primera indicación de que la luz puede ser cuantizada vino de Max Planck en 1899 cuando modeló correctamente la radiación del cuerpo negro asumiendo que el intercambio de energía entre la luz y la materia solamente ocurría en cantidades discretas que él llamó cuantos. Era desconocida si la fuente de estas cantidades discretas era la materia o la luz. En 1905, Albert Einstein publicó la teoría del efecto fotoeléctrico. Parecía que la única explicación posible para el efecto fotoeléctrico era la existencia de partículas de luz llamadas fotones. Más adelante, Niels Bohr demostró que los átomos estaban también cuantizados, en el sentido que solamente podían emitir cantidades discretas de energía. La comprensión de la interacción entre la luz y la materia que siguieron después de estos desarrollos no solamente formaron la base de la óptica cuántica sino también fueron cruciales para el desarrollo de la mecánica cuántica como un todo. Sin embargo, los subcampos de la mecánica cuántica que se ocupaban de la interacción de la materia-luz fueron considerados principalmente más como investigación sobre la materia que sobre luz y por lo tanto, se hablaba más de la física atómica y la electrónica cuántica que sobre la óptica cuántica.
+
+Esto cambió con la invención del máser en 1953 y del láser en 1960. Con la ciencia del láser, es decir, la investigación de los principios, diseño y el uso de éstos dispositivos, la óptica cuántica se convirtió en un campo importante, y la mecánica cuántica que fundamenta los principios del láser fue estudiada ahora con más énfasis en las características de la luz, y así el nombre de óptica cuántica llegó a ser habitual.
+
+Como ciencia del láser necesitaba buenas fundaciones teóricas, y también porque la investigación aquí pronto probó ser muy fructuosa, el interés en la óptica cuántica se elevó. Después del trabajo de Dirac en la teoría cuántica de campos, George Sudarshan, Roy J. Glauber, y Leonard Mandel aplicaron en los años 1950 y los años 1960, la teoría cuántica al campo electromagnético, para ganar una comprensión más detallada de la fotodetección y las estadísticas de la luz (ver grado de coherencia). Esto condujo a la introducción del estado coherente como descripción cuántica de la luz láser y de la comprensión de que algunos estados de la luz no se podían describir con ondas clásicas. En 1977, Kimble y otros demostraron la primera fuente de luz que requería una descripción cuántica: un solo átomo que emitía un fotón a la vez. Ésta fue la primera evidencia concluyente de que la luz estaba compuesta de fotones. Pronto fue propuesta la luz comprimida, otro estado cuántico de la luz con ciertas ventajas sobre cualquier estado clásico. Al mismo tiempo, el desarrollo de pulsos de láser cortos y ultracortos, creados por técnicas de Q-switching y modelocking, abrieron el camino para el estudio de procesos inimaginablemente rápidos ("ultrarápidos"). Aplicaciones para la investigación de estado sólido (ej. espectroscopia Raman fueron encontrados, y fueron estudiadas las fuerzas mecánicas de la luz sobre la materia). La última condujo a la levitación y posicionamiento de nubes de átomos o aún de pequeñas muestras biológicas en una trampa óptica o pinzas ópticas??/sostenedores ópticos?? mediante rayo láser. Ésta, junto con el enfriamiento Doppler fue la tecnología crucial necesitada para alcanzar el celebrado condensado de Bose-Einstein.
+
+Otros resultados notables son la demostración del entrelazamiento cuántico, la teleportación cuántica, y recientemente, en 1995, las puertas lógicas cuánticas. Las últimas son de mucho ineterés en teoría de información cuántica, un tema que en parte emergió de la óptica cuántica, y en parte de la ciencia de la computación teórica.
+
+Hoy en día, Los campos de interés entre investigadores de la óptica cuántica incluyen la conversión paramétrica descendente, la oscilación paramétrica óptica, pulsos de luz todavía más cortos (attosegundo), uso de la óptica cuántica para la información cuántica, manipulación de átomos individuales, condensados de Bose-Einstein, sus aplicaciones, y cómo manipularlos (un subcampo frecuentemente llamado óptica atómica), y mucho más.
+
+La investigación en la óptica cuántica que apunta traer los fotones para el uso en la transmisión de información y la computación ahora es frecuentemente llamada fotónica para acentuar la reivindicación que los fotones y la fotónica tomarán el papel que los electrones y la electrónica tienen hoy en día.
+Véase también
+
+    Óptica
+    Física óptica
+    Luz neoclásica
+
+Enlaces externos
+
+    Wikimedia Commons alberga contenido multimedia sobre Óptica cuántica.
+    An introduction to quantum optics of the light field
+    Encyclopedia of laser physics and technology, with content on quantum optics (particularly quantum noise in lasers), by Rüdiger Paschotta.
+    Qwiki - A quantum physics wiki devoted to providing technical resources for practicing quantum physicists.
+    Quantiki - a free-content WWW resource in quantum information science that anyone can edit.
+    Various Quantum Optics Reports

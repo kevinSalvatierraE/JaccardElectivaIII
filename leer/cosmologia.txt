@@ -1,0 +1,187 @@
+Cosmología física
+Para otros usos de este término, véase Cosmología.
+Cosmología física
+
+Ilc 9yr moll4096.png
+(Radiación de fondo de microondas)
+Artículos
+Universo primitivo 	Teoría del Big Bang · Inflación cósmica · Nucleosíntesis primordial
+Expansión 	Expansión métrica del espacio · Expansión acelerada del Universo · Ley de Hubble · Corrimiento al rojo
+Estructura 	Forma del universo · Espacio-tiempo · Universo observable · Universo · Materia oscura · Energía oscura
+Experimentos 	Planck (satélite) · WMAP · COBE
+Científicos 	Albert Einstein · Edwin Hubble · Georges Lemaître · Stephen Hawking · George Gamow
+Portales
+Principal 	Cosmología
+Otros 	Física · Astronomía · Exploración espacial · Sistema Solar
+
+La cosmología física, es la rama de la astrofísica, que estudia la estructura a gran escala y la dinámica del Universo. En particular, trata de responder las preguntas acerca del origen, la evolución y el destino del Universo.
+
+La cosmología física, tal y como se comprende actualmente, comienza en el siglo XX con el desarrollo de la Teoría general de la relatividad de Albert Einstein y la mejora en las observaciones astronómicas de objetos extremadamente distantes. Estos avances hicieron posible pasar de la especulación a la búsqueda científica de los orígenes del universo y permitió a los científicos establecer la Teoría del Big Bang que se ha convertido en el modelo estándar mayoritariamente aceptado por los cosmólogos debido a el amplio rango de fenómenos que abarca y a las evidencias observacionales que lo apoyan, aunque todavía existe una minoría de investigadores que presenten otros puntos de vista basados en alguno de los modelos cosmológicos alternativos.
+
+La cosmología física trata de entender las grandes estructuras del universo en el presente como las galaxias, agrupaciones galácticas y supercúmulos, utilizar los objetos más distantes y energéticos (cuásares, supernovas y GRBs) para entender la evolución del universo y estudiar los fenómenos ocurridos en el universo primigenio cerca de la singularidad inicial (inflación cósmica, nucleosíntesis primordial y radiación de fondo de microondas).
+
+Índice
+
+    1 Historia de la física cosmológica
+    2 Áreas de estudio
+        2.1 Nucleosíntesis del Big Bang
+        2.2 Radiación de fondo de microondas
+        2.3 Formación y evolución de estructuras a gran escala
+        2.4 Materia oscura
+        2.5 Energía oscura
+        2.6 Otras áreas de investigación
+        2.7 Cosmología física alternativa
+    3 Referencias
+        3.1 Lecturas populares
+        3.2 Libros de texto
+    4 Enlaces externos
+        4.1 Grupos
+        4.2 Páginas personales
+
+Historia de la física cosmológica
+Véase también: Cronología de la cosmología
+
+La cosmología física se desarrolló como ciencia durante la primera mitad del siglo XX como consecuencia de los acontecimientos detallados a continuación:
+
+    1915-16. Albert Einstein formula la Teoría General de la Relatividad que será la teoría marco de los modelos matemáticos del universo. Al mismo tiempo formula el primer modelo matemático del universo conocido como Universo Estático donde introduce la famosa constante cosmológica y la hipótesis conocida como Principio Cosmológico que establece que universo es homogéneo e isótropo a gran escala, lo que significa que tiene la misma apariencia general observado desde cualquier lugar.
+    1916-1917. El astrónomo Willem de Sitter formula un modelo estático de universo vacío de materia con la constante cosmológica donde los objetos astronómicos alejados tenían que presentar corrimientos al rojo en sus líneas espectrales.
+    1920-21. Tiene lugar el Gran Debate entre los astrónomos Heber Curtis y Harlow Shapley que estableció la naturaleza extragaláctica de las nebulosas espirales cuando se pensaba que la Vía Láctea constituía todo el universo.
+    1922-24. El físico ruso Alexander Friedmann publica la primera solución matemática a las ecuaciones de Einstein de la Relatividad General que representan a un universo en expansión. En un artículo de 1922 publica la solución para un universo finito y en 1924 la de un universo infinito.
+    1929. Edwin Hubble establece una relación lineal entre la distancia y el corrimiento al rojo de las nebulosas espirales que ya había sido observado por el astrónomo Vesto Slipher en 1909. Esta relación se conocerá como Ley de Hubble.
+    1930. El sacerdote y astrónomo belga Georges Édouard Lemaître esboza su hipótesis del átomo primitivo donde sugería que el universo había nacido de un solo cuanto de energía.
+    1931. El colaborador de Hubble Milton Humason dio la interpretación de los corrimientos al rojo como efecto Doppler debido a la velocidad de alejamiento de las nebulosas espirales.
+    1933. El astrónomo suizo Fritz Zwicky publicó un estudio de la distribución de las galaxias sugiriendo que las galaxias estaban permanente ligadas por su mutua atracción gravitacional. Zwicky señaló sin embargo que no bastaba la cantidad de masa realmente observada en la forma de las galaxias para dar cuenta de la intensidad requerida del campo gravitatorio. Se introducía así el problema de la materia oscura
+    1948. Herman Bondi, Thomas Gold y Fred Hoyle proponen el Modelo de Estado Estacionario donde el universo no sólo tiene las misma apariencia a gran escala visto desde cualquier lugar, sino que la tiene vista en cualquier época.
+    1948. George Gamow y Ralph A. Alpher publican un artículo donde estudian las síntesis de los elementos químicos ligeros en el reactor nuclear que fue el universo primitivo, conocida como nucleosíntesis primordial. En el mismo año, el mismo Alpher y Robert Herman mejoran los cálculos y hacen la primera predicción de la existencia de la Radiación de fondo de microondas.
+    1965. Arno Penzias y Bob Wilson de los laboratorios Bell Telephone descubren la señal de radio que fue rápidamente interpretada por el grupo de teóricos de Princeton liderados por Robert Dicke como la Radiación de fondo de microondas. Esta observación descartó Modelo de Estado Estacionario y afianzó el modelo del Big Bang
+    1981. Alan Guth propone el escenario de universo con una tasa tremenda de expansión en sus primeros instantes conocido como inflación cósmica.
+    1990. Los resultados preliminares del satélite COBE muestra que el espectro de la Radiación de fondo de microondas es el de un cuerpo negro a 2,7 kelvin con una precisión de una parte en cien mil.
+    1998. Un grupo de astrónomos liderado por Adam Riess y Saul Perlmutter descubren la Aceleración de la expansión del universo mediante el estudio de supernovas de tipo Ia, lo que constituye la primera evidencia observacional de la existencia de una constante cosmológica o de un campo escalar más general conocido como energía oscura.
+    2003. La sonda WMAP --sucesora de COBE-- obtiene un espectro de la Radiación de fondo de microondas más preciso, que confirma las observaciones que se habían realizado hasta la fecha por numerosos experimentos que favorecen con gran precisión un universo de materia oscura fría dominado por una constante cosmológica y con una edad de 13700 millones de años, con una precisión de 200 millones de años arriba o abajo.
+    2013. La misión Planck obtiene los resultados más precisos hasta la fecha, con una estimación de un 68,3% de energía oscura, un 26,8% de materia oscura y un 4,9% de materia ordinaria, y una edad del universo de unos 13810 millones de años, con una precisión de 50 millones de años arriba o abajo.
+
+Áreas de estudio
+
+Debajo se describen algunas de las áreas más activas de investigación en cosmología, en orden cronológico. Estas no incluyen todo sobre la cosmología del Big Bang, que se presenta en la cronología del Big Bang
+Nucleosíntesis del Big Bang
+Artículo principal: Nucleosíntesis primordial
+
+La Nucleosíntesis del Big Bang es la teoría de la formación de los elementos en el Universo primigenio. Acaba cuando el Universo tiene tres minutos de edad y su temperatura cae lo suficiente como para que cese la fusión nuclear. Este tiempo en el que ocurrió la nucleosíntesis del big bang fue tan corto, que sólo se produjeron los elementos más ligeros, a diferencia de la nucleosíntesis estelar. Empezando desde los iones de hidrógeno (protones), se produjo principalmente deuterio, helio y litio. Los otros elementos se produjeron en sólo pequeñas cantidades. Mientras que la teoría básica de la nucleosíntesis ha sido aceptada durante décadas (fue desarrollada por George Gamow, Ralph Asher Alpher y Robert Herman). es una prueba física extremadamente delicada del big bang en la actualidad, ya que la teoría de la nucleosíntesis conecta la abundancia de los elementos ligeros primordiales con las características del Universo primigenio. Específicamente, se puede utilizar para comprobar el principio de equivalencia, la materia oscura y la física del neutrino. Algunos cosmólogos han propuesto que la nucleosíntesis del big bang sugiere la existencia de cuatro especies "estériles" de neutrino.
+Radiación de fondo de microondas
+Artículo principal: Radiación de fondo de microondas
+
+El fondo cósmico de microondas es la radiación sobrante del desacople, cuando los átomos se formaron por primera vez, y la radiación producida en el Big Bang parada por la difusión de Thomson de iones cargados. La radiación observada por primera vez en 1965 por Arno Penzias y Robert Woodrow Wilson, tenía un espectro de cuerpo negro térmico perfecto. Tiene una temperatura de 2.7 kelvins y es anisótropo en una parte de 105. La Teoría perturbacional cosmológica, que describe la evolución de ligeras inhomogeneidades en el universo primigenio, ha permitido a los cosmólogos calcular de manera precisa la densidad espectral angular de la radiación y ha sido medida por los recientes satélites de experimentación (COBE y WMAP) y muchos asuntos y experimentos basados en globos (como el DASI, el CBI y el Experimento BOOMERanG). Uno de los objetivos de estos esfuezos es medir los parámetros del Modelo Lambda-CDM con un incremento de precisión, así como comprobar las predicciones del modelo del Big Bang y las búsquedas de los nuevos físicos. Las recientes medidas hechas por WMAP, por ejemplo, han acotado la masa del neutrino.
+
+Los nuevos experimentos, como los del Telescopio Cosmológico de Atacama están intentando medir la polarización del fondo cósmico de microondas, que proporcionará más confirmaciones de la teoría así como información sobre la inflación cósmica y las conocidas como anisotropías secundarias, como el efecto Siunyáiev-Zeldóvich y el efecto Sachs-Wolfe, que son causados por la interacción entre galaxias y agrupaciones galácticas con el fondo cósmico de microondas.
+Formación y evolución de estructuras a gran escala
+Artículos principales: Estructura a gran escala del universo, Formación estructural y Formación y evolución de galaxias.
+
+Comprendiendo la formación y evolución de las estructuras más grandes y primigenias (p.ej. cuásares, galaxias, agrupaciones galácticas y supercúmulos) es uno de los mayores esfuerzos en cosmología. Los cosmólogos estudian un modelo de formación jerárquica estructural en el que las estructuras se forman desde el fondo, con pequeños objetos primero, después con grandes objetos, como los supercúmulos se siguen formando. El camino más sencillo para estudiar la estructura del Universo es observar las galaxias visibles, para constuir un dibujo tri-dimensional de las galaxias en el Universo y medir la densidad espectral de materia. Esta es la aproximación del Sloan Digital Sky Survey y del 2dF Galaxy Redshift Survey.
+
+Una herramienta importante para comprenden la formación estructural son las simulaciones, que los cosmólogos utilizan para estudiar las sumas gravitacionales de materia en el Universo, como se agrupan en filamentos, supercúmulos y vacíos. Muchas simulaciones contienen sólo materia oscura fría no bariónica, que debería ser suficiente para comprender el Universo en las escalas más grandes, ya que hay mucha más materia oscura en el Universo que materia visible bariónica. Muchas simulaciones avanzadas están empezando a incluir bariones y estudiar la formación de galaxias individuales. Los cosmólogos estudian estas simulaciones para ver si concuerdan con sus investigaciones y comprenden cualquier discrepancia.
+
+Otras técnicas complementarias permitirán a los cosmólogos medir la distribución de materia en el Universo distante y probar la reionización. Estas técnicas son:
+
+    El bosque Lyman-alfa, que permite a los cosmólogos medir la distribución de un átomo de gas hidrógeno neutro en el universo primigenio, midiendo la absorción de luz desde cuásares distantes debido al gas.
+    La línea de adsorción de 21 centímetros de átomos de hidrógenos neutros también proporciona una prueba sensible en cosmología.
+    Lentes débiles, la distorsión de una imagen distante por lentes gravitacionales debido a la materia oscura.
+
+Esto ayudará a los cosmólogos a decidir la pregunta de cuando se formó el primer cuásar.
+Materia oscura
+Artículo principal: Materia oscura
+
+Las pruebas de la nucleosíntesis Big Bang, la radiación de fondo de microondas y las formaciones estructurales sugieren que el 23 % de la masa del Universo consiste en materia oscura no bariónica, donde sólo el 4 % es materia bariónica visible. Los efectos gravitacionales de la materia oscura están bien comprendidos, ya que se comporta como el polvo frío no radiativo que se forma alrededor de halos alrededor de galaxias. La materia oscura nunca ha sido detectada en laboratorio: la naturaleza de la física de partículas de la materia oscura es completamente desconocida. Sin embargo, hay varios candidatos, como una partícula supersimétrica, una WIMP, un axión, un MACHO o incluso una modificación de la gravedad con pequeñas aceleraciones (MOND) o un efecto de la cosmología de branas.
+
+La física en el centro de las galaxias (ver Galaxia activa y Agujero negro supermasivo) puede dar algunas pistas sobre la naturaleza de la materia oscura.
+Energía oscura
+Artículo principal: Energía oscura
+
+Si el Universo fuera plano, tendría que haber un componente adicional formando el 73% (además del 23% de materia oscura y el 4% de bariónica) de la densidad del universo. Este componente es llamado energía oscura. Para no interferir con la nucleosíntesis del Big Bang y la radiación de fondo de microondas, no puede agruparse en halos como los bariones y la materia oscura. Hay fuertes pruebas observacionales para la energía oscura, como la masa total del Universo es conocida y se mide que es plano, pero la suma de materia agrupada es medida ajustadamente y es mucho menor que esta. El caso de la energía oscura fue reforzado en 1999, cuando las medidas demostraron que la expansión del Universo estaba acelerando, más rápido que durante la inflación cósmica.
+
+Sin embargo, aparte de su densidad y sus propiedades de agrupación, nada se conoce sobre la energía oscura. La teoría cuántica de campos predice una constante cosmológica junto con la energía oscura, pero 120 órdenes de magnitud más grande. Steven Weinberg y varios teóricos de cuerdas (ver paisaje de cuerdas) han usado esta prueba para el principio antrópico, que sugiere que la constante cosmológica es tan pequeña porque la vida (y de esta manera los físicas que hacen observaciones) no pueden existir en un Universo con una gran constante cosmológica, pero mucha gente encuentra que esta es una explicación insatisfactoria. Otras posibles explicaciones para la energía oscura son la quintaesencia o una modificación de la gravedad en escalas grandes. El efecto en cosmología de la energía oscura que estos modelos describen es dada por la ecuación de estado de la energía oscura, que varía dependiendo de la teoría.La naturaleza de la energía oscura es uno de los problemas más desafiantes en cosmología.
+
+Una mejor comprensión de la energía oscura es como resolver el problema del destino último del Universo. En la época cosmológica actual, la expansión acelerada debida a la energía oscura previene la formación de estructuras más grandes que los supercúmulos. No es conocido si la aceleración continuará indefinidamente, tal vez incluso incrementándose y causando un Big Rip o si eventualmente se revertirá.
+Otras áreas de investigación
+
+Los cosmólogos también estudian:
+
+    Si los agujeros negros primordiales se formaron en nuestro Universo y qué les ocurre.
+    El límite GZK para rayos cósmicos de alta energía y si señala un fallo de relatividad especial de alta energía.
+    El principio de equivalencia y si la Teoría general de la relatividad de Einstein es la teoría correcta para la gravedad y si las leyes de la física fundamentales son las mismas en cualquier parte del Universo.
+
+Cosmología física alternativa
+
+Se entiende por cosmología alternativa todas aquellas teorías, modelos o ideas cosmológicas que contradicen el modelo estándar de cosmología:
+
+    Ambiplasma, una cosmología de plasma
+    Expansión cósmica en escala de C. Johan Masreliez
+        Luz cansada
+    MOND de Mordehai Milgrom
+    Cosmología de branas
+        Modelo de Randall-Sundrum
+    Modelo cíclico
+
+Referencias
+Lecturas populares
+
+    Stephen Hawking (1988). Historia del Tiempo: Del big bang a los agujeros negros. Grijalbo. ISBN 968-419-815-9.
+    Stephen Hawking (2002). El universo en una cáscara de nuez. Critica. ISBN 848-432-293-9.
+    Stephen Hawking y Leonard Mlodinow (2005). Brevísima Historia del Tiempo. Critica. ISBN 848-432-637-3.
+    Simon Singh (2005). Big bang: the origins of the universe. Fourth Estate. ISBN 0-00-716221-9.
+    Steven Weinberg (1999). Los tres primeros minutos del universo. Alianza. ISBN 84-206-6730-7.
+    Brian Greene (2005). La fábrica del cosmos. Crítica. ISBN 84-8432-737-X.
+    Alan Guth (1997). The Inflationary Universe: The Quest for a New Theory of Cosmic Origins. Random House. ISBN 0-224-04448-6.
+    Michio Kaku (1994). Hiperespacio. Crítica. ISBN 8474237475.
+
+Libros de texto
+
+    Cheng, Ta-Pei (2005). Relativity, Gravitation and Cosmology: a Basic Introduction. OUP. ISBN 0-19-852957-0. La cosmología es introducida en el marco de la relatividad general, pero sin los tensores al completo, que son presentados en la última parte del libro.
+    Scott Dodelson (2003). Modern Cosmology. Academic Press. ISBN 0-12-219141-2. Publicado poco antes de los resultados del WMAP, este es el libro de texto introductorio más moderno.
+    Edward Harrison (2000). Cosmology: the science of the universe. Cambridge University Press. ISBN 0-521-66148-X. Un libro de texto con pocas matemáticas.
+    Marc Kutner (2003). Astronomy: A Physical Perspective. Cambridge University Press. ISBN 0-521-52927-1. Un libro de texto de introducción a la astronomía.
+    Edward Kolb y Michael Turner (1988). The Early Universe. Addison-Wesley. ISBN 0-201-11604-9. Clásico de referencia para los cosmólogos.
+    Andrew Liddle (2003). An Introduction to Modern Cosmology. John Wiley. ISBN 0-470-84835-9. Una introducción a la cosmología sin relatividad general.
+    Andrew Liddle y David Lyth (2000). Cosmological Inflation and Large-Scale Structure. Cambridge. ISBN 0-521-57598-2. Una introducción a la cosmología con una discusión sobre inflación.
+    Viatcheslav Mukhanov (2005). Physical Foundations of Cosmology. Cambridge University Press. ISBN 0-521-56398-4.
+    Padmanabhan, T. (1993). Structure formation in the universe. Cambridge University Press. ISBN 0-521-42486-0. Describe la formación de estructuras de gran escala en detalle.
+    John Peacock (1998). Cosmological Physics. Cambridge University Press. ISBN 0-521-42270-1. Una introducción con más fondo en relatividad general y teoría cuántica que otros.
+    P. J. E. Peebles (1993). Principles of Physical Cosmology. Princeton University Press. ISBN 0-691-01933-9. El libro de Peebles tiene un gran enfoque histórico.
+    P. J. E. Peebles (1980). The Large-Scale Structure of the Universe. Princeton University Press. ISBN 0-691-08240-5. El trabajo clásico en estructuras de gran escala, en particular la discusión de las funciones de correlación.
+    Martin Rees (2002). New Perspectives in Astrophysical Cosmology. Cambridge University Press. ISBN 0-521-64544-1.
+    Steven Weinberg (1971). Gravitation and Cosmology. John Wiley. ISBN 0-471-92567-5. Un libro antiguo, pero sigue siendo una referencia estándar para un montón de formalismos matemáticos.
+
+Enlaces externos
+Grupos
+
+En Español:
+
+    Modelo Cosmológico Estándar
+
+En inglés:
+
+    Cambridge Cosmology - de la Universidad de Cambridge
+    Cosmology 101 - del grupo WMAP de la NASA
+    Origins, Nova Online - Proporcionado por el PBS.
+    Cosmología -- Cosmología del Universo
+    Centro de Cosmologís Física. Universidad de Chicago, Chicago, Illinois.
+    Dictionario de la Historia de las Ideas:
+        Imágenes Cósmicas
+        Cosmología desde la Antigüedad hasta 1850
+        Cosmología desde 1850
+    Cosmos - un Periódico Dimensinal Ilustrado desde el microcosmos hasta el macrocosmos - de la DNA Digital Nature Agency
+    Buscador AstroFind - Motor de Búsqueda para Cosmología y Astronomía
+    'El Matemático que no Podía Sumar por Emma King Cosmóloga video del Vega Science Trust.
+
+Páginas personales
+
+En inglés:
+
+    Carroll, Sean. "Cosmology Primer". Instituto de Tecnología de California.
+    Gale, George, "Cosmología: Debates Metodológicos en los años 1930 y 1940", The Stanford Encyclopedia of Philosophy, Edward N. Zalta (ed.)
+    Hoiland, Paul, "Examen de la Cosmología Moderna"Meditando sobre la Evolución del Cosmos Gouldsboro, Maine.
+    Jordan, Thomas F., "Cálculos cosmológicos casi sin relatividad general". (arXiv.org)
+    Madore, Barry F., "Level 5 : Una base de conocimiento para Astronomía Extragaláctica y Cosmología". Caltech y Carnegie. Pasadena, California, USA.
+    Smith, Tony, "Cosmología -- En el Millennium, las observaciones Experimentales nos dicen mucho sobre Cosmología".
+    Tyler, Pat y Phil Newman "Más allá de Einstein". Laboratorio para Astrofísica de Alta Energía (LHEA) NASA Goddard Space Flight Center.
+    Wright, Ned. "Tutorial de Cosmología y FAQ". División de Astronomía y Astrofísica de UCLA.
+    Scientific American Magazine (Febrero de 2004) Four Keys to Cosmology Sobre aceleración.

@@ -1,0 +1,164 @@
+Teoría de campo de gauge
+Cromodinámica cuántica como teoría gauge, basada en el grupo SU(3). Cada tipo de quark (u o d en la imagen) posee tres «copias» de distinto «color». Los gluones actúan como bosón intermediario entre partículas con color (como un fotón entre partículas con carga eléctrica).
+
+En física, una teoría de campo gauge (o teoría de gauge o teoría de "recalibración") es un tipo de teoría cuántica de campos que se basa en el hecho de que la interacción entre fermiones puede ser vista como el resultado de introducir transformaciones "locales" pertenecientes al grupo de simetría interna en el que se base la teoría gauge. Las teorías de gauge se discuten generalmente en el lenguaje matemático de la geometría diferencial e involucran el uso de transformaciones de gauge. Una transformación de gauge es una transformación de algún grado de libertad interno, que no modifica ninguna propiedad observable física.
+
+Un campo gauge es un campo de Yang-Mills asociado a las transformaciones de gauge asociadas a la teoría y que describe la interacción física entre diferentes campos fermiónicos. Por ejemplo el campo electromagnético es un campo de gauge que describe el modo de interactuar de fermiones dotados con carga eléctrica.
+
+Índice
+
+    1 Introducción
+        1.1 Formulación matemática
+        1.2 Mecanismo de Higgs
+    2 Formulación matemática
+        2.1 Conexiones
+        2.2 Transformaciones infinitesimales
+        2.3 Lagrangiano de una teoría gauge
+        2.4 Bucle de Wilson
+        2.5 Formas de Chern-Simons
+    3 Ejemplos de teorías de campo de gauge
+    4 Véase también
+    5 Referencias
+        5.1 Bibliografía
+        5.2 Enlaces externos
+
+Introducción
+
+En física, las teorías extensamente aceptadas del modelo estándar son teorías de campo de gauge. Esto significa que los campos en el modelo estándar exhiben alguna simetría interna abstracta conocida como invariancia de gauge. La invariancia gauge significa que el lagrangiano que describe el campo es invariante bajo la acción de un grupo de Lie que se aplica sobre las componentes de los campos. Cuando se aplica la misma transformación a todos los puntos del espacio, se dice que la teoría tiene invariancia gauge global. Las teorías de gauge usan lagrangianos, tales que en cada punto del espacio es posible aplicar transformaciones o "rotaciones" ligeramente diferentes y aun así el lagrangiano es invariante, en ese caso se dice que el lagrangiano presenta también invariancia de gauge local. Es decir, un lagrangiano con simetría gauge local permite escoger ciertos grados de libertad internos de una manera en una región del espacio y de otra en otra región del espacio suficientemente alejada sin afectar a la primera región. La posibilidad de que un lagrangiano admita esta transformación más general puede ser visto como una versión generalizada del principio de equivalencia de la teoría de la relatividad general.
+
+Desde el punto de vista físico, los campos de gauge se manifiestan físicamente en forma de partículas bosónicas sin masa (bosones gauge), por lo que se dice que todos los campos de gauge son mediados por el grupo de bosones de gauge sin masa de la teoría.
+Formulación matemática
+
+Para formular una teoría de campo gauge es necesario que la dinámica de los campos fermiónicos de la teoría venga descrita por un lagrangiano que tenga alguna simetría interna "local" dada por un grupo de Lie, llamado grupo de transformaciones de gauge. Así pues, al "rotar" algo en cierta región, no se determina cómo los objetos rotan en otras regiones (se usa el término "rotar" porque los grupos de gauge más frecuentes son SU(2) y SU(3) que son generalizaciones del grupo de rotaciones ordinarias). Físicamente una transformación de gauge es una transformación de algún grado de libertad que no modifica ninguna propiedad física observable. Las dos características formales que hacen de un campo un campo gauge son:
+
+    Los campos gauge aparecen en el lagrangiano que rige la dinámica del campo en forma de conexión, por tanto, matemáticamente están asociadas a 1-formas que toman valores sobre una cierta álgebra de Lie.
+    El campo de gauge puede ser visto como el resultado de aplicar a diferentes puntos del espacio diferentes transformaciones dentro del grupo de simetría asociado a los campos fermiónicos de la teoría.
+
+Mecanismo de Higgs
+
+Aunque en el modelo estándar todas las interacciones o fuerzas básicas exhiben algún tipo de simetría de gauge, esta simetría no es siempre obvia en los estados observados. A veces, especialmente cuando la temperatura disminuye, la simetría se rompe espontáneamente, es decir, ocurre el fenómeno conocido como ruptura espontánea de la simetría. Un ejemplo básico de la simetría rota que se da a menudo es una de estado sólido imán. Se compone de muchos átomos, cada uno de las cuales tiene un momento magnético dipolar. Sin embargo, las leyes del magnetismo son rotacionalmente simétricas, y es así que en las altas temperaturas, los átomos estarán alineados aleatoriamente, y la simetría rotatoria será restaurada. Semejantemente, se puede, con las condiciones apropiadas, enfriar agua bajo la temperatura de solidificación. Cuando un cristal de hielo se tira en el líquido, la simetría es rota y el agua solidifica inmediatamente.
+
+Para dar cuenta de estos hechos de ruptura de la simetría, se ha propuesto el mecanismo de Higgs. Si en el lagrangiano de la interacción o "campo de fuerzas" concreto que está siendo estudiado se introducen cierto tipo de campos escalares que interactúan consigo mismo, en el límite de bajas energías los bosones gauge se comportan como si estuvieran dotados de masa; este efecto es precisamente el mecanismo de Higgs. En otras palabras el mecanismo de Higgs puede ser interpretado pensando que la interacción entre el campo escalar introducido o campo de Higgs y los bosones gauge, hace que estos "adquieran" masa, es decir, presenten interacciones como las que presentarían genuinas partículas con masa.
+Formulación matemática
+Artículo principal: Campo de Yang-Mills
+
+En una teoría de campo de gauge, una transformación de gauge es una aplicación diferenciable:
+
+    (*)T_g:\mathcal{M}\to \mathcal{G}_{sym}
+
+Donde:
+
+    \mathcal{M}, es espacio-tiempo, o variedad diferenciable, donde aparece el campo.
+    \mathcal{G}_{sym}, es un grupo de Lie o grupo de simetría del campo, es decir, es un grupo de transformaciones que dejan invariable el lagrangiano que define la dinámica del campo. Este grupo se suele llamar grupo de transformaciones de gauge del campo.
+
+Matemáticamente podemos tratar convenientemente una teoría de gauge como una conexión definida sobre un fibrado principal definido sobre el espacio-tiempo \scriptstyle \mathcal{M}, más precisamente el fibrado puede definirse como el espacio topológico cociente de cartas locales:
+
+    F = (\cup_i U_i\times\R^k)/\mathcal{R}, \qquad (x,v)\mathcal{R}(x,\rho_{ij}(v)),\
+
+Donde:
+
+    (x,v)\in U_i\times\R^k es una carta local
+    (x,\rho_{ij}(v)) \in U_j\times\R^k es otra carta local
+    \R^k es el espacio vectorial que hace de fibra, para las teorías gauge más comunes k = 2 ó 3 (y en algunas teorías de gran unificación k puede llegar a ser 9 o 10).
+    \rho_{ij}: U_i \cap U_j \to GL(\R^k) son aplicaciones que para cada solape entre cartas locales dan el cambio de coordenadas sobre las fibras.
+
+En la construcción anterior de fibrado principal el espacio base será el espacio-tiempo será \mathcal{M} y la "fibra" será el espacio vectorial \scriptstyle \R^k. El grupo de gauge de la teoría es un grupo de Lie \mathcal{G}_{sym}\sub GL(\R^k). Hecha esta construcción una transformación de gauge es precisamente una sección diferenciable del anterior fibrado principal. Es decir una aplicación como (*) que a cada punto del espacio le asigna un elemento del grupo de Lie que representa la simetría gauge. Una transformación de gauge global sería una aplicación como esa que a todos los puntos del espacio-tiempo les asignara la misma transformación, mientras que un lagrangiano con invariancia gauge local es uno tal que si en cada punto del espacio se elige una transformación diferente, y por tanto (*) es lo más general posible, entonces el lagrangiano no cambia.
+
+Físicamente una transformación de gauge es una transformación de algún grado de libertad interno que no modifica ninguna propiedad observable física. El número de grados de libertad internos es el mismo k que aparece en la definición anterior.
+Conexiones
+
+Técnicamente el campo de gauge asociado a una teoría gauge, aparece en el modelo matemático como una conexión sobre el fibrado principal anteriormente definido. Concretamente a partir las componentes de la 1-forma \mathbf{A} que toma valores en el álgebra de Lie asociada al grupo de gauge, pueden calcularse el conjunto de componentes físicas que caracterizan el campo de gauge. Propiamente el campo de gauge es un campo de Yang-Mills obtenido a partir de la 2-forma \mathbf{F} dada por:
+
+    \mathbf{F} = d\mathbf{A} + \frac{1}{2}\mathbf{A} \land \mathbf{A}
+
+Donde d es la derivada exterior y \land es producto exterior (o producto cuña).
+Transformaciones infinitesimales
+
+Una transformación de gauge infinitesimal es similar a una transformación de gauge ordinaria, pero en la definición se substituye el grupo de gauge por su álgebra de Lie asociada:
+
+    T_\varepsilon:\mathcal{M}\to \mathfrak{g}_{sym}
+
+Donde:
+
+    \mathcal{M}, es espacio-tiempo, o variedad diferenciable, donde aparece el campo.
+    \mathfrak{g}_{sym}, es el álgebra de Lie correspondiente al grupo de gauge \mathcal{G}_{sym}. Esta definición puede extenderse a cualquier elemento sobre un fibrado tangente al espacio-tiempo, de tal modo que están definidas las transformaciones de gauge infinitesiamales de cualquier tipo de campo espinorial o tensorial.
+
+Las transformaciones de gauge inifinitesimales definen el número de campos bosónicos de la teoría y la forma en que estos intereactúan. El conjunto de todas las transformaciones de gauge infinitesimales forman un álgebra de Lie, que se caracterizada por un escalar diferenciable a valores en un álgebra de Lie, e. Bajo tal transformación de gauge infinitesimal:
+
+    \mathbf{A}\mapsto \mathbf{A}+\delta_\varepsilon\mathbf{A} \qquad \mbox{con}\ \delta_\varepsilon\mathbf{A} := [\varepsilon, \mathbf{A}] - d\varepsilon
+
+Donde [·,·] es el corchete de Lie. Estas tansformaciones infinitesimales tienen varias propiedades interesantes:
+
+    Las transformaciones de gauge infinitesimales conmutan con la derivada covariante definida por la conexión: \scriptstyle \delta_\varepsilon X = \varepsilon X\ \rightarrow \quad \delta_\varepsilon(\mathbf{D}_\alpha X) = \varepsilon\mathbf{D}_\alpha X, donde \scriptstyle \mathbf{D}_\alpha = \part_\alpha + \mathbf{A}_\alpha es la derivada covariante.
+    También, \scriptstyle \delta_\varepsilon \mathbf{F} = \varepsilon \mathbf{F}, que significa que \scriptstyle \mathbf{F} se transforma covariantemente.
+    No todas las transformaciones de gauge pueden ser generadas por transformaciones infinitesimales de gauge en general; por ejemplo, cuando la variedad de base es una variedad compacta sin borde tal que la clase de homotopía de funciones de esa variedad al grupo de Lie es no trivial, un ejemplo de ello son los instatones.
+
+Lagrangiano de una teoría gauge
+
+La integral de acción calculada a partir del lagrangiano del campo de Yang-Mills está dada por:
+
+    S_{YM} = \int_\mathcal{M} \mathcal{L}_{YM}(\mathbf{F}(\mathbf{x}),\mathbf{x}) \left(\sqrt{|g|} dx^1\land ...\land dx^n\right) = \frac{1}{4g^2} \int_\mathcal{M} Tr[*\mathbf{F}(\mathbf{x})\wedge \mathbf{F}(\mathbf{x})]\ d^4\mathbf{x}
+
+Donde *\, designa el operador dual de Hodge y la integral se define como la integral de un n-forma proporcional al elemento de volumen de la variedad de Riemann que define el espacio-tiempo.
+Bucle de Wilson
+
+Una cantidad que es invariante bajo transformaciones de gauge es el bucle de Wilson, que se define sobre cualquier trayectoria cerrada, ?, como sigue:
+
+    \chi^{(\rho)}(\mathcal{P}\{e^{\int_\gamma A}\})
+
+donde ? es un carácter de una representación compleja; y \mathcal{P} representa al operador de trayectoria ordenada. En las teorías de las interacciones electrodébil y fuerte del modelo estándar de la física de partículas, Lagrangianos de bosones, que medían interacciones entre los fermiones, son invariantes bajo transformaciones de gauge. Esta es la razón por la cual estos bosones se llaman bosones de gauge.
+Formas de Chern-Simons
+
+Ver Chern-Simons.
+Ejemplos de teorías de campo de gauge
+
+    Electrodinámica cuántica
+    Modelo electrodébil
+    Modelo estándar
+
+Véase también
+
+    Ruptura espontánea de simetría electrodébil
+    Campo de Yang-Mills
+
+Referencias
+Bibliografía
+
+Libros
+
+    Bromley, D.A. (2000). Gauge Theory of Weak Interactions. Springer. ISBN 3-540-67672-4.
+    Cheng, T.-P.; Li, L.-F. (1983). Gauge Theory of Elementary Particle Physics. Oxford University Press. ISBN 0-19-851961-3.
+    Frampton, P. (2008). Gauge Field Theories (3rd edición). Wiley-VCH.
+    Kane, G.L. (1987). Modern Elementary Particle Physics. Perseus Books. ISBN 0-201-11749-5.
+    Schumm, Bruce (2004) Deep Down Things. Johns Hopkins University Press. Esp. chpt. 8. A serious attempt by a physicist to explain gauge theory and the Standard Model with little formal mathematics.
+
+Artículos
+
+    Becchi, C. (1997). Introduction to Gauge Theories. arXiv:hep-ph/9705211. Bibcode:1997hep.ph....5211B.
+    Gross, D. (1992). «Gauge theory – Past, Present and Future». Archivado desde el original el 24 de noviembre de 2015. Consultado el 23 de abril de 2009.
+    Jackson, J.D. (2002). «From Lorenz to Coulomb and other explicit gauge transformations». Am.J.Phys 70: 917–928. arXiv:physics/0204034. Bibcode:2002AmJPh..70..917J. doi:10.1119/1.1491265.
+    Svetlichny, George (1999). Preparation for Gauge Theory. arXiv:math-ph/9902027. Bibcode:1999math.ph...2027S.
+
+Enlaces externos
+
+    George Svetlichny
+
+Categorías:
+
+    Teoría cuántica de camposFísica nuclear y de partículasSimetría en física
+
+Menú de navegación
+
+    No has iniciado sesión
+    Discusión
+    Contribuciones
+    Crear una cuenta
+    Acceder
+
+    Artículo
+    Discusión
+
+    Leer
+    Editar
+    Ver historial
+
